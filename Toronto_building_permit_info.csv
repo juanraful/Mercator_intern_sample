@@ -1,0 +1,2372 @@
+,Application#,Application Type,Date,Status,ProjectName
+0,23 123503 SGN 00,Sign Permit,"Mar 15, 2023",Not Started,12 ALEXANDER ST
+1,23 123503 DST 00,Designated Structures,"Mar 15, 2023",Not Started,12 ALEXANDER ST
+2,19 154063 HVA 00,Mechanical(MS),"May 17, 2019",Inspection,12 ALEXANDER ST
+3,19 154063 PLB 00,Plumbing(PS),"May 17, 2019",Inspection,12 ALEXANDER ST
+4,19 154063 BLD 00,Building Additions/Alterations,"May 15, 2019",Inspection,12 ALEXANDER ST
+5,17 128181 PSA 00,Plumbing(PS),"Mar 13, 2017",Inspection,12 ALEXANDER ST
+0,22 120966 BLD 00,Building Additions/Alterations,"Mar 15, 2022",Permit Issued,40-50 ALEXANDER ST
+0,22 173864 BLD 00,Building Additions/Alterations,"Jul 12, 2022",Inspection,40 ALEXANDER ST
+1,19 151748 BLD 00,Building Additions/Alterations,"May 9, 2019",Inspection,40 ALEXANDER ST
+2,16 126550 BLD 01,Building Additions/Alterations,"Apr 11, 2017",Revision Issued,40 ALEXANDER ST
+3,15 193454 BLD 01,Building Additions/Alterations,"May 26, 2016",Revision Issued,40 ALEXANDER ST
+4,16 126550 BLD 00,Building Additions/Alterations,"Mar 11, 2016",Inspection,40 ALEXANDER ST
+5,16 126550 PLB 00,Plumbing(PS),"Mar 11, 2016",Inspection,40 ALEXANDER ST
+6,15 193454 BLD 00,Building Additions/Alterations,"Jul 20, 2015",Inspection,40 ALEXANDER ST
+0,19 151748 BLD 00,Building Additions/Alterations,"May 9, 2019",Inspection,50 ALEXANDER ST
+0,22 168119 TPS 00,Temporary Structures,"Jun 27, 2022",Permit Issued,70 ALEXANDER ST
+1,16 189428 FSU 00,Fire/Security Upgrade,"Jul 21, 2016",Permit Issued,70 ALEXANDER ST
+0,19 134954 HVA 00,Mechanical(MS),"May 22, 2019",Inspection,83 ALEXANDER ST
+1,19 134954 PLB 00,Plumbing(PS),"May 22, 2019",Inspection,83 ALEXANDER ST
+2,19 134954 BLD 00,Building Additions/Alterations,"Apr 3, 2019",Inspection,83 ALEXANDER ST
+0,20 121557 FSU 00,Fire/Security Upgrade,"Apr 16, 2020",Inspection,88 ALEXANDER ST
+0,17 161360 BLD 00,Building Additions/Alterations,"Jun 5, 2017",Inspection,100 ALEXANDER ST
+0,22 239600 BLD 00,Small Residential Projects,"Dec 15, 2022",Permit Issued,5 ANCROFT PL
+0,22 226688 HVA 00,Mechanical(MS),"Nov 14, 2022",Permit Issued,6 ANCROFT PL
+1,22 226688 BLD 00,Small Residential Projects,"Nov 8, 2022",Inspection,6 ANCROFT PL
+2,22 226688 PLB 00,Plumbing(PS),"Nov 8, 2022",Inspection,6 ANCROFT PL
+0,22 239608 BLD 00,Small Residential Projects,"Dec 15, 2022",Permit Issued,7 ANCROFT PL
+1,19 214039 PLB 00,Plumbing(PS),"Sep 6, 2019",Permit Issued,7 ANCROFT PL
+2,19 214039 DRN 00,Drain and Site Service,"Sep 6, 2019",Permit Issued,7 ANCROFT PL
+3,19 214039 BLD 00,Small Residential Projects,"Sep 4, 2019",Permit Issued,7 ANCROFT PL
+0,21 215854 HVA 00,Mechanical(MS),"Sep 23, 2021",Inspection,11 ASQUITH AVE
+1,21 215854 PLB 00,Plumbing(PS),"Sep 23, 2021",Inspection,11 ASQUITH AVE
+2,18 197407 MSA 00,Mechanical(MS),"Jul 20, 2018",Inspection,11 ASQUITH AVE
+3,13 144309 BLD 00,Building Additions/Alterations,"Apr 4, 2013",Permit Issued,11 ASQUITH AVE
+0,21 215854 HVA 00,Mechanical(MS),"Sep 23, 2021",Inspection,15 ASQUITH AVE
+1,21 215854 PLB 00,Plumbing(PS),"Sep 23, 2021",Inspection,15 ASQUITH AVE
+0,22 144360 BLD 00,Building Additions/Alterations,"May 12, 2022",Permit Issued,40 ASQUITH AVE
+1,22 144360 HVA 00,Mechanical(MS),"May 12, 2022",Permit Issued,40 ASQUITH AVE
+2,21 216756 MSA 00,Mechanical(MS),"Oct 8, 2021",Permit Issued,40 ASQUITH AVE
+3,21 211006 BLD 00,Building Additions/Alterations,"Sep 17, 2021",Permit Issued,40 ASQUITH AVE
+4,20 151982 BLD 00,Building Additions/Alterations,"Jun 4, 2020",Inspection,40 ASQUITH AVE
+5,20 151982 HVA 00,Mechanical(MS),"Jun 4, 2020",Closed,40 ASQUITH AVE
+6,20 151982 PLB 00,Plumbing(PS),"Jun 4, 2020",Closed,40 ASQUITH AVE
+7,16 131543 BLD 00,Building Additions/Alterations,"Mar 24, 2016",Revocation Pending,40 ASQUITH AVE
+8,14 174728 BLD 00,Building Additions/Alterations,"Jun 16, 2014",Permit Issued,40 ASQUITH AVE
+9,13 182009 BLD 00,Building Additions/Alterations,"Jun 5, 2013",Permit Issued,40 ASQUITH AVE
+0,19 116200 BLD 01,Small Residential Projects,"May 17, 2022",Revision Issued,84 ASQUITH AVE
+1,19 116200 BLD 00,Small Residential Projects,"Feb 25, 2019",Inspection,84 ASQUITH AVE
+0,23 106412 HVA 00,Mechanical(MS),"Feb 24, 2023",Issuance Pending,4 AVENUE RD
+1,23 106412 BLD 00,Building Additions/Alterations,"Feb 10, 2023",Refusal Notice,4 AVENUE RD
+2,22 184262 BLD 00,Building Additions/Alterations,"Aug 3, 2022",Inspection,4 AVENUE RD
+3,22 184262 HVA 00,Mechanical(MS),"Aug 3, 2022",Permit Issued,4 AVENUE RD
+4,22 184262 PLB 00,Plumbing(PS),"Aug 3, 2022",Inspection,4 AVENUE RD
+5,22 163386 BLD 00,Building Additions/Alterations,"Jun 30, 2022",Inspection,4 AVENUE RD
+6,17 246705 HVA 01,Mechanical(MS),"Sep 17, 2019",Revision Issued,4 AVENUE RD
+7,18 125224 BLD 01,Building Additions/Alterations,"Sep 17, 2019",Revision Issued,4 AVENUE RD
+8,18 125224 BLD 00,Building Additions/Alterations,"Mar 6, 2018",Inspection,4 AVENUE RD
+9,17 246705 HVA 00,Mechanical(MS),"Oct 18, 2017",Inspection,4 AVENUE RD
+10,17 203968 BLD 00,Building Additions/Alterations,"Jul 27, 2017",Inspection,4 AVENUE RD
+11,17 203968 HVA 00,Mechanical(MS),"Jul 27, 2017",Inspection,4 AVENUE RD
+12,16 210809 BLD 00,Building Additions/Alterations,"Aug 25, 2016",Permit Issued,4 AVENUE RD
+0,21 221055 BLD 00,Building Additions/Alterations,"Oct 5, 2021",Inspection,21 AVENUE RD
+1,21 221055 HVA 00,Mechanical(MS),"Oct 5, 2021",Inspection,21 AVENUE RD
+2,21 221055 PLB 00,Plumbing(PS),"Oct 5, 2021",Inspection,21 AVENUE RD
+3,17 173795 BLD 01,Building Additions/Alterations,"Feb 9, 2018",Revision Issued,21 AVENUE RD
+4,17 173795 PLB 01,Plumbing(PS),"Feb 9, 2018",Revision Issued,21 AVENUE RD
+5,17 173795 HVA 01,Mechanical(MS),"Feb 9, 2018",Revision Issued,21 AVENUE RD
+6,17 131601 BLD 01,Building Additions/Alterations,"Aug 18, 2017",Revision Issued,21 AVENUE RD
+7,17 131601 HVA 01,Mechanical(MS),"Aug 18, 2017",Revision Issued,21 AVENUE RD
+8,17 131601 PLB 01,Plumbing(PS),"Aug 18, 2017",Revision Issued,21 AVENUE RD
+9,17 173795 BLD 00,Building Additions/Alterations,"Jun 6, 2017",Inspection,21 AVENUE RD
+10,17 173795 HVA 00,Mechanical(MS),"Jun 6, 2017",Inspection,21 AVENUE RD
+11,17 173795 PLB 00,Plumbing(PS),"Jun 6, 2017",Inspection,21 AVENUE RD
+12,17 131601 BLD 00,Building Additions/Alterations,"Mar 21, 2017",Inspection,21 AVENUE RD
+13,17 131601 HVA 00,Mechanical(MS),"Mar 21, 2017",Inspection,21 AVENUE RD
+14,17 131601 PLB 00,Plumbing(PS),"Mar 21, 2017",Inspection,21 AVENUE RD
+15,15 254417 PLB 01,Plumbing(PS),"Jul 7, 2016",Revision Issued,21 AVENUE RD
+16,15 254417 MSA 01,Mechanical(MS),"Jul 5, 2016",Revision Issued,21 AVENUE RD
+17,15 254417 BLD 03,Building Additions/Alterations,"Jun 7, 2016",Revision Issued,21 AVENUE RD
+18,15 254417 BLD 04,Building Additions/Alterations,"Jun 7, 2016",Revision Issued,21 AVENUE RD
+19,12 289341 HVA 03,Mechanical(MS),"May 11, 2016",Revision Issued,21 AVENUE RD
+20,15 254417 BLD 02,Building Additions/Alterations,"Apr 4, 2016",Revision Issued,21 AVENUE RD
+21,15 254417 BLD 01,Building Additions/Alterations,"Jan 21, 2016",Revision Issued,21 AVENUE RD
+22,15 254417 PLB 00,Plumbing(PS),"Jan 18, 2016",Inspection,21 AVENUE RD
+23,15 254417 HVA 00,Mechanical(MS),"Jan 15, 2016",Inspection,21 AVENUE RD
+24,15 254417 BLD 00,Building Additions/Alterations,"Nov 20, 2015",Inspection,21 AVENUE RD
+25,15 191702 HVA 00,Mechanical(MS),"Jul 17, 2015",Inspection,21 AVENUE RD
+26,15 191702 BLD 00,Building Additions/Alterations,"Jul 16, 2015",Inspection,21 AVENUE RD
+27,14 196317 HVA 00,Mechanical(MS),"Jul 25, 2014",Permit Issued,21 AVENUE RD
+28,14 196317 PLB 00,Plumbing(PS),"Jul 25, 2014",Inspection,21 AVENUE RD
+29,14 196317 BLD 00,Building Additions/Alterations,"Jul 24, 2014",Inspection,21 AVENUE RD
+30,12 289341 HVA 02,Mechanical(MS),"Jan 23, 2014",Revision Issued,21 AVENUE RD
+31,13 279862 BLD 00,New Building,"Dec 19, 2013",Inspection,21 AVENUE RD
+32,13 279862 HVA 00,Mechanical(MS),"Dec 19, 2013",Inspection,21 AVENUE RD
+33,13 279862 PLB 00,Plumbing(PS),"Dec 19, 2013",Inspection,21 AVENUE RD
+34,12 289341 HVA 01,Mechanical(MS),"Dec 11, 2013",Revision Issued,21 AVENUE RD
+35,12 289341 PLB 01,Plumbing(PS),"Nov 26, 2013",Revision Issued,21 AVENUE RD
+36,13 267339 BLD 00,New Building,"Nov 20, 2013",Inspection,21 AVENUE RD
+37,13 267339 HVA 00,Mechanical(MS),"Nov 20, 2013",Inspection,21 AVENUE RD
+38,13 267339 PLB 00,Plumbing(PS),"Nov 20, 2013",Inspection,21 AVENUE RD
+0,22 107428 HVA 00,Mechanical(MS),"Feb 16, 2022",Inspection,38 AVENUE RD
+1,22 107428 BLD 00,Building Additions/Alterations,"Jan 26, 2022",Inspection,38 AVENUE RD
+2,22 107428 PLB 00,Plumbing(PS),"Jan 26, 2022",Inspection,38 AVENUE RD
+3,21 169332 FSU 00,Fire/Security Upgrade,"Jun 14, 2021",Permit Issued,38 AVENUE RD
+4,21 115120 BLD 00,Building Additions/Alterations,"Feb 11, 2021",Inspection,38 AVENUE RD
+5,21 115120 HVA 00,Mechanical(MS),"Feb 11, 2021",Inspection,38 AVENUE RD
+6,17 256891 BLD 00,Building Additions/Alterations,"Nov 2, 2017",Permit Issued,38 AVENUE RD
+7,16 215706 BLD 03,Building Additions/Alterations,"Jan 31, 2017",Revision Issued,38 AVENUE RD
+8,16 248951 BLD 00,Building Additions/Alterations,"Dec 1, 2016",Inspection,38 AVENUE RD
+9,16 215706 BLD 02,Building Additions/Alterations,"Nov 21, 2016",Revision Issued,38 AVENUE RD
+10,16 215706 BLD 01,Building Additions/Alterations,"Oct 31, 2016",Revision Issued,38 AVENUE RD
+11,16 215706 HVA 00,Mechanical(MS),"Sep 28, 2016",Inspection,38 AVENUE RD
+12,16 215706 BLD 00,Building Additions/Alterations,"Aug 31, 2016",Inspection,38 AVENUE RD
+13,16 186432 BLD 00,Building Additions/Alterations,"Jul 7, 2016",Permit Issued,38 AVENUE RD
+14,14 147603 BLD 00,Building Additions/Alterations,"Apr 25, 2014",Inspection,38 AVENUE RD
+15,14 147603 HVA 00,Mechanical(MS),"Apr 25, 2014",Inspection,38 AVENUE RD
+16,13 219749 BLD 00,Building Additions/Alterations,"Aug 13, 2013",Inspection,38 AVENUE RD
+17,13 219749 PLB 00,Plumbing(PS),"Aug 13, 2013",Permit Issued,38 AVENUE RD
+18,13 146949 BLD 00,Building Additions/Alterations,"Apr 10, 2013",Permit Issued,38 AVENUE RD
+0,21 240883 SHO 00,Conditional Permit,,Permit Issued,45 AVENUE RD
+1,21 240883 SHO 00,Partial Permit,"Jan 20, 2022",Examiner's Notice Sent,45 AVENUE RD
+2,21 240883 STR 00,Partial Permit,"Jan 20, 2022",Under Review,45 AVENUE RD
+3,21 240883 FND 00,Partial Permit,"Jan 20, 2022",Under Review,45 AVENUE RD
+4,21 240883 BLD 00,New Building,"Dec 7, 2021",Examiner's Notice Sent,45 AVENUE RD
+5,21 240883 HVA 00,Mechanical(MS),"Dec 7, 2021",Examiner's Notice Sent,45 AVENUE RD
+6,21 240883 PLB 00,Plumbing(PS),"Dec 7, 2021",Examiner's Notice Sent,45 AVENUE RD
+7,21 240883 DRN 00,Drain and Site Service,"Dec 7, 2021",Examiner's Notice Sent,45 AVENUE RD
+8,21 240883 STS 00,Drain and Site Service,"Dec 7, 2021",Examiner's Notice Sent,45 AVENUE RD
+0,23 108373 HVA 00,Mechanical(MS),"Feb 3, 2023",Permit Issued,55 AVENUE RD
+1,23 108373 PLB 00,Plumbing(PS),"Feb 3, 2023",Permit Issued,55 AVENUE RD
+2,23 108373 BLD 00,Building Additions/Alterations,"Feb 2, 2023",Permit Issued,55 AVENUE RD
+3,22 182227 BLD 00,Building Additions/Alterations,"Jul 29, 2022",Inspection,55 AVENUE RD
+4,22 182227 HVA 00,Mechanical(MS),"Jul 29, 2022",Inspection,55 AVENUE RD
+5,22 182227 PLB 00,Plumbing(PS),"Jul 29, 2022",Closed,55 AVENUE RD
+6,22 106970 BLD 00,Building Additions/Alterations,"Jan 27, 2022",Inspection,55 AVENUE RD
+7,21 181109 HVA 00,Mechanical(MS),"Jul 14, 2021",Inspection,55 AVENUE RD
+8,21 147786 BLD 00,Building Additions/Alterations,"May 3, 2021",Inspection,55 AVENUE RD
+9,20 160645 BLD 00,Building Additions/Alterations,"Jun 29, 2020",Inspection,55 AVENUE RD
+10,19 190675 PLB 01,Plumbing(PS),"Feb 18, 2020",Revision Issued,55 AVENUE RD
+11,19 186987 HVA 00,Mechanical(MS),"Jul 31, 2019",Inspection,55 AVENUE RD
+12,19 190675 PLB 00,Plumbing(PS),"Jul 17, 2019",Inspection,55 AVENUE RD
+13,19 137697 PLB 00,Plumbing(PS),"Apr 25, 2019",Inspection,55 AVENUE RD
+14,19 137697 BLD 00,Building Additions/Alterations,"Apr 10, 2019",Permit Issued,55 AVENUE RD
+15,18 255398 HVA 00,Mechanical(MS),"Nov 13, 2018",Inspection,55 AVENUE RD
+16,18 241189 BLD 00,Building Additions/Alterations,"Oct 12, 2018",Permit Issued,55 AVENUE RD
+17,18 214281 HVA 00,Mechanical(MS),"Aug 29, 2018",Inspection,55 AVENUE RD
+18,18 214281 BLD 00,Building Additions/Alterations,"Aug 23, 2018",Inspection,55 AVENUE RD
+19,18 157156 BLD 00,Building Additions/Alterations,"May 11, 2018",Permit Issued,55 AVENUE RD
+20,17 261935 BLD 00,Building Additions/Alterations,"Nov 14, 2017",Inspection,55 AVENUE RD
+21,17 261935 HVA 00,Mechanical(MS),"Nov 14, 2017",Inspection,55 AVENUE RD
+22,17 169039 BLD 00,Building Additions/Alterations,"May 30, 2017",Inspection,55 AVENUE RD
+23,17 169039 HVA 00,Mechanical(MS),"May 30, 2017",Inspection,55 AVENUE RD
+24,17 169039 PLB 00,Plumbing(PS),"May 30, 2017",Inspection,55 AVENUE RD
+25,16 250515 BLD 01,Building Additions/Alterations,"Apr 12, 2017",Revision Issued,55 AVENUE RD
+26,16 250515 HVA 01,Mechanical(MS),"Apr 12, 2017",Revision Issued,55 AVENUE RD
+27,17 125560 HVA 00,Mechanical(MS),"Mar 8, 2017",Permit Issued,55 AVENUE RD
+28,17 125560 PLB 00,Plumbing(PS),"Mar 8, 2017",Permit Issued,55 AVENUE RD
+29,17 125560 BLD 00,Building Additions/Alterations,"Mar 7, 2017",Inspection,55 AVENUE RD
+30,17 120696 HVA 00,Mechanical(MS),"Feb 28, 2017",Inspection,55 AVENUE RD
+31,17 120696 BLD 00,Building Additions/Alterations,"Feb 24, 2017",Inspection,55 AVENUE RD
+32,17 108081 FSU 00,Fire/Security Upgrade,"Jan 25, 2017",Permit Issued,55 AVENUE RD
+33,16 271611 BLD 00,Building Additions/Alterations,"Jan 4, 2017",Permit Issued,55 AVENUE RD
+34,16 253451 BLD 00,Building Additions/Alterations,"Nov 21, 2016",Inspection,55 AVENUE RD
+35,16 253452 BLD 00,Building Additions/Alterations,"Nov 21, 2016",Inspection,55 AVENUE RD
+36,16 250515 BLD 00,Building Additions/Alterations,"Nov 14, 2016",Inspection,55 AVENUE RD
+37,16 250515 HVA 00,Mechanical(MS),"Nov 14, 2016",Inspection,55 AVENUE RD
+38,13 279044 BLD 05,Building Additions/Alterations,"Oct 28, 2016",Revision Issued,55 AVENUE RD
+39,13 279044 HVA 03,Mechanical(MS),"Oct 28, 2016",Revision Issued,55 AVENUE RD
+40,13 279044 PLB 03,Plumbing(PS),"Oct 28, 2016",Revision Issued,55 AVENUE RD
+41,16 236000 BLD 00,Building Additions/Alterations,"Oct 13, 2016",Permit Issued,55 AVENUE RD
+42,16 236000 HVA 00,Mechanical(MS),"Oct 13, 2016",Permit Issued,55 AVENUE RD
+43,16 216730 PLB 00,Plumbing(PS),"Oct 12, 2016",Inspection,55 AVENUE RD
+44,16 216730 BLD 00,Building Additions/Alterations,"Sep 15, 2016",Inspection,55 AVENUE RD
+45,16 214533 BLD 00,Building Additions/Alterations,"Aug 30, 2016",Inspection,55 AVENUE RD
+46,16 178801 PLB 00,Plumbing(PS),"Jul 12, 2016",Inspection,55 AVENUE RD
+47,16 178801 HVA 00,Mechanical(MS),"Jun 23, 2016",Inspection,55 AVENUE RD
+48,16 178801 BLD 00,Building Additions/Alterations,"Jun 22, 2016",Inspection,55 AVENUE RD
+49,13 279044 PLB 02,Plumbing(PS),"May 12, 2016",Revision Issued,55 AVENUE RD
+50,16 143925 HVA 00,Mechanical(MS),"Apr 22, 2016",Inspection,55 AVENUE RD
+51,16 133065 BLD 00,Building Additions/Alterations,"Mar 31, 2016",Permit Issued,55 AVENUE RD
+52,16 114773 BLD 01,Building Additions/Alterations,"Mar 29, 2016",Revision Issued,55 AVENUE RD
+53,13 279044 HVA 02,Mechanical(MS),"Mar 22, 2016",Revision Issued,55 AVENUE RD
+54,13 279044 BLD 03,Building Additions/Alterations,"Mar 22, 2016",Revision Issued,55 AVENUE RD
+55,16 120527 BLD 00,Building Additions/Alterations,"Mar 15, 2016",Permit Issued,55 AVENUE RD
+56,16 114773 BLD 00,Building Additions/Alterations,"Feb 9, 2016",Inspection,55 AVENUE RD
+57,16 100688 HVA 00,Mechanical(MS),"Jan 6, 2016",Inspection,55 AVENUE RD
+58,16 100688 BLD 00,Building Additions/Alterations,"Jan 5, 2016",Inspection,55 AVENUE RD
+59,15 254749 HVA 00,Mechanical(MS),"Dec 2, 2015",Inspection,55 AVENUE RD
+60,15 254749 BLD 00,Building Additions/Alterations,"Nov 23, 2015",Inspection,55 AVENUE RD
+61,15 227144 FSU 00,Fire/Security Upgrade,"Sep 24, 2015",Inspection,55 AVENUE RD
+62,13 279044 BLD 02,Building Additions/Alterations,"Jul 29, 2015",Revision Issued,55 AVENUE RD
+63,13 279044 HVA 01,Mechanical(MS),"Jul 29, 2015",Revision Issued,55 AVENUE RD
+64,13 279044 PLB 01,Plumbing(PS),"Jul 29, 2015",Revision Issued,55 AVENUE RD
+65,15 188766 BLD 00,Building Additions/Alterations,"Jul 10, 2015",Inspection,55 AVENUE RD
+66,15 188766 PLB 00,Plumbing(PS),"Jul 10, 2015",Permit Issued,55 AVENUE RD
+67,15 185605 BLD 00,Building Additions/Alterations,"Jul 7, 2015",Inspection,55 AVENUE RD
+68,15 133134 BLD 00,Building Additions/Alterations,"Mar 27, 2015",Inspection,55 AVENUE RD
+69,13 279044 BLD 01,Building Additions/Alterations,"Feb 3, 2015",Revision Issued,55 AVENUE RD
+70,14 227266 BLD 00,Building Additions/Alterations,"Oct 8, 2014",Permit Issued,55 AVENUE RD
+71,14 227266 HVA 00,Mechanical(MS),"Oct 8, 2014",Inspection,55 AVENUE RD
+72,14 227266 PLB 00,Plumbing(PS),"Oct 8, 2014",Permit Issued,55 AVENUE RD
+73,14 200816 BLD 00,Building Additions/Alterations,"Aug 1, 2014",Permit Issued,55 AVENUE RD
+74,14 137169 HVA 00,Mechanical(MS),"Apr 2, 2014",Inspection,55 AVENUE RD
+75,13 238650 BLD 01,Building Additions/Alterations,"Feb 27, 2014",Revision Issued,55 AVENUE RD
+76,13 278994 BLD 00,Building Additions/Alterations,"Dec 24, 2013",Inspection,55 AVENUE RD
+77,13 279044 BLD 00,Building Additions/Alterations,"Dec 24, 2013",Inspection,55 AVENUE RD
+78,13 278994 HVA 00,Mechanical(MS),"Dec 24, 2013",Inspection,55 AVENUE RD
+79,13 278994 PLB 00,Plumbing(PS),"Dec 24, 2013",Inspection,55 AVENUE RD
+80,13 279044 HVA 00,Mechanical(MS),"Dec 24, 2013",Inspection,55 AVENUE RD
+81,13 279044 PLB 00,Plumbing(PS),"Dec 24, 2013",Inspection,55 AVENUE RD
+82,13 238650 BLD 00,Building Additions/Alterations,"Sep 19, 2013",Inspection,55 AVENUE RD
+83,13 238661 BLD 00,Building Additions/Alterations,"Sep 19, 2013",Inspection,55 AVENUE RD
+0,14 227266 BLD 00,Building Additions/Alterations,"Oct 8, 2014",Permit Issued,55 A AVENUE RD
+1,14 227266 HVA 00,Mechanical(MS),"Oct 8, 2014",Inspection,55 A AVENUE RD
+2,14 227266 PLB 00,Plumbing(PS),"Oct 8, 2014",Permit Issued,55 A AVENUE RD
+0,16 126378 DRN 00,Drain and Site Service,"Mar 14, 2016",Pending Cancellation,17 AVONDALE RD
+0,19 147009 HVA 00,Mechanical(MS),"Sep 28, 2020",Inspection,19 AVONDALE RD
+1,19 147009 BLD 01,Small Residential Projects,"May 5, 2020",Revision Issued,19 AVONDALE RD
+2,19 147009 PLB 01,Plumbing(PS),"May 5, 2020",Revision Issued,19 AVONDALE RD
+3,19 147009 BLD 00,Small Residential Projects,"Apr 30, 2019",Inspection,19 AVONDALE RD
+4,19 147009 DRN 00,Drain and Site Service,"Apr 30, 2019",Inspection,19 AVONDALE RD
+5,19 147009 PLB 00,Plumbing(PS),"Apr 30, 2019",Inspection,19 AVONDALE RD
+0,21 101607 BLD 00,New Houses,"Jan 20, 2021",Inspection,30 AVONDALE RD
+1,21 101607 HVA 00,Mechanical(MS),"Jan 20, 2021",Permit Issued,30 AVONDALE RD
+2,21 101607 PLB 00,Plumbing(PS),"Jan 20, 2021",Permit Issued,30 AVONDALE RD
+3,21 101607 DRN 00,Drain and Site Service,"Jan 20, 2021",Permit Issued,30 AVONDALE RD
+0,17 141415 BLD 00,Building Additions/Alterations,"Apr 12, 2017",Permit Issued,35 BALMUTO ST
+0,19 100693 HVA 00,Mechanical(MS),"Jan 10, 2019",Permit Issued,711-717 BAY ST
+1,19 100693 PLB 00,Plumbing(PS),"Jan 10, 2019",Inspection,711-717 BAY ST
+2,17 251939 HVA 00,Mechanical(MS),"Nov 17, 2017",Inspection,711-717 BAY ST
+3,17 251939 PLB 00,Plumbing(PS),"Nov 17, 2017",Inspection,711-717 BAY ST
+4,17 258995 BLD 00,Building Additions/Alterations,"Nov 8, 2017",Inspection,711-717 BAY ST
+5,17 251939 BLD 00,Building Additions/Alterations,"Oct 23, 2017",Inspection,711-717 BAY ST
+6,14 231203 BLD 00,Building Additions/Alterations,"Oct 2, 2014",Permit Issued,711-717 BAY ST
+7,13 280583 BLD 00,Building Additions/Alterations,"Dec 20, 2013",Permit Issued,711-717 BAY ST
+8,13 280583 HVA 00,Mechanical(MS),"Dec 20, 2013",Permit Issued,711-717 BAY ST
+9,13 261766 BLD 00,Building Additions/Alterations,"Nov 6, 2013",Inspection,711-717 BAY ST
+0,14 231203 BLD 00,Building Additions/Alterations,"Oct 2, 2014",Permit Issued,711 BAY ST
+0,17 202673 FSU 00,Fire/Security Upgrade,"Jul 27, 2017",Permit Issued,720 BAY ST
+1,16 246659 HVA 00,Mechanical(MS),"Nov 7, 2016",Permit Issued,720 BAY ST
+2,16 246659 BLD 00,Building Additions/Alterations,"Nov 3, 2016",Inspection,720 BAY ST
+3,15 135645 BLD 00,Building Additions/Alterations,"Apr 2, 2015",Permit Issued,720 BAY ST
+4,15 135645 HVA 00,Mechanical(MS),"Apr 2, 2015",Permit Issued,720 BAY ST
+5,13 254461 HVA 00,Mechanical(MS),"Oct 22, 2013",Permit Issued,720 BAY ST
+6,13 216022 BLD 00,Building Additions/Alterations,"Aug 6, 2013",Work Not Started,720 BAY ST
+7,13 216022 HVA 00,Mechanical(MS),"Aug 6, 2013",Permit Issued,720 BAY ST
+0,21 199787 BLD 00,Building Additions/Alterations,"Aug 18, 2021",Permit Issued,736 BAY ST
+0,21 121275 BLD 00,Building Additions/Alterations,"Mar 8, 2021",Permit Issued,750 BAY ST
+1,15 102147 PSA 00,Plumbing(PS),"Jan 13, 2015",Permit Issued,750 BAY ST
+0,22 205195 BLD 00,Building Additions/Alterations,"Sep 21, 2022",Inspection,750 BAY ST
+1,22 205195 HVA 00,Mechanical(MS),"Sep 21, 2022",Inspection,750 BAY ST
+2,22 205195 PLB 00,Plumbing(PS),"Sep 21, 2022",Inspection,750 BAY ST
+3,19 163177 BLD 00,Building Additions/Alterations,"May 31, 2019",Permit Issued,750 BAY ST
+0,20 157282 BLD 00,Building Additions/Alterations,"Jun 18, 2020",Permit Issued,761 BAY ST
+1,20 156016 BLD 00,Building Additions/Alterations,"Jun 17, 2020",Permit Issued,761 BAY ST
+2,19 196239 PSA 00,Plumbing(PS),"Jul 31, 2019",Inspection,761 BAY ST
+3,16 174352 FSU 00,Fire/Security Upgrade,"Jun 16, 2016",Inspection,761 BAY ST
+4,16 102211 BLD 00,Building Additions/Alterations,"Jan 8, 2016",Permit Issued,761 BAY ST
+0,20 156016 BLD 00,Building Additions/Alterations,"Jun 17, 2020",Permit Issued,763 BAY ST
+0,19 148247 BLD 00,Building Additions/Alterations,"May 7, 2019",Inspection,770 BAY ST
+0,23 103464 BLD 00,Building Additions/Alterations,"Jan 13, 2023",Permit Issued,777 BAY ST
+1,23 103464 HVA 00,Mechanical(MS),"Jan 13, 2023",Permit Issued,777 BAY ST
+2,22 154528 HVA 00,Mechanical(MS),"Jun 21, 2022",Inspection,777 BAY ST
+3,22 154528 PLB 00,Plumbing(PS),"Jun 21, 2022",Inspection,777 BAY ST
+4,22 154528 BLD 00,Building Additions/Alterations,"Jun 20, 2022",Inspection,777 BAY ST
+5,22 139487 BLD 00,Building Additions/Alterations,"May 16, 2022",Permit Issued,777 BAY ST
+6,22 139487 HVA 00,Mechanical(MS),"May 16, 2022",Inspection,777 BAY ST
+7,19 237197 BLD 00,Building Additions/Alterations,"Oct 21, 2019",Inspection,777 BAY ST
+8,18 158103 MSA 00,Mechanical(MS),"May 14, 2018",Permit Issued,777 BAY ST
+9,17 112431 HVA 00,Mechanical(MS),"Feb 6, 2017",Inspection,777 BAY ST
+10,17 112431 BLD 00,Building Additions/Alterations,"Feb 2, 2017",Permit Issued,777 BAY ST
+11,13 264196 BLD 00,Building Additions/Alterations,"Nov 12, 2013",Inspection,777 BAY ST
+12,13 264196 PLB 00,Plumbing(PS),"Nov 12, 2013",Permit Issued,777 BAY ST
+0,23 121183 BLD 00,Building Additions/Alterations,"Mar 10, 2023",Not Started,777 BAY ST
+1,22 220241 BLD 01,Building Additions/Alterations,"Jan 27, 2023",Revision Issued,777 BAY ST
+2,22 220241 HVA 01,Mechanical(MS),"Jan 27, 2023",Revision Issued,777 BAY ST
+3,22 220241 PLB 01,Plumbing(PS),"Jan 27, 2023",Revision Issued,777 BAY ST
+4,22 236991 SGN 00,Sign Permit,"Dec 7, 2022",Permit Issued,777 BAY ST
+5,22 236991 DST 00,Designated Structures,"Dec 7, 2022",Permit Issued,777 BAY ST
+6,22 220241 HVA 00,Mechanical(MS),"Dec 5, 2022",Inspection,777 BAY ST
+7,22 220241 PLB 00,Plumbing(PS),"Oct 25, 2022",Inspection,777 BAY ST
+8,22 220241 BLD 00,Building Additions/Alterations,"Oct 21, 2022",Inspection,777 BAY ST
+9,21 118144 PLB 01,Plumbing(PS),"Oct 29, 2021",Revision Issued,777 BAY ST
+10,21 118144 PLB 00,Plumbing(PS),"Feb 22, 2021",Inspection,777 BAY ST
+11,18 247265 BLD 00,Building Additions/Alterations,"Oct 24, 2018",Inspection,777 BAY ST
+12,18 213264 BLD 00,Building Additions/Alterations,"Aug 22, 2018",Inspection,777 BAY ST
+13,18 213264 HVA 00,Mechanical(MS),"Aug 22, 2018",Inspection,777 BAY ST
+14,18 213264 PLB 00,Plumbing(PS),"Aug 22, 2018",Inspection,777 BAY ST
+15,18 213271 BLD 00,Building Additions/Alterations,"Aug 22, 2018",Inspection,777 BAY ST
+16,18 213271 PLB 00,Plumbing(PS),"Aug 22, 2018",Inspection,777 BAY ST
+17,18 209259 HVA 00,Mechanical(MS),"Aug 22, 2018",Inspection,777 BAY ST
+18,18 209259 BLD 00,Building Additions/Alterations,"Aug 15, 2018",Inspection,777 BAY ST
+19,18 186130 BLD 00,Building Additions/Alterations,"Jul 26, 2018",Permit Issued,777 BAY ST
+20,17 265774 FSU 00,Fire/Security Upgrade,"Nov 23, 2017",Inspection,777 BAY ST
+21,17 247149 BLD 00,Building Additions/Alterations,"Oct 16, 2017",Permit Issued,777 BAY ST
+22,17 247149 HVA 00,Mechanical(MS),"Oct 16, 2017",Permit Issued,777 BAY ST
+23,17 156886 HVA 00,Mechanical(MS),"May 12, 2017",Permit Issued,777 BAY ST
+24,17 106303 BLD 00,Building Additions/Alterations,"Jan 19, 2017",Permit Issued,777 BAY ST
+25,17 106303 HVA 00,Mechanical(MS),"Jan 19, 2017",Permit Issued,777 BAY ST
+26,14 262583 HVA 00,Mechanical(MS),"Dec 10, 2014",Inspection,777 BAY ST
+27,14 195317 BLD 00,Building Additions/Alterations,"Jul 24, 2014",Inspection,777 BAY ST
+0,22 169018 BLD 00,Building Additions/Alterations,"Jul 13, 2022",Permit Issued,790 BAY ST
+1,22 169018 HVA 00,Mechanical(MS),"Jul 13, 2022",Permit Issued,790 BAY ST
+2,22 169018 PLB 00,Plumbing(PS),"Jul 13, 2022",Permit Issued,790 BAY ST
+3,21 211061 PSA 00,Plumbing(PS),"Sep 14, 2021",Inspection,790 BAY ST
+4,19 142279 BLD 01,Building Additions/Alterations,"Jan 16, 2020",Revision Issued,790 BAY ST
+5,19 142279 PLB 01,Plumbing(PS),"Jan 16, 2020",Revision Issued,790 BAY ST
+6,19 142279 HVA 01,Mechanical(MS),"Jan 16, 2020",Revision Issued,790 BAY ST
+7,19 229337 MSA 00,Mechanical(MS),"Oct 1, 2019",Inspection,790 BAY ST
+8,19 157771 HVA 00,Mechanical(MS),"May 24, 2019",Permit Issued,790 BAY ST
+9,19 157771 PLB 00,Plumbing(PS),"May 24, 2019",Permit Issued,790 BAY ST
+10,19 157771 BLD 00,Building Additions/Alterations,"May 23, 2019",Permit Issued,790 BAY ST
+11,19 142279 HVA 00,Mechanical(MS),"Apr 23, 2019",Permit Issued,790 BAY ST
+12,19 142279 PLB 00,Plumbing(PS),"Apr 23, 2019",Permit Issued,790 BAY ST
+13,19 142279 BLD 00,Building Additions/Alterations,"Apr 18, 2019",Permit Issued,790 BAY ST
+14,17 224202 HVA 02,Mechanical(MS),"Feb 8, 2019",Revision Issued,790 BAY ST
+15,17 224202 PLB 02,Plumbing(PS),"Feb 8, 2019",Revision Issued,790 BAY ST
+16,18 184851 BLD 01,Building Additions/Alterations,"Dec 11, 2018",Revision Issued,790 BAY ST
+17,18 184851 BLD 00,Building Additions/Alterations,"Jun 27, 2018",Inspection,790 BAY ST
+18,18 184851 PLB 00,Plumbing(PS),"Jun 27, 2018",Inspection,790 BAY ST
+19,18 114262 BLD 00,Building Additions/Alterations,"Feb 6, 2018",Permit Issued,790 BAY ST
+20,18 114262 HVA 00,Mechanical(MS),"Feb 6, 2018",Permit Issued,790 BAY ST
+21,18 114262 PLB 00,Plumbing(PS),"Feb 6, 2018",Permit Issued,790 BAY ST
+22,17 224202 BLD 01,Building Additions/Alterations,"Nov 7, 2017",Revision Issued,790 BAY ST
+23,17 224202 PLB 01,Plumbing(PS),"Nov 7, 2017",Revision Issued,790 BAY ST
+24,17 224202 HVA 01,Mechanical(MS),"Nov 7, 2017",Revision Issued,790 BAY ST
+25,17 241160 BLD 00,Building Additions/Alterations,"Oct 2, 2017",Inspection,790 BAY ST
+26,17 224202 HVA 00,Mechanical(MS),"Sep 6, 2017",Permit Issued,790 BAY ST
+27,17 224202 PLB 00,Plumbing(PS),"Sep 6, 2017",Permit Issued,790 BAY ST
+28,17 224202 BLD 00,Building Additions/Alterations,"Sep 1, 2017",Permit Issued,790 BAY ST
+29,17 127008 HVA 00,Mechanical(MS),"Mar 13, 2017",Inspection,790 BAY ST
+30,17 127008 PLB 00,Plumbing(PS),"Mar 13, 2017",Inspection,790 BAY ST
+31,17 125227 HVA 00,Mechanical(MS),"Mar 7, 2017",Inspection,790 BAY ST
+32,17 125227 PLB 00,Plumbing(PS),"Mar 7, 2017",Inspection,790 BAY ST
+33,16 223782 HVA 00,Mechanical(MS),"Oct 6, 2016",Inspection,790 BAY ST
+34,16 222071 BLD 00,Building Additions/Alterations,"Sep 13, 2016",Permit Issued,790 BAY ST
+35,16 222071 HVA 00,Mechanical(MS),"Sep 13, 2016",Permit Issued,790 BAY ST
+36,16 222071 PLB 00,Plumbing(PS),"Sep 13, 2016",Permit Issued,790 BAY ST
+37,16 172949 HVA 00,Mechanical(MS),"Jun 15, 2016",Inspection,790 BAY ST
+38,16 172949 PLB 00,Plumbing(PS),"Jun 15, 2016",Inspection,790 BAY ST
+39,16 172949 BLD 00,Building Additions/Alterations,"Jun 13, 2016",Inspection,790 BAY ST
+40,16 132224 HVA 00,Mechanical(MS),"Apr 1, 2016",Inspection,790 BAY ST
+41,16 132224 PLB 00,Plumbing(PS),"Apr 1, 2016",Inspection,790 BAY ST
+42,16 100745 HVA 01,Mechanical(MS),"Mar 14, 2016",Revision Issued,790 BAY ST
+43,16 122990 BLD 00,Building Additions/Alterations,"Mar 2, 2016",Inspection,790 BAY ST
+44,16 122990 HVA 00,Mechanical(MS),"Mar 2, 2016",Permit Issued,790 BAY ST
+45,16 122990 PLB 00,Plumbing(PS),"Mar 2, 2016",Inspection,790 BAY ST
+46,16 100745 HVA 00,Mechanical(MS),"Jan 6, 2016",Inspection,790 BAY ST
+47,15 257781 HVA 00,Mechanical(MS),"Nov 30, 2015",Permit Issued,790 BAY ST
+48,15 257781 PLB 00,Plumbing(PS),"Nov 30, 2015",Permit Issued,790 BAY ST
+49,15 244513 HVA 00,Mechanical(MS),"Nov 17, 2015",Permit Issued,790 BAY ST
+50,15 223331 HVA 00,Mechanical(MS),"Sep 16, 2015",Inspection,790 BAY ST
+51,15 176018 HVA 00,Mechanical(MS),"Jun 18, 2015",Inspection,790 BAY ST
+52,15 176018 PLB 00,Plumbing(PS),"Jun 18, 2015",Inspection,790 BAY ST
+53,15 153627 HVA 00,Mechanical(MS),"May 8, 2015",Inspection,790 BAY ST
+54,15 124849 HVA 00,Mechanical(MS),"Mar 9, 2015",Permit Issued,790 BAY ST
+55,15 124849 PLB 00,Plumbing(PS),"Mar 9, 2015",Inspection,790 BAY ST
+56,14 191184 BLD 00,Building Additions/Alterations,"Jul 16, 2014",Permit Issued,790 BAY ST
+57,14 191184 HVA 00,Mechanical(MS),"Jul 16, 2014",Permit Issued,790 BAY ST
+58,14 191184 PLB 00,Plumbing(PS),"Jul 16, 2014",Permit Issued,790 BAY ST
+0,22 198391 HVA 00,Mechanical(MS),"Sep 8, 2022",Permit Issued,800 BAY ST
+1,22 198391 PLB 00,Plumbing(PS),"Sep 2, 2022",Permit Issued,800 BAY ST
+2,22 198391 BLD 00,Building Additions/Alterations,"Sep 1, 2022",Inspection,800 BAY ST
+3,22 188576 BLD 00,Building Additions/Alterations,"Aug 11, 2022",Inspection,800 BAY ST
+4,21 103351 HVA 00,Mechanical(MS),"Jan 21, 2021",Inspection,800 BAY ST
+5,17 154346 BLD 00,Building Additions/Alterations,"May 4, 2017",Inspection,800 BAY ST
+6,15 262370 BLD 00,Building Additions/Alterations,"Dec 8, 2015",Permit Issued,800 BAY ST
+7,15 238651 BLD 00,Building Additions/Alterations,"Oct 16, 2015",Permit Issued,800 BAY ST
+0,22 115674 DST 00,Designated Structures,"Feb 23, 2022",Permit Issued,825 BAY ST
+1,22 115674 SGN 00,Sign Permit,"Feb 18, 2022",Inspection,825 BAY ST
+2,22 111056 BLD 00,Building Additions/Alterations,"Feb 7, 2022",Inspection,825 BAY ST
+3,22 111056 HVA 00,Mechanical(MS),"Feb 7, 2022",Inspection,825 BAY ST
+4,22 111056 PLB 00,Plumbing(PS),"Feb 7, 2022",Inspection,825 BAY ST
+0,22 179995 MSA 00,Mechanical(MS),"Jul 21, 2022",Permit Issued,832 BAY ST
+1,17 209834 BLD 00,Building Additions/Alterations,"Aug 14, 2017",Inspection,832 BAY ST
+2,14 191277 BLD 00,Building Additions/Alterations,"Jul 18, 2014",Inspection,832 BAY ST
+0,14 152152 BLD 00,Building Additions/Alterations,"May 6, 2014",Permit Issued,877 BAY ST
+0,22 122138 BLD 00,Building Additions/Alterations,"Mar 15, 2022",Inspection,879 BAY ST
+1,22 122138 HVA 00,Mechanical(MS),"Mar 15, 2022",Permit Issued,879 BAY ST
+2,22 122138 PLB 00,Plumbing(PS),"Mar 15, 2022",Inspection,879 BAY ST
+3,18 243439 HVA 00,Mechanical(MS),"Oct 18, 2018",Permit Issued,879 BAY ST
+4,18 243439 PLB 00,Plumbing(PS),"Oct 18, 2018",Permit Issued,879 BAY ST
+5,18 243439 BLD 00,Building Additions/Alterations,"Oct 16, 2018",Permit Issued,879 BAY ST
+6,15 110707 HVA 00,Mechanical(MS),"Feb 3, 2015",Inspection,879 BAY ST
+7,15 110707 PLB 00,Plumbing(PS),"Feb 3, 2015",Inspection,879 BAY ST
+8,15 110707 BLD 00,Building Additions/Alterations,"Jan 30, 2015",Inspection,879 BAY ST
+9,14 180035 BLD 00,Building Additions/Alterations,"Jun 25, 2014",Inspection,879 BAY ST
+10,14 180035 HVA 00,Mechanical(MS),"Jun 25, 2014",Inspection,879 BAY ST
+11,14 152152 BLD 00,Building Additions/Alterations,"May 6, 2014",Permit Issued,879 BAY ST
+0,17 141078 PSA 00,Plumbing(PS),"Apr 7, 2017",Inspection,887 BAY ST
+0,20 113679 BLD 07,Building Additions/Alterations,"Mar 3, 2023",Revision Issued,900 BAY ST
+1,20 113679 BLD 06,Building Additions/Alterations,"Feb 28, 2023",Revision Issued,900 BAY ST
+2,20 113679 BLD 05,Building Additions/Alterations,"Jan 26, 2023",Revision Issued,900 BAY ST
+3,20 113679 BLD 03,Building Additions/Alterations,"Jan 23, 2023",Revision Issued,900 BAY ST
+4,20 113679 BLD 04,Building Additions/Alterations,"Jan 23, 2023",Revision Issued,900 BAY ST
+5,20 113679 BLD 02,Building Additions/Alterations,"Jan 20, 2023",Revision Issued,900 BAY ST
+6,20 113679 BLD 01,Building Additions/Alterations,"Dec 14, 2022",Revision Issued,900 BAY ST
+7,22 195933 FSU 00,Fire/Security Upgrade,"Sep 2, 2022",Permit Issued,900 BAY ST
+8,20 113679 PLB 01,Plumbing(PS),"Jun 24, 2022",Revision Issued,900 BAY ST
+9,19 254132 BLD 04,Building Additions/Alterations,"Jun 24, 2022",Revision Issued,900 BAY ST
+10,19 254132 BLD 03,Building Additions/Alterations,"Dec 9, 2021",Revision Issued,900 BAY ST
+11,20 113679 DRN 00,Drain and Site Service,"Aug 25, 2021",Inspection,900 BAY ST
+12,19 210350 DEM 03,Demolition Folder (DM),"Aug 23, 2021",Revision Issued,900 BAY ST
+13,19 210350 DEM 02,Demolition Folder (DM),"Apr 28, 2021",Revision Issued,900 BAY ST
+14,21 106329 BLD 00,Building Additions/Alterations,"Jan 20, 2021",Inspection,900 BAY ST
+15,19 254132 BLD 02,Building Additions/Alterations,"Nov 26, 2020",Revision Issued,900 BAY ST
+16,19 254132 BLD 01,Building Additions/Alterations,"Sep 24, 2020",Revision Issued,900 BAY ST
+17,19 210350 DEM 01,Demolition Folder (DM),"Jun 22, 2020",Revision Issued,900 BAY ST
+18,20 113679 STS 00,Drain and Site Service,"Mar 11, 2020",Inspection,900 BAY ST
+19,20 113679 HVA 00,Mechanical(MS),"Feb 21, 2020",Inspection,900 BAY ST
+20,20 113679 PLB 00,Plumbing(PS),"Feb 21, 2020",Inspection,900 BAY ST
+21,20 113679 BLD 00,Building Additions/Alterations,"Feb 19, 2020",Inspection,900 BAY ST
+22,19 254132 BLD 00,Building Additions/Alterations,"Dec 9, 2019",Inspection,900 BAY ST
+23,19 210350 DEM 00,Demolition Folder (DM),"Sep 19, 2019",Inspection,900 BAY ST
+24,17 193719 BLD 00,Building Additions/Alterations,"Jul 7, 2017",Inspection,900 BAY ST
+25,17 185794 BLD 00,Building Additions/Alterations,"Jun 28, 2017",Inspection,900 BAY ST
+26,16 239989 HVA 00,Mechanical(MS),"Nov 3, 2016",Inspection,900 BAY ST
+27,16 239989 BLD 00,Building Additions/Alterations,"Oct 25, 2016",Inspection,900 BAY ST
+28,16 134588 HVA 00,Mechanical(MS),"Apr 4, 2016",Permit Issued,900 BAY ST
+29,16 101475 HVA 00,Mechanical(MS),"Jan 7, 2016",Permit Issued,900 BAY ST
+30,16 101475 PLB 00,Plumbing(PS),"Jan 7, 2016",Permit Issued,900 BAY ST
+31,15 227397 PLB 00,Plumbing(PS),"Sep 29, 2015",Inspection,900 BAY ST
+32,15 227397 BLD 00,Building Additions/Alterations,"Sep 28, 2015",Inspection,900 BAY ST
+33,15 211470 HVA 00,Mechanical(MS),"Sep 2, 2015",Permit Issued,900 BAY ST
+34,15 211470 BLD 00,Building Additions/Alterations,"Sep 1, 2015",Permit Issued,900 BAY ST
+35,15 212486 HVA 00,Mechanical(MS),"Aug 28, 2015",Permit Issued,900 BAY ST
+36,15 212486 BLD 00,Building Additions/Alterations,"Aug 25, 2015",Permit Issued,900 BAY ST
+37,15 206459 BLD 00,Building Additions/Alterations,"Aug 14, 2015",Inspection,900 BAY ST
+38,15 206459 PLB 00,Plumbing(PS),"Aug 14, 2015",Inspection,900 BAY ST
+39,15 194186 HVA 00,Mechanical(MS),"Jul 22, 2015",Permit Issued,900 BAY ST
+40,15 194186 BLD 00,Building Additions/Alterations,"Jul 21, 2015",Permit Issued,900 BAY ST
+41,15 191819 BLD 00,Building Additions/Alterations,"Jul 20, 2015",Inspection,900 BAY ST
+42,15 175843 BLD 00,Building Additions/Alterations,"Jun 25, 2015",Permit Issued,900 BAY ST
+43,15 150948 BLD 00,Building Additions/Alterations,"May 4, 2015",Inspection,900 BAY ST
+44,15 150948 HVA 00,Mechanical(MS),"May 4, 2015",Permit Issued,900 BAY ST
+45,15 150948 PLB 00,Plumbing(PS),"May 4, 2015",Permit Issued,900 BAY ST
+46,15 136020 HVA 00,Mechanical(MS),"Apr 8, 2015",Permit Issued,900 BAY ST
+47,15 136020 PLB 00,Plumbing(PS),"Apr 8, 2015",Permit Issued,900 BAY ST
+48,15 136020 BLD 00,Building Additions/Alterations,"Apr 2, 2015",Permit Issued,900 BAY ST
+49,15 120094 HVA 00,Mechanical(MS),"Feb 23, 2015",Permit Issued,900 BAY ST
+50,14 257004 HVA 00,Mechanical(MS),"Nov 26, 2014",Permit Issued,900 BAY ST
+51,14 257004 PLB 00,Plumbing(PS),"Nov 26, 2014",Permit Issued,900 BAY ST
+52,14 227274 PSA 00,Plumbing(PS),"Sep 30, 2014",Permit Issued,900 BAY ST
+53,14 174839 BLD 00,Building Additions/Alterations,"Jun 16, 2014",Inspection,900 BAY ST
+54,14 174839 HVA 00,Mechanical(MS),"Jun 16, 2014",Permit Issued,900 BAY ST
+55,14 143980 HVA 00,Mechanical(MS),"Apr 23, 2014",Permit Issued,900 BAY ST
+56,14 143980 BLD 00,Building Additions/Alterations,"Apr 17, 2014",Inspection,900 BAY ST
+57,14 140509 BLD 00,Building Additions/Alterations,"Apr 11, 2014",Inspection,900 BAY ST
+58,14 133805 HVA 00,Mechanical(MS),"Mar 28, 2014",Permit Issued,900 BAY ST
+59,14 133805 BLD 00,Building Additions/Alterations,"Mar 27, 2014",Work Not Started,900 BAY ST
+60,14 124269 BLD 00,Building Additions/Alterations,"Mar 4, 2014",Inspection,900 BAY ST
+61,14 124269 HVA 00,Mechanical(MS),"Mar 4, 2014",Permit Issued,900 BAY ST
+62,14 108637 HVA 00,Mechanical(MS),"Jan 24, 2014",Permit Issued,900 BAY ST
+63,14 108637 BLD 00,Building Additions/Alterations,"Jan 23, 2014",Inspection,900 BAY ST
+64,14 107652 FSU 00,Fire/Security Upgrade,"Jan 22, 2014",Inspection,900 BAY ST
+65,14 105535 BLD 00,Building Additions/Alterations,"Jan 16, 2014",Inspection,900 BAY ST
+66,13 276205 BLD 00,Building Additions/Alterations,"Dec 10, 2013",Work Not Started,900 BAY ST
+67,13 276205 HVA 00,Mechanical(MS),"Dec 10, 2013",Permit Issued,900 BAY ST
+68,13 264711 BLD 00,Building Additions/Alterations,"Nov 13, 2013",Inspection,900 BAY ST
+69,13 261213 BLD 00,Building Additions/Alterations,"Nov 5, 2013",Inspection,900 BAY ST
+70,13 261213 PLB 00,Plumbing(PS),"Nov 5, 2013",Permit Issued,900 BAY ST
+71,13 238458 HVA 00,Mechanical(MS),"Sep 19, 2013",Permit Issued,900 BAY ST
+72,13 237595 BLD 00,Building Additions/Alterations,"Sep 18, 2013",Inspection,900 BAY ST
+73,13 223153 HVA 00,Mechanical(MS),"Aug 20, 2013",Inspection,900 BAY ST
+74,13 191618 HVA 00,Mechanical(MS),"Jun 20, 2013",Permit Issued,900 BAY ST
+0,13 183780 BLD 00,Building Additions/Alterations,"Jun 7, 2013",Inspection,905 BAY ST
+0,17 236317 BLD 00,Building Additions/Alterations,"Sep 21, 2017",Inspection,915 BAY ST
+0,18 145759 PLB 00,Plumbing(PS),"Apr 26, 2018",Inspection,925 BAY ST
+1,16 230712 STS 00,Drain and Site Service,"Sep 30, 2016",Inspection,925 BAY ST
+2,15 137494 BLD 00,Building Additions/Alterations,"Apr 10, 2015",Permit Issued,925 BAY ST
+0,22 104828 DST 00,Designated Structures,"Jan 19, 2022",Permit Issued,951 BAY ST
+1,22 104828 SGN 00,Sign Permit,"Jan 18, 2022",Permit Issued,951 BAY ST
+2,21 182435 BLD 00,Building Additions/Alterations,"Jul 29, 2021",Inspection,951 BAY ST
+3,21 182435 HVA 00,Mechanical(MS),"Jul 29, 2021",Inspection,951 BAY ST
+4,21 182435 PLB 00,Plumbing(PS),"Jul 29, 2021",Inspection,951 BAY ST
+5,19 263380 BLD 00,Building Additions/Alterations,"Dec 19, 2019",Permit Issued,951 BAY ST
+6,19 263380 HVA 00,Mechanical(MS),"Dec 19, 2019",Permit Issued,951 BAY ST
+7,19 263380 PLB 00,Plumbing(PS),"Dec 19, 2019",Permit Issued,951 BAY ST
+8,14 126064 BLD 02,Building Additions/Alterations,"Oct 6, 2016",Revision Issued,951 BAY ST
+9,14 126064 BLD 00,Building Additions/Alterations,"Mar 14, 2014",Inspection,951 BAY ST
+0,22 104828 DST 00,Designated Structures,"Jan 19, 2022",Permit Issued,955 BAY ST
+1,22 104828 SGN 00,Sign Permit,"Jan 18, 2022",Permit Issued,955 BAY ST
+2,14 126064 BLD 02,Building Additions/Alterations,"Oct 6, 2016",Revision Issued,955 BAY ST
+3,14 126064 BLD 00,Building Additions/Alterations,"Mar 14, 2014",Inspection,955 BAY ST
+0,21 148336 HVA 00,Mechanical(MS),"May 4, 2021",Inspection,997 BAY ST
+1,17 261726 MSA 00,Mechanical(MS),"Nov 15, 2017",Inspection,997 BAY ST
+2,17 159309 MSA 00,Mechanical(MS),"May 15, 2017",Permit Issued,997 BAY ST
+3,14 221389 BLD 00,Building Additions/Alterations,"Sep 12, 2014",Inspection,997 BAY ST
+4,14 221389 PLB 00,Plumbing(PS),"Sep 12, 2014",Inspection,997 BAY ST
+5,13 271917 BLD 00,Building Additions/Alterations,"Dec 2, 2013",Inspection,997 BAY ST
+6,13 271917 HVA 00,Mechanical(MS),"Dec 2, 2013",Permit Issued,997 BAY ST
+7,13 271917 PLB 00,Plumbing(PS),"Dec 2, 2013",Permit Issued,997 BAY ST
+0,20 213830 PLB 00,Plumbing(PS),"Nov 3, 2020",Inspection,1000 BAY ST
+1,17 265220 HVA 00,Mechanical(MS),"Nov 21, 2017",Inspection,1000 BAY ST
+2,17 176257 HVA 00,Mechanical(MS),"Jun 9, 2017",Inspection,1000 BAY ST
+3,17 176257 PLB 00,Plumbing(PS),"Jun 9, 2017",Inspection,1000 BAY ST
+4,17 132963 BLD 00,Building Additions/Alterations,"Mar 24, 2017",Inspection,1000 BAY ST
+5,17 132963 HVA 00,Mechanical(MS),"Mar 24, 2017",Inspection,1000 BAY ST
+6,17 132963 PLB 00,Plumbing(PS),"Mar 24, 2017",Inspection,1000 BAY ST
+7,16 248508 HVA 01,Mechanical(MS),"Jan 25, 2017",Revision Issued,1000 BAY ST
+8,16 248508 HVA 00,Mechanical(MS),"Nov 10, 2016",Inspection,1000 BAY ST
+9,16 248508 BLD 00,Building Additions/Alterations,"Nov 9, 2016",Inspection,1000 BAY ST
+10,13 196560 BLD 01,New Building,"Aug 4, 2016",Revision Issued,1000 BAY ST
+11,16 100398 FSU 01,Fire/Security Upgrade,"Mar 22, 2016",Revision Issued,1000 BAY ST
+12,16 100398 FSU 00,Fire/Security Upgrade,"Jan 8, 2016",Inspection,1000 BAY ST
+13,13 196560 BLD 00,New Building,"Jul 2, 2013",Inspection,1000 BAY ST
+14,13 196560 HVA 00,Mechanical(MS),"Jul 2, 2013",Inspection,1000 BAY ST
+15,13 196560 PLB 00,Plumbing(PS),"Jul 2, 2013",Inspection,1000 BAY ST
+16,13 196560 DRN 00,Drain and Site Service,"Jul 2, 2013",Inspection,1000 BAY ST
+0,22 111630 BLD 00,Building Additions/Alterations,"Feb 7, 2022",Permit Issued,1001 BAY ST
+1,21 197723 DST 00,Designated Structures,"Aug 13, 2021",Permit Issued,1001 BAY ST
+2,21 197723 SGN 00,Sign Permit,"Aug 12, 2021",Permit Issued,1001 BAY ST
+3,18 182196 BLD 01,Building Additions/Alterations,"Nov 19, 2018",Revision Issued,1001 BAY ST
+4,18 191578 BLD 00,Building Additions/Alterations,"Jul 10, 2018",Permit Issued,1001 BAY ST
+5,18 182196 BLD 00,Building Additions/Alterations,"Jun 21, 2018",Permit Issued,1001 BAY ST
+0,19 152336 STS 00,Drain and Site Service,"May 10, 2019",Inspection,1020 BAY ST
+0,22 219246 PLB 00,Plumbing(PS),"Nov 1, 2022",Inspection,1033 BAY ST
+1,22 195412 HVA 00,Mechanical(MS),"Aug 25, 2022",Inspection,1033 BAY ST
+2,21 240937 PLB 00,Plumbing(PS),"Apr 6, 2022",Permit Issued,1033 BAY ST
+3,21 240937 BLD 01,Building Additions/Alterations,"Jan 27, 2022",Revision Issued,1033 BAY ST
+4,21 240937 BLD 00,Building Additions/Alterations,"Dec 6, 2021",Inspection,1033 BAY ST
+0,16 105683 BLD 00,Building Additions/Alterations,"Jan 18, 2016",Permit Issued,1055 BAY ST
+1,15 233590 FSU 00,Fire/Security Upgrade,"Nov 3, 2015",Permit Issued,1055 BAY ST
+2,15 159980 BLD 00,Building Additions/Alterations,"May 20, 2015",Permit Issued,1055 BAY ST
+0,20 118525 HVA 00,Mechanical(MS),"Feb 26, 2020",Permit Issued,1080 BAY ST
+1,20 118525 BLD 00,Building Additions/Alterations,"Feb 24, 2020",Permit Issued,1080 BAY ST
+0,22 128018 BLD 00,Building Additions/Alterations,"Mar 31, 2022",Permit Issued,1099 BAY ST
+1,20 120947 BLD 00,Building Additions/Alterations,"Mar 2, 2020",Permit Issued,1099 BAY ST
+2,17 253404 HVA 00,Mechanical(MS),"Nov 14, 2017",Inspection,1099 BAY ST
+0,22 138607 BLD 00,Building Additions/Alterations,"Apr 27, 2022",Inspection,1108 BAY ST
+1,22 138607 HVA 00,Mechanical(MS),"Apr 27, 2022",Inspection,1108 BAY ST
+2,22 138607 PLB 00,Plumbing(PS),"Apr 27, 2022",Inspection,1108 BAY ST
+0,22 193652 FSU 00,Fire/Security Upgrade,"Aug 22, 2022",Permit Issued,1132 BAY ST
+1,16 236181 PSA 00,Plumbing(PS),"Oct 12, 2016",Permit Issued,1132 BAY ST
+0,15 144319 BLD 00,Building Additions/Alterations,"Apr 21, 2015",Inspection,1140 BAY ST
+0,22 194482 BLD 00,Building Additions/Alterations,"Aug 24, 2022",Permit Issued,1166 BAY ST
+1,19 256362 BLD 00,Building Additions/Alterations,"Dec 11, 2019",Inspection,1166 BAY ST
+2,19 220648 BLD 00,Building Additions/Alterations,"Sep 13, 2019",Permit Issued,1166 BAY ST
+3,19 174676 BLD 00,Building Additions/Alterations,"Jun 20, 2019",Permit Issued,1166 BAY ST
+0,16 127766 BLD 00,Building Additions/Alterations,"Mar 15, 2016",Permit Issued,1170 BAY ST
+0,21 220697 BLD 00,Building Additions/Alterations,"Oct 20, 2021",Inspection,1200 BAY ST
+1,21 220697 HVA 00,Mechanical(MS),"Oct 20, 2021",Inspection,1200 BAY ST
+2,20 130894 PLB 01,Plumbing(PS),"Sep 16, 2020",Revision Issued,1200 BAY ST
+3,20 130894 BLD 00,Building Additions/Alterations,"Apr 9, 2020",Inspection,1200 BAY ST
+4,20 130894 HVA 00,Mechanical(MS),"Apr 9, 2020",Inspection,1200 BAY ST
+5,20 130894 PLB 00,Plumbing(PS),"Apr 9, 2020",Inspection,1200 BAY ST
+6,18 220776 BLD 00,Building Additions/Alterations,"Sep 6, 2018",Inspection,1200 BAY ST
+7,18 185699 BLD 00,Building Additions/Alterations,"Jun 28, 2018",Inspection,1200 BAY ST
+8,18 167227 BLD 00,Building Additions/Alterations,"May 31, 2018",Permit Issued,1200 BAY ST
+9,18 167438 BLD 00,Building Additions/Alterations,"May 31, 2018",Inspection,1200 BAY ST
+10,18 159367 BLD 00,Building Additions/Alterations,"May 17, 2018",Permit Issued,1200 BAY ST
+11,17 184029 HVA 00,Mechanical(MS),"Jun 22, 2017",Inspection,1200 BAY ST
+0,23 104170 FSU 00,Fire/Security Upgrade,"Jan 17, 2023",Inspection,1235 BAY ST
+1,22 239351 SGN 00,Sign Permit,"Dec 15, 2022",Permit Issued,1235 BAY ST
+2,22 239351 DST 00,Designated Structures,"Dec 15, 2022",Permit Issued,1235 BAY ST
+3,22 222557 BLD 00,Building Additions/Alterations,"Oct 27, 2022",Inspection,1235 BAY ST
+4,22 222557 HVA 00,Mechanical(MS),"Oct 27, 2022",Permit Issued,1235 BAY ST
+5,22 222557 PLB 00,Plumbing(PS),"Oct 27, 2022",Permit Issued,1235 BAY ST
+6,22 202916 BLD 00,Building Additions/Alterations,"Sep 26, 2022",Inspection,1235 BAY ST
+7,22 202916 HVA 00,Mechanical(MS),"Sep 26, 2022",Inspection,1235 BAY ST
+8,22 202568 HVA 00,Mechanical(MS),"Sep 14, 2022",Inspection,1235 BAY ST
+9,22 202568 BLD 00,Building Additions/Alterations,"Sep 13, 2022",Inspection,1235 BAY ST
+10,22 169094 BLD 00,Building Additions/Alterations,"Jun 28, 2022",Inspection,1235 BAY ST
+11,22 169094 HVA 00,Mechanical(MS),"Jun 28, 2022",Inspection,1235 BAY ST
+12,22 169094 PLB 00,Plumbing(PS),"Jun 28, 2022",Inspection,1235 BAY ST
+13,22 131932 SGN 00,Sign Permit,"Apr 8, 2022",Permit Issued,1235 BAY ST
+14,22 131932 DST 00,Designated Structures,"Apr 8, 2022",Permit Issued,1235 BAY ST
+15,22 130357 HVA 00,Mechanical(MS),"Apr 6, 2022",Inspection,1235 BAY ST
+16,22 123836 FSU 00,Fire/Security Upgrade,"Mar 18, 2022",Permit Issued,1235 BAY ST
+17,19 248455 BLD 02,Building Additions/Alterations,"Feb 3, 2022",Revision Issued,1235 BAY ST
+18,19 248455 HVA 02,Mechanical(MS),"Feb 3, 2022",Revision Issued,1235 BAY ST
+19,19 248455 PLB 01,Plumbing(PS),"Feb 3, 2022",Revision Issued,1235 BAY ST
+20,22 107426 BLD 00,Building Additions/Alterations,"Jan 26, 2022",Inspection,1235 BAY ST
+21,22 107426 HVA 00,Mechanical(MS),"Jan 26, 2022",Inspection,1235 BAY ST
+22,22 107426 PLB 00,Plumbing(PS),"Jan 26, 2022",Inspection,1235 BAY ST
+23,21 203396 MSA 00,Mechanical(MS),"Aug 26, 2021",Permit Issued,1235 BAY ST
+24,21 190602 HVA 00,Mechanical(MS),"Aug 9, 2021",Inspection,1235 BAY ST
+25,19 248455 BLD 01,Building Additions/Alterations,"Feb 20, 2020",Revision Issued,1235 BAY ST
+26,19 248455 HVA 01,Mechanical(MS),"Feb 20, 2020",Revision Issued,1235 BAY ST
+27,19 248455 HVA 00,Mechanical(MS),"Nov 14, 2019",Inspection,1235 BAY ST
+28,19 248455 PLB 00,Plumbing(PS),"Nov 14, 2019",Inspection,1235 BAY ST
+29,19 248455 BLD 00,Building Additions/Alterations,"Nov 13, 2019",Inspection,1235 BAY ST
+30,19 116417 HVA 00,Mechanical(MS),"Mar 5, 2019",Inspection,1235 BAY ST
+31,19 116417 BLD 00,Building Additions/Alterations,"Mar 4, 2019",Inspection,1235 BAY ST
+32,17 255871 BLD 00,Building Additions/Alterations,"Nov 21, 2017",Permit Issued,1235 BAY ST
+0,22 151373 BLD 00,Building Additions/Alterations,"May 26, 2022",Permit Issued,1240 BAY ST
+1,22 151373 PLB 00,Plumbing(PS),"May 26, 2022",Permit Issued,1240 BAY ST
+2,22 151373 DRN 00,Drain and Site Service,"May 26, 2022",Permit Issued,1240 BAY ST
+3,20 121592 HVA 00,Mechanical(MS),"Mar 4, 2020",Permit Issued,1240 BAY ST
+4,20 121592 BLD 00,Building Additions/Alterations,"Mar 3, 2020",Permit Issued,1240 BAY ST
+5,19 109266 BLD 01,Building Additions/Alterations,"Nov 6, 2019",Revision Issued,1240 BAY ST
+6,19 228252 HVA 00,Mechanical(MS),"Oct 2, 2019",Inspection,1240 BAY ST
+7,19 109266 BLD 00,Building Additions/Alterations,"Jan 28, 2019",Inspection,1240 BAY ST
+8,19 109266 HVA 00,Mechanical(MS),"Jan 28, 2019",Inspection,1240 BAY ST
+9,18 121976 HVA 00,Mechanical(MS),"Mar 13, 2018",Permit Issued,1240 BAY ST
+10,18 121976 PLB 00,Plumbing(PS),"Mar 13, 2018",Permit Issued,1240 BAY ST
+11,18 121976 BLD 00,Building Additions/Alterations,"Feb 27, 2018",Permit Issued,1240 BAY ST
+12,17 276792 BLD 00,Building Additions/Alterations,"Dec 19, 2017",Inspection,1240 BAY ST
+13,17 262811 HVA 00,Mechanical(MS),"Dec 1, 2017",Permit Issued,1240 BAY ST
+14,17 262811 PLB 00,Plumbing(PS),"Dec 1, 2017",Permit Issued,1240 BAY ST
+15,17 262811 BLD 00,Building Additions/Alterations,"Nov 21, 2017",Permit Issued,1240 BAY ST
+16,17 221563 HVA 00,Mechanical(MS),"Aug 31, 2017",Permit Issued,1240 BAY ST
+17,17 221563 BLD 00,Building Additions/Alterations,"Aug 23, 2017",Permit Issued,1240 BAY ST
+18,16 170942 BLD 00,Building Additions/Alterations,"Jun 9, 2016",Inspection,1240 BAY ST
+19,14 245795 BLD 00,Building Additions/Alterations,"Oct 30, 2014",Permit Issued,1240 BAY ST
+20,14 232978 PSA 00,Plumbing(PS),"Oct 6, 2014",Permit Issued,1240 BAY ST
+21,13 252676 BLD 00,Building Additions/Alterations,"Oct 18, 2013",Inspection,1240 BAY ST
+22,13 150089 PLB 00,Plumbing(PS),"Apr 16, 2013",Inspection,1240 BAY ST
+23,13 150089 BLD 00,Building Additions/Alterations,"Apr 15, 2013",Inspection,1240 BAY ST
+0,15 107937 BLD 00,Building Additions/Alterations,"Jan 23, 2015",Inspection,1250 BAY ST
+1,14 108304 HVA 00,Mechanical(MS),"Jan 27, 2014",Permit Issued,1250 BAY ST
+0,22 162214 BLD 00,Building Additions/Alterations,"Jun 24, 2022",Permit Issued,1255 BAY ST
+1,22 115432 HVA 00,Mechanical(MS),"Feb 22, 2022",Permit Issued,1255 BAY ST
+2,22 115432 PLB 00,Plumbing(PS),"Feb 22, 2022",Permit Issued,1255 BAY ST
+3,22 115432 BLD 00,Building Additions/Alterations,"Feb 18, 2022",Permit Issued,1255 BAY ST
+4,20 115685 HVA 00,Mechanical(MS),"Feb 18, 2020",Permit Issued,1255 BAY ST
+5,20 115685 BLD 00,Building Additions/Alterations,"Feb 14, 2020",Permit Issued,1255 BAY ST
+6,19 248468 HVA 00,Mechanical(MS),"Nov 14, 2019",Permit Issued,1255 BAY ST
+7,19 248468 PLB 00,Plumbing(PS),"Nov 14, 2019",Permit Issued,1255 BAY ST
+8,19 248468 BLD 00,Building Additions/Alterations,"Nov 13, 2019",Inspection,1255 BAY ST
+0,19 167487 PLB 00,Plumbing(PS),"Jul 4, 2019",Permit Issued,1300 BAY ST
+1,19 167487 BLD 00,Building Additions/Alterations,"Jun 13, 2019",Permit Issued,1300 BAY ST
+2,15 202016 BLD 00,Building Additions/Alterations,"Aug 6, 2015",Inspection,1300 BAY ST
+0,20 143885 FND 00,Conditional Permit,,Inspection,1315 BAY ST
+1,20 143885 STR 00,Conditional Permit,,Forwarded for Issuance,1315 BAY ST
+2,20 143885 STR 00,Partial Permit,"Mar 15, 2022",Under Review,1315 BAY ST
+3,20 143885 BLD 00,New Building,"May 26, 2020",Examiner's Notice Sent,1315 BAY ST
+4,20 143885 HVA 00,Mechanical(MS),"May 26, 2020",Ready for Issuance,1315 BAY ST
+5,20 143885 PLB 00,Plumbing(PS),"May 26, 2020",Ready for Issuance,1315 BAY ST
+6,20 143885 DRN 00,Drain and Site Service,"May 26, 2020",Inspection,1315 BAY ST
+7,20 143885 FND 00,Partial Permit,"May 26, 2020",Under Review,1315 BAY ST
+8,19 210306 DEM 00,Demolition Folder (DM),"Aug 22, 2019",Permit Issued,1315 BAY ST
+0,16 161894 FSU 00,Fire/Security Upgrade,"May 26, 2016",Permit Issued,1331 BAY ST
+0,23 119540 FSU 00,Fire/Security Upgrade,"Mar 3, 2023",Not Started,10 BELLAIR ST
+1,22 137921 BLD 02,Building Additions/Alterations,"Jan 6, 2023",Revision Issued,10 BELLAIR ST
+2,22 231413 FSU 00,Fire/Security Upgrade,"Nov 21, 2022",Permit Issued,10 BELLAIR ST
+3,22 215294 BLD 00,Building Additions/Alterations,"Oct 11, 2022",Permit Issued,10 BELLAIR ST
+4,22 215304 BLD 00,Building Additions/Alterations,"Oct 11, 2022",Inspection,10 BELLAIR ST
+5,22 215304 PLB 00,Plumbing(PS),"Oct 11, 2022",Permit Issued,10 BELLAIR ST
+6,22 215304 HVA 00,Mechanical(MS),"Oct 11, 2022",Permit Issued,10 BELLAIR ST
+7,22 207732 BLD 00,Building Additions/Alterations,"Sep 23, 2022",Permit Issued,10 BELLAIR ST
+8,22 207732 PLB 00,Plumbing(PS),"Sep 23, 2022",Permit Issued,10 BELLAIR ST
+9,22 178464 PLB 00,Plumbing(PS),"Aug 11, 2022",Inspection,10 BELLAIR ST
+10,22 178464 BLD 00,Building Additions/Alterations,"Jul 19, 2022",Permit Issued,10 BELLAIR ST
+11,22 145655 HVA 00,Mechanical(MS),"May 20, 2022",Permit Issued,10 BELLAIR ST
+12,22 145655 PLB 00,Plumbing(PS),"May 20, 2022",Inspection,10 BELLAIR ST
+13,22 145655 BLD 00,Building Additions/Alterations,"May 19, 2022",Inspection,10 BELLAIR ST
+14,22 115427 BLD 00,Building Additions/Alterations,"Feb 22, 2022",Inspection,10 BELLAIR ST
+15,21 234993 BLD 00,Building Additions/Alterations,"Nov 15, 2021",Inspection,10 BELLAIR ST
+16,19 182978 BLD 01,Building Additions/Alterations,"Jun 1, 2020",Revision Issued,10 BELLAIR ST
+17,19 182978 BLD 00,Building Additions/Alterations,"Jul 5, 2019",Permit Issued,10 BELLAIR ST
+18,18 241703 HVA 01,Mechanical(MS),"Apr 2, 2019",Revision Issued,10 BELLAIR ST
+19,18 241703 HVA 00,Mechanical(MS),"Oct 16, 2018",Inspection,10 BELLAIR ST
+20,18 122959 HVA 00,Mechanical(MS),"Mar 6, 2018",Inspection,10 BELLAIR ST
+21,18 122959 PLB 00,Plumbing(PS),"Mar 6, 2018",Inspection,10 BELLAIR ST
+22,17 265704 BLD 00,Building Additions/Alterations,"Nov 28, 2017",Inspection,10 BELLAIR ST
+23,16 268992 BLD 00,Building Additions/Alterations,"Dec 21, 2016",Inspection,10 BELLAIR ST
+24,16 119633 BLD 00,Building Additions/Alterations,"Feb 23, 2016",Permit Issued,10 BELLAIR ST
+25,15 132813 BLD 00,Building Additions/Alterations,"Mar 27, 2015",Permit Issued,10 BELLAIR ST
+26,14 134747 BLD 00,Building Additions/Alterations,"Mar 28, 2014",Inspection,10 BELLAIR ST
+27,14 134747 HVA 00,Mechanical(MS),"Mar 28, 2014",Permit Issued,10 BELLAIR ST
+28,14 134747 PLB 00,Plumbing(PS),"Mar 28, 2014",Permit Issued,10 BELLAIR ST
+0,22 137921 BLD 02,Building Additions/Alterations,"Jan 6, 2023",Revision Issued,10 BELLAIR ST
+1,22 137921 BLD 01,Building Additions/Alterations,"Dec 5, 2022",Revision Issued,10 BELLAIR ST
+2,22 137921 PLB 01,Plumbing(PS),"Dec 5, 2022",Revision Issued,10 BELLAIR ST
+3,22 137921 BLD 00,Building Additions/Alterations,"Apr 25, 2022",Inspection,10 BELLAIR ST
+4,22 137921 HVA 00,Mechanical(MS),"Apr 25, 2022",Inspection,10 BELLAIR ST
+5,22 137921 PLB 00,Plumbing(PS),"Apr 25, 2022",Inspection,10 BELLAIR ST
+0,23 103181 BLD 00,Building Additions/Alterations,"Jan 13, 2023",Inspection,10 BELLAIR ST
+0,13 244237 PSA 00,Plumbing(PS),"Oct 1, 2013",Inspection,24 BELLAIR ST
+1,13 211051 BLD 00,Building Additions/Alterations,"Jul 26, 2013",Permit Issued,24 BELLAIR ST
+2,13 211051 HVA 00,Mechanical(MS),"Jul 26, 2013",Permit Issued,24 BELLAIR ST
+3,13 211051 PLB 00,Plumbing(PS),"Jul 26, 2013",Permit Issued,24 BELLAIR ST
+0,18 268339 PLB 00,Plumbing(PS),"Jan 2, 2019",Inspection,25 BELLAIR ST
+1,18 268339 BLD 00,Building Additions/Alterations,"Dec 14, 2018",Inspection,25 BELLAIR ST
+2,15 106746 BLD 00,Building Additions/Alterations,"Feb 19, 2015",Inspection,25 BELLAIR ST
+3,15 106746 MSA 00,Mechanical(MS),"Jan 22, 2015",Inspection,25 BELLAIR ST
+4,13 244247 PSA 00,Plumbing(PS),"Oct 1, 2013",Inspection,25 BELLAIR ST
+0,22 144674 HVA 00,Mechanical(MS),"May 11, 2022",Permit Issued,26 BELLAIR ST
+1,22 144674 PLB 00,Plumbing(PS),"May 11, 2022",Permit Issued,26 BELLAIR ST
+2,22 144674 BLD 00,Building Additions/Alterations,"May 10, 2022",Permit Issued,26 BELLAIR ST
+0,21 129597 BLD 00,Small Residential Projects,"Mar 25, 2021",Inspection,21 BELMONT ST
+0,21 146334 BLD 00,Small Residential Projects,"Apr 28, 2021",Permit Issued,23 BELMONT ST
+0,14 157755 BLD 01,Building Additions/Alterations,"Aug 15, 2014",Revision Issued,55 BELMONT ST
+1,14 157755 BLD 00,Building Additions/Alterations,"May 20, 2014",Inspection,55 BELMONT ST
+0,22 193172 BLD 00,Building Additions/Alterations,"Sep 18, 2022",Permit Issued,7 BERRYMAN ST
+1,16 169719 BLD 01,Building Additions/Alterations,"Aug 23, 2016",Revision Issued,7 BERRYMAN ST
+2,16 169719 HVA 00,Mechanical(MS),"Aug 23, 2016",Inspection,7 BERRYMAN ST
+3,16 169719 BLD 00,Building Additions/Alterations,"Jun 10, 2016",Inspection,7 BERRYMAN ST
+0,21 155211 BLD 00,Small Residential Projects,"May 20, 2021",Inspection,23 BERRYMAN ST
+1,21 155211 HVA 00,Mechanical(MS),"May 20, 2021",Inspection,23 BERRYMAN ST
+2,21 155211 PLB 00,Plumbing(PS),"May 20, 2021",Inspection,23 BERRYMAN ST
+3,20 209472 BLD 00,Small Residential Projects,"Oct 22, 2020",Inspection,23 BERRYMAN ST
+0,21 199864 BLD 00,Building Additions/Alterations,"Aug 17, 2021",Inspection,85 BLEECKER ST
+1,15 140041 PSA 00,Plumbing(PS),"Apr 13, 2015",Permit Issued,85 BLEECKER ST
+0,23 122612 DRN 00,Drain and Site Service,"Mar 13, 2023",Closed,86 BLEECKER ST
+0,16 117332 BLD 00,Small Residential Projects,"Feb 18, 2016",Inspection,92 BLEECKER ST
+0,22 136872 BLD 00,Small Residential Projects,"Apr 21, 2022",Permit Issued,94 BLEECKER ST
+1,22 136872 PLB 00,Plumbing(PS),"Apr 21, 2022",Permit Issued,94 BLEECKER ST
+2,22 100946 BLD 00,Small Residential Projects,"Jan 7, 2022",Permit Issued,94 BLEECKER ST
+0,22 136885 BLD 00,Small Residential Projects,"Apr 21, 2022",Inspection,96 BLEECKER ST
+1,21 246901 PLB 00,Plumbing(PS),"Dec 15, 2021",Inspection,96 BLEECKER ST
+2,21 246901 HVA 00,Mechanical(MS),"Dec 15, 2021",Permit Issued,96 BLEECKER ST
+3,21 246901 BLD 00,Small Residential Projects,"Dec 13, 2021",Inspection,96 BLEECKER ST
+0,21 199864 BLD 00,Building Additions/Alterations,"Aug 17, 2021",Inspection,101 BLEECKER ST
+1,17 129791 BLD 00,Building Additions/Alterations,"Mar 16, 2017",Inspection,101 BLEECKER ST
+2,15 140041 PSA 00,Plumbing(PS),"Apr 13, 2015",Permit Issued,101 BLEECKER ST
+3,15 140046 PSA 00,Plumbing(PS),"Apr 13, 2015",Permit Issued,101 BLEECKER ST
+0,15 213524 BLD 00,Small Residential Projects,"Aug 27, 2015",Inspection,106 BLEECKER ST
+0,22 227401 BLD 00,Small Residential Projects,"Nov 9, 2022",Examiner's Notice Sent,108 BLEECKER ST
+0,21 214624 PLB 00,Plumbing(PS),"Sep 21, 2021",Inspection,135 BLEECKER ST
+1,21 214624 BLD 00,Building Additions/Alterations,"Sep 20, 2021",Inspection,135 BLEECKER ST
+2,21 189336 BLD 00,Building Additions/Alterations,"Aug 9, 2021",Permit Issued,135 BLEECKER ST
+0,19 224570 BLD 00,Building Additions/Alterations,"Oct 24, 2019",Permit Issued,179 BLEECKER ST
+1,17 175103 BLD 00,Small Residential Projects,"Jun 7, 2017",Permit Issued,179 BLEECKER ST
+0,22 133467 MSA 00,Mechanical(MS),"Apr 13, 2022",Permit Issued,275 BLEECKER ST
+1,20 217118 MSA 00,Mechanical(MS),"Nov 17, 2020",Permit Issued,275 BLEECKER ST
+2,19 239972 FSU 00,Fire/Security Upgrade,"Oct 25, 2019",Inspection,275 BLEECKER ST
+3,19 139317 PLB 00,Plumbing(PS),"Apr 24, 2019",Permit Issued,275 BLEECKER ST
+4,19 140360 BLD 00,Building Additions/Alterations,"Apr 17, 2019",Permit Issued,275 BLEECKER ST
+5,19 140360 HVA 00,Mechanical(MS),"Apr 17, 2019",Permit Issued,275 BLEECKER ST
+6,19 140360 PLB 00,Plumbing(PS),"Apr 17, 2019",Permit Issued,275 BLEECKER ST
+7,19 139317 HVA 00,Mechanical(MS),"Apr 16, 2019",Permit Issued,275 BLEECKER ST
+8,19 139754 BLD 00,Building Additions/Alterations,"Apr 15, 2019",Permit Issued,275 BLEECKER ST
+9,19 139754 HVA 00,Mechanical(MS),"Apr 15, 2019",Permit Issued,275 BLEECKER ST
+10,19 139754 PLB 00,Plumbing(PS),"Apr 15, 2019",Permit Issued,275 BLEECKER ST
+11,19 139317 BLD 00,Building Additions/Alterations,"Apr 12, 2019",Permit Issued,275 BLEECKER ST
+12,18 259573 PSA 00,Plumbing(PS),"Nov 22, 2018",Permit Issued,275 BLEECKER ST
+13,18 231508 BLD 00,Building Additions/Alterations,"Sep 25, 2018",Permit Issued,275 BLEECKER ST
+14,18 200721 FSU 00,Fire/Security Upgrade,"Jul 30, 2018",Inspection,275 BLEECKER ST
+15,18 177148 FSU 00,Fire/Security Upgrade,"Jun 13, 2018",Inspection,275 BLEECKER ST
+16,18 130081 FSU 00,Fire/Security Upgrade,"Mar 19, 2018",Inspection,275 BLEECKER ST
+17,18 130208 FSU 00,Fire/Security Upgrade,"Mar 19, 2018",Inspection,275 BLEECKER ST
+18,18 120080 PSA 00,Plumbing(PS),"Feb 22, 2018",Refusal Notice,275 BLEECKER ST
+19,18 120090 PSA 00,Plumbing(PS),"Feb 22, 2018",Permit Issued,275 BLEECKER ST
+20,17 183840 BLD 00,Building Additions/Alterations,"Jun 20, 2017",Inspection,275 BLEECKER ST
+21,17 103692 PSA 00,Plumbing(PS),"Jan 13, 2017",Inspection,275 BLEECKER ST
+0,20 217118 MSA 00,Mechanical(MS),"Nov 17, 2020",Permit Issued,325 BLEECKER ST
+1,19 139317 PLB 00,Plumbing(PS),"Apr 24, 2019",Permit Issued,325 BLEECKER ST
+2,19 139317 HVA 00,Mechanical(MS),"Apr 16, 2019",Permit Issued,325 BLEECKER ST
+3,19 139317 BLD 00,Building Additions/Alterations,"Apr 12, 2019",Permit Issued,325 BLEECKER ST
+4,18 130208 FSU 00,Fire/Security Upgrade,"Mar 19, 2018",Inspection,325 BLEECKER ST
+0,19 140360 BLD 00,Building Additions/Alterations,"Apr 17, 2019",Permit Issued,375 BLEECKER ST
+1,19 140360 HVA 00,Mechanical(MS),"Apr 17, 2019",Permit Issued,375 BLEECKER ST
+2,19 140360 PLB 00,Plumbing(PS),"Apr 17, 2019",Permit Issued,375 BLEECKER ST
+3,18 130081 FSU 00,Fire/Security Upgrade,"Mar 19, 2018",Inspection,375 BLEECKER ST
+0,22 141771 HVA 00,Mechanical(MS),"May 31, 2022",Permit Issued,1 BLOOR ST W
+1,22 141771 PLB 00,Plumbing(PS),"May 31, 2022",Permit Issued,1 BLOOR ST W
+2,22 141771 BLD 00,Building Additions/Alterations,"May 27, 2022",Permit Issued,1 BLOOR ST W
+3,22 102049 BLD 00,Building Additions/Alterations,"Jan 10, 2022",Inspection,1 BLOOR ST W
+4,22 102049 HVA 00,Mechanical(MS),"Jan 10, 2022",Permit Issued,1 BLOOR ST W
+5,22 102049 PLB 00,Plumbing(PS),"Jan 10, 2022",Permit Issued,1 BLOOR ST W
+6,21 247526 BLD 00,Building Additions/Alterations,"Dec 29, 2021",Permit Issued,1 BLOOR ST W
+7,21 247526 HVA 00,Mechanical(MS),"Dec 29, 2021",Permit Issued,1 BLOOR ST W
+8,21 247526 PLB 00,Plumbing(PS),"Dec 29, 2021",Permit Issued,1 BLOOR ST W
+9,15 260226 BLD 04,Building Additions/Alterations,"Aug 12, 2019",Revision Issued,1 BLOOR ST W
+10,19 106142 HVA 00,Mechanical(MS),"Apr 5, 2019",Inspection,1 BLOOR ST W
+11,19 106142 PLB 00,Plumbing(PS),"Apr 4, 2019",Inspection,1 BLOOR ST W
+12,19 106142 DRN 00,Drain and Site Service,"Apr 4, 2019",Inspection,1 BLOOR ST W
+13,19 106142 BLD 00,New Building,"Apr 3, 2019",Inspection,1 BLOOR ST W
+14,15 260226 BLD 03,Building Additions/Alterations,"May 4, 2018",Revision Issued,1 BLOOR ST W
+15,15 260226 BLD 02,Building Additions/Alterations,"Mar 19, 2018",Revision Issued,1 BLOOR ST W
+16,15 260226 BLD 01,Building Additions/Alterations,"Dec 13, 2016",Revision Issued,1 BLOOR ST W
+17,15 260226 BLD 00,Building Additions/Alterations,"Dec 3, 2015",Inspection,1 BLOOR ST W
+0,22 133611 FSU 00,Fire/Security Upgrade,"Apr 19, 2022",Permit Issued,1 BLOOR ST E
+1,10 299436 HVA 02,Mechanical(MS),"Mar 7, 2022",Revision Issued,1 BLOOR ST E
+2,10 299436 PLB 02,Plumbing(PS),"Mar 7, 2022",Revision Issued,1 BLOOR ST E
+3,10 299436 BLD 04,New Building,"Sep 27, 2021",Revision Issued,1 BLOOR ST E
+4,20 108237 HVA 00,Mechanical(MS),"Jan 24, 2020",Inspection,1 BLOOR ST E
+5,17 275306 BLD 02,Building Additions/Alterations,"Nov 8, 2018",Revision Issued,1 BLOOR ST E
+6,17 275306 HVA 02,Mechanical(MS),"Nov 8, 2018",Revision Issued,1 BLOOR ST E
+7,10 299436 BLD 03,New Building,"Aug 21, 2018",Revision Issued,1 BLOOR ST E
+8,18 174448 BLD 00,Building Additions/Alterations,"Jun 8, 2018",Inspection,1 BLOOR ST E
+9,18 174464 BLD 00,Building Additions/Alterations,"Jun 8, 2018",Inspection,1 BLOOR ST E
+10,18 174464 HVA 00,Mechanical(MS),"Jun 8, 2018",Permit Issued,1 BLOOR ST E
+11,17 275306 BLD 01,Building Additions/Alterations,"May 15, 2018",Revision Issued,1 BLOOR ST E
+12,17 275306 PLB 01,Plumbing(PS),"May 15, 2018",Revision Issued,1 BLOOR ST E
+13,17 275306 HVA 01,Mechanical(MS),"May 15, 2018",Revision Issued,1 BLOOR ST E
+14,18 139649 PLB 00,Plumbing(PS),"Apr 9, 2018",Inspection,1 BLOOR ST E
+15,18 139649 BLD 00,Building Additions/Alterations,"Apr 6, 2018",Inspection,1 BLOOR ST E
+16,17 178170 BLD 01,Building Additions/Alterations,"Jan 22, 2018",Revision Issued,1 BLOOR ST E
+17,18 104503 FSU 00,Fire/Security Upgrade,"Jan 15, 2018",Permit Issued,1 BLOOR ST E
+18,17 275306 HVA 00,Mechanical(MS),"Jan 11, 2018",Permit Issued,1 BLOOR ST E
+19,17 275306 PLB 00,Plumbing(PS),"Jan 11, 2018",Inspection,1 BLOOR ST E
+20,17 275306 BLD 00,Building Additions/Alterations,"Dec 13, 2017",Inspection,1 BLOOR ST E
+21,17 178170 BLD 00,Building Additions/Alterations,"Jun 13, 2017",Inspection,1 BLOOR ST E
+22,10 299436 BLD 02,New Building,"Aug 25, 2016",Revision Issued,1 BLOOR ST E
+23,10 299436 HVA 01,Mechanical(MS),"Aug 25, 2016",Revision Issued,1 BLOOR ST E
+24,10 299436 PLB 01,Plumbing(PS),"Aug 25, 2016",Revision Issued,1 BLOOR ST E
+25,13 231489 FSU 01,Fire/Security Upgrade,"Jun 26, 2015",Revision Issued,1 BLOOR ST E
+26,10 299436 BLD 01,New Building,"Apr 2, 2015",Revision Issued,1 BLOOR ST E
+27,13 231489 FSU 00,Fire/Security Upgrade,"Sep 6, 2013",Inspection,1 BLOOR ST E
+0,22 242834 HVA 00,Mechanical(MS),"Dec 30, 2022",Permit Issued,2 BLOOR ST E
+1,22 242834 PLB 00,Plumbing(PS),"Dec 30, 2022",Permit Issued,2 BLOOR ST E
+2,22 242834 BLD 00,Building Additions/Alterations,"Dec 29, 2022",Permit Issued,2 BLOOR ST E
+3,22 231516 FSU 00,Fire/Security Upgrade,"Nov 22, 2022",Permit Issued,2 BLOOR ST E
+4,22 225165 BLD 00,Building Additions/Alterations,"Nov 3, 2022",Inspection,2 BLOOR ST E
+5,22 225165 HVA 00,Mechanical(MS),"Nov 3, 2022",Permit Issued,2 BLOOR ST E
+6,22 221145 FSU 00,Fire/Security Upgrade,"Nov 2, 2022",Permit Issued,2 BLOOR ST E
+7,22 202509 HVA 00,Mechanical(MS),"Sep 14, 2022",Inspection,2 BLOOR ST E
+8,22 202509 PLB 00,Plumbing(PS),"Sep 14, 2022",Inspection,2 BLOOR ST E
+9,22 202509 BLD 00,Building Additions/Alterations,"Sep 13, 2022",Inspection,2 BLOOR ST E
+10,22 184078 BLD 00,Building Additions/Alterations,"Aug 2, 2022",Permit Issued,2 BLOOR ST E
+11,22 165438 BLD 00,Building Additions/Alterations,"Jun 21, 2022",Closed,2 BLOOR ST E
+12,22 165438 HVA 00,Mechanical(MS),"Jun 21, 2022",Closed,2 BLOOR ST E
+13,22 165438 PLB 00,Plumbing(PS),"Jun 21, 2022",Closed,2 BLOOR ST E
+14,21 251663 BLD 00,Building Additions/Alterations,"Jan 11, 2022",Inspection,2 BLOOR ST E
+15,21 251663 HVA 00,Mechanical(MS),"Jan 11, 2022",Permit Issued,2 BLOOR ST E
+16,21 251663 PLB 00,Plumbing(PS),"Jan 11, 2022",Inspection,2 BLOOR ST E
+17,20 154478 FSU 03,Fire/Security Upgrade,"Jan 6, 2022",Revision Issued,2 BLOOR ST E
+18,21 218957 BLD 00,Building Additions/Alterations,"Sep 29, 2021",Inspection,2 BLOOR ST E
+19,21 218957 HVA 00,Mechanical(MS),"Sep 29, 2021",Permit Issued,2 BLOOR ST E
+20,21 208398 BLD 00,Building Additions/Alterations,"Sep 17, 2021",Inspection,2 BLOOR ST E
+21,21 208398 HVA 00,Mechanical(MS),"Sep 17, 2021",Inspection,2 BLOOR ST E
+22,21 208985 FSU 00,Fire/Security Upgrade,"Sep 17, 2021",Permit Issued,2 BLOOR ST E
+23,21 137977 BLD 01,Building Additions/Alterations,"Aug 19, 2021",Revision Issued,2 BLOOR ST E
+24,21 172457 BLD 00,Building Additions/Alterations,"Jun 23, 2021",Inspection,2 BLOOR ST E
+25,21 172457 HVA 00,Mechanical(MS),"Jun 23, 2021",Permit Issued,2 BLOOR ST E
+26,21 172457 PLB 00,Plumbing(PS),"Jun 23, 2021",Inspection,2 BLOOR ST E
+27,21 167602 FSU 00,Fire/Security Upgrade,"Jun 9, 2021",Permit Issued,2 BLOOR ST E
+28,21 163134 BLD 00,Building Additions/Alterations,"Jun 1, 2021",Permit Issued,2 BLOOR ST E
+29,21 163134 HVA 00,Mechanical(MS),"Jun 1, 2021",Permit Issued,2 BLOOR ST E
+30,21 163134 PLB 00,Plumbing(PS),"Jun 1, 2021",Inspection,2 BLOOR ST E
+31,20 154478 FSU 02,Fire/Security Upgrade,"May 20, 2021",Revision Issued,2 BLOOR ST E
+32,21 137977 BLD 00,Building Additions/Alterations,"Apr 9, 2021",Permit Issued,2 BLOOR ST E
+33,21 134143 BLD 00,Building Additions/Alterations,"Mar 31, 2021",Inspection,2 BLOOR ST E
+34,21 131290 FSU 00,Fire/Security Upgrade,"Mar 25, 2021",Permit Issued,2 BLOOR ST E
+35,21 121877 FSU 00,Fire/Security Upgrade,"Mar 3, 2021",Permit Issued,2 BLOOR ST E
+36,21 107093 BLD 00,Building Additions/Alterations,"Jan 26, 2021",Permit Issued,2 BLOOR ST E
+37,20 221934 FSU 00,Fire/Security Upgrade,"Nov 24, 2020",Permit Issued,2 BLOOR ST E
+38,20 154478 FSU 01,Fire/Security Upgrade,"Sep 3, 2020",Revision Issued,2 BLOOR ST E
+39,19 126999 HVA 02,Mechanical(MS),"Jul 23, 2020",Revision Issued,2 BLOOR ST E
+40,20 161411 BLD 00,Building Additions/Alterations,"Jun 30, 2020",Permit Issued,2 BLOOR ST E
+41,20 154478 FSU 00,Fire/Security Upgrade,"Jun 11, 2020",Permit Issued,2 BLOOR ST E
+42,20 147750 SGN 00,Sign Permit,"May 27, 2020",Inspection,2 BLOOR ST E
+43,20 147750 DST 00,Designated Structures,"May 27, 2020",Permit Issued,2 BLOOR ST E
+44,19 126999 BLD 01,Building Additions/Alterations,"Apr 20, 2020",Revision Issued,2 BLOOR ST E
+45,19 126999 HVA 01,Mechanical(MS),"Apr 20, 2020",Revision Issued,2 BLOOR ST E
+46,19 137647 BLD 00,Building Additions/Alterations,"Apr 9, 2019",Inspection,2 BLOOR ST E
+47,19 137647 HVA 00,Mechanical(MS),"Apr 9, 2019",Inspection,2 BLOOR ST E
+48,19 126999 HVA 00,Mechanical(MS),"Mar 29, 2019",Inspection,2 BLOOR ST E
+49,19 126999 BLD 00,Building Additions/Alterations,"Mar 25, 2019",Inspection,2 BLOOR ST E
+50,19 114059 BLD 00,Building Additions/Alterations,"Feb 11, 2019",Inspection,2 BLOOR ST E
+51,18 245425 BLD 00,Building Additions/Alterations,"Oct 19, 2018",Permit Issued,2 BLOOR ST E
+52,18 119017 BLD 00,Building Additions/Alterations,"Feb 20, 2018",Inspection,2 BLOOR ST E
+53,18 119017 HVA 00,Mechanical(MS),"Feb 20, 2018",Inspection,2 BLOOR ST E
+54,18 119017 PLB 00,Plumbing(PS),"Feb 20, 2018",Inspection,2 BLOOR ST E
+55,17 269484 BLD 00,Building Additions/Alterations,"Nov 30, 2017",Permit Issued,2 BLOOR ST E
+56,17 263588 BLD 00,Building Additions/Alterations,"Nov 16, 2017",Inspection,2 BLOOR ST E
+57,17 239859 BLD 00,Building Additions/Alterations,"Sep 27, 2017",Permit Issued,2 BLOOR ST E
+58,17 186642 BLD 00,Building Additions/Alterations,"Jul 4, 2017",Inspection,2 BLOOR ST E
+59,17 154429 BLD 00,Building Additions/Alterations,"May 10, 2017",Permit Issued,2 BLOOR ST E
+60,17 112646 MSA 00,Mechanical(MS),"Feb 3, 2017",Permit Issued,2 BLOOR ST E
+61,16 271334 HVA 00,Mechanical(MS),"Jan 6, 2017",Permit Issued,2 BLOOR ST E
+62,16 271334 BLD 00,Building Additions/Alterations,"Dec 29, 2016",Permit Issued,2 BLOOR ST E
+63,16 270340 BLD 00,Building Additions/Alterations,"Dec 23, 2016",Permit Issued,2 BLOOR ST E
+64,16 262068 BLD 00,Building Additions/Alterations,"Dec 9, 2016",Inspection,2 BLOOR ST E
+65,16 200354 BLD 00,Building Additions/Alterations,"Aug 3, 2016",Permit Issued,2 BLOOR ST E
+66,16 190858 BLD 00,Building Additions/Alterations,"Jul 14, 2016",Inspection,2 BLOOR ST E
+67,15 231581 BLD 00,Building Additions/Alterations,"Oct 1, 2015",Permit Issued,2 BLOOR ST E
+68,15 157985 BLD 00,Building Additions/Alterations,"May 15, 2015",Permit Issued,2 BLOOR ST E
+69,15 150072 BLD 00,Building Additions/Alterations,"May 5, 2015",Permit Issued,2 BLOOR ST E
+70,15 117390 BLD 00,Building Additions/Alterations,"Feb 23, 2015",Permit Issued,2 BLOOR ST E
+71,15 117390 HVA 00,Mechanical(MS),"Feb 23, 2015",Permit Issued,2 BLOOR ST E
+72,14 233857 BLD 00,Building Additions/Alterations,"Oct 14, 2014",Permit Issued,2 BLOOR ST E
+73,14 233857 HVA 00,Mechanical(MS),"Oct 14, 2014",Permit Issued,2 BLOOR ST E
+74,14 147220 BLD 00,Building Additions/Alterations,"Apr 30, 2014",Inspection,2 BLOOR ST E
+75,14 130118 FSU 00,Fire/Security Upgrade,"Mar 19, 2014",Inspection,2 BLOOR ST E
+76,13 273059 BLD 00,Building Additions/Alterations,"Dec 3, 2013",Inspection,2 BLOOR ST E
+77,13 273059 HVA 00,Mechanical(MS),"Dec 3, 2013",Inspection,2 BLOOR ST E
+78,13 185006 FSU 00,Fire/Security Upgrade,"Jun 10, 2013",Permit Issued,2 BLOOR ST E
+0,22 241520 SGN 00,Sign Permit,"Jan 3, 2023",Permit Issued,2 BLOOR ST W
+1,22 241520 DST 00,Designated Structures,"Dec 22, 2022",Permit Issued,2 BLOOR ST W
+2,22 219822 HVA 00,Mechanical(MS),"Nov 1, 2022",Inspection,2 BLOOR ST W
+3,22 219822 PLB 00,Plumbing(PS),"Nov 1, 2022",Inspection,2 BLOOR ST W
+4,22 219822 BLD 00,Building Additions/Alterations,"Oct 31, 2022",Inspection,2 BLOOR ST W
+5,22 106150 HVA 00,Mechanical(MS),"Jan 26, 2022",Inspection,2 BLOOR ST W
+6,22 106150 PLB 00,Plumbing(PS),"Jan 26, 2022",Permit Issued,2 BLOOR ST W
+7,22 106150 DRN 00,Drain and Site Service,"Jan 26, 2022",Inspection,2 BLOOR ST W
+8,22 106150 BLD 00,Building Additions/Alterations,"Jan 25, 2022",Inspection,2 BLOOR ST W
+9,20 123637 BLD 00,Building Additions/Alterations,"Mar 9, 2020",Permit Issued,2 BLOOR ST W
+10,18 181551 BLD 01,Building Additions/Alterations,"Feb 20, 2020",Revision Issued,2 BLOOR ST W
+11,18 181551 HVA 01,Mechanical(MS),"Feb 20, 2020",Revision Issued,2 BLOOR ST W
+12,19 177337 HVA 00,Mechanical(MS),"Jul 2, 2019",Inspection,2 BLOOR ST W
+13,19 177337 BLD 00,Building Additions/Alterations,"Jun 24, 2019",Inspection,2 BLOOR ST W
+14,18 214433 PSA 00,Plumbing(PS),"Aug 23, 2018",Permit Issued,2 BLOOR ST W
+15,18 181551 HVA 00,Mechanical(MS),"Jun 22, 2018",Inspection,2 BLOOR ST W
+16,18 181551 BLD 00,Building Additions/Alterations,"Jun 21, 2018",Inspection,2 BLOOR ST W
+17,17 159404 BLD 00,Building Additions/Alterations,"May 15, 2017",Inspection,2 BLOOR ST W
+18,17 159404 HVA 00,Mechanical(MS),"May 15, 2017",Inspection,2 BLOOR ST W
+19,17 134412 HVA 00,Mechanical(MS),"Apr 25, 2017",Permit Issued,2 BLOOR ST W
+20,17 134412 BLD 00,Building Additions/Alterations,"Apr 18, 2017",Inspection,2 BLOOR ST W
+0,22 230162 BLD 00,Building Additions/Alterations,"Nov 18, 2022",Under Review,19 BLOOR ST W
+1,21 226513 BLD 00,Building Additions/Alterations,"Nov 19, 2021",Permit Issued,19 BLOOR ST W
+2,21 226513 HVA 00,Mechanical(MS),"Nov 19, 2021",Permit Issued,19 BLOOR ST W
+0,18 119017 BLD 00,Building Additions/Alterations,"Feb 20, 2018",Inspection,20 BLOOR ST E
+1,18 119017 HVA 00,Mechanical(MS),"Feb 20, 2018",Inspection,20 BLOOR ST E
+2,18 119017 PLB 00,Plumbing(PS),"Feb 20, 2018",Inspection,20 BLOOR ST E
+3,17 263588 BLD 00,Building Additions/Alterations,"Nov 16, 2017",Inspection,20 BLOOR ST E
+4,17 186642 BLD 00,Building Additions/Alterations,"Jul 4, 2017",Inspection,20 BLOOR ST E
+0,22 236245 HVA 00,Mechanical(MS),"Jan 12, 2023",Permit Issued,31 BLOOR ST E
+1,22 236245 PLB 00,Plumbing(PS),"Jan 12, 2023",Inspection,31 BLOOR ST E
+2,22 147778 BLD 01,Building Additions/Alterations,"Dec 29, 2022",Revision Issued,31 BLOOR ST E
+3,22 147778 HVA 01,Mechanical(MS),"Dec 29, 2022",Revision Issued,31 BLOOR ST E
+4,22 236245 BLD 00,Building Additions/Alterations,"Dec 5, 2022",Permit Issued,31 BLOOR ST E
+5,22 205414 HVA 01,Mechanical(MS),"Nov 30, 2022",Closed,31 BLOOR ST E
+6,22 214146 HVA 00,Mechanical(MS),"Oct 13, 2022",Permit Issued,31 BLOOR ST E
+7,22 214146 PLB 00,Plumbing(PS),"Oct 13, 2022",Permit Issued,31 BLOOR ST E
+8,22 214146 BLD 00,Building Additions/Alterations,"Oct 12, 2022",Permit Issued,31 BLOOR ST E
+9,22 211224 BLD 00,Building Additions/Alterations,"Oct 7, 2022",Permit Issued,31 BLOOR ST E
+10,22 205414 BLD 00,Building Additions/Alterations,"Sep 29, 2022",Inspection,31 BLOOR ST E
+11,22 205414 HVA 00,Mechanical(MS),"Sep 29, 2022",Closed,31 BLOOR ST E
+12,22 147778 BLD 00,Building Additions/Alterations,"May 18, 2022",Permit Issued,31 BLOOR ST E
+13,22 147778 HVA 00,Mechanical(MS),"May 18, 2022",Permit Issued,31 BLOOR ST E
+14,22 147778 PLB 00,Plumbing(PS),"May 18, 2022",Permit Issued,31 BLOOR ST E
+15,22 138461 BLD 00,Building Additions/Alterations,"Apr 29, 2022",Permit Issued,31 BLOOR ST E
+16,22 138461 HVA 00,Mechanical(MS),"Apr 29, 2022",Permit Issued,31 BLOOR ST E
+17,22 138461 PLB 00,Plumbing(PS),"Apr 29, 2022",Permit Issued,31 BLOOR ST E
+18,20 113004 BLD 01,Building Additions/Alterations,"Feb 10, 2022",Revision Issued,31 BLOOR ST E
+19,20 113004 HVA 01,Mechanical(MS),"Feb 10, 2022",Revision Issued,31 BLOOR ST E
+20,21 125359 FSU 00,Fire/Security Upgrade,"Mar 11, 2021",Permit Issued,31 BLOOR ST E
+21,20 207251 BLD 00,Building Additions/Alterations,"Oct 19, 2020",Inspection,31 BLOOR ST E
+22,20 207251 HVA 00,Mechanical(MS),"Oct 19, 2020",Permit Issued,31 BLOOR ST E
+23,20 162133 BLD 00,Building Additions/Alterations,"Jul 16, 2020",Inspection,31 BLOOR ST E
+24,20 153536 SGN 00,Sign Permit,"Jun 8, 2020",Inspection,31 BLOOR ST E
+25,20 153536 DST 00,Designated Structures,"Jun 8, 2020",Inspection,31 BLOOR ST E
+26,20 121817 HVA 00,Mechanical(MS),"Mar 6, 2020",Permit Issued,31 BLOOR ST E
+27,20 121817 PLB 00,Plumbing(PS),"Mar 6, 2020",Permit Issued,31 BLOOR ST E
+28,20 113004 BLD 00,Building Additions/Alterations,"Feb 6, 2020",Work Not Started,31 BLOOR ST E
+29,20 113004 HVA 00,Mechanical(MS),"Feb 6, 2020",Permit Issued,31 BLOOR ST E
+30,20 113004 PLB 00,Plumbing(PS),"Feb 6, 2020",Permit Issued,31 BLOOR ST E
+31,18 158479 FSU 00,Fire/Security Upgrade,"Jun 13, 2018",Permit Issued,31 BLOOR ST E
+32,18 110728 BLD 00,Building Additions/Alterations,"Jan 29, 2018",Permit Issued,31 BLOOR ST E
+33,17 253672 FSU 00,Fire/Security Upgrade,"Oct 30, 2017",Inspection,31 BLOOR ST E
+34,17 253304 BLD 00,Building Additions/Alterations,"Oct 25, 2017",Permit Issued,31 BLOOR ST E
+35,17 253304 HVA 00,Mechanical(MS),"Oct 25, 2017",Permit Issued,31 BLOOR ST E
+36,17 175954 BLD 01,Building Additions/Alterations,"Oct 11, 2017",Revision Issued,31 BLOOR ST E
+37,17 143893 BLD 01,Building Additions/Alterations,"Sep 18, 2017",Revision Issued,31 BLOOR ST E
+38,17 175954 BLD 00,Building Additions/Alterations,"Jun 8, 2017",Inspection,31 BLOOR ST E
+39,17 175954 HVA 00,Mechanical(MS),"Jun 8, 2017",Inspection,31 BLOOR ST E
+40,17 143893 HVA 00,Mechanical(MS),"Apr 19, 2017",Inspection,31 BLOOR ST E
+41,17 143893 PLB 00,Plumbing(PS),"Apr 18, 2017",Inspection,31 BLOOR ST E
+42,17 143893 BLD 00,Building Additions/Alterations,"Apr 13, 2017",Inspection,31 BLOOR ST E
+43,17 102923 FSU 00,Fire/Security Upgrade,"Jan 11, 2017",Inspection,31 BLOOR ST E
+44,16 271605 HVA 00,Mechanical(MS),"Jan 3, 2017",Inspection,31 BLOOR ST E
+45,16 260809 BLD 00,Building Additions/Alterations,"Dec 6, 2016",Permit Issued,31 BLOOR ST E
+46,16 115252 BLD 00,Building Additions/Alterations,"Feb 10, 2016",Permit Issued,31 BLOOR ST E
+47,15 243478 BLD 00,Building Additions/Alterations,"Oct 30, 2015",Inspection,31 BLOOR ST E
+48,15 243496 HVA 00,Mechanical(MS),"Oct 30, 2015",Permit Issued,31 BLOOR ST E
+49,15 243496 BLD 00,Building Additions/Alterations,"Oct 29, 2015",Permit Issued,31 BLOOR ST E
+50,15 215679 HVA 00,Mechanical(MS),"Sep 3, 2015",Permit Issued,31 BLOOR ST E
+51,15 215679 BLD 00,Building Additions/Alterations,"Sep 1, 2015",Inspection,31 BLOOR ST E
+52,15 179184 BLD 00,Building Additions/Alterations,"Jun 24, 2015",Inspection,31 BLOOR ST E
+53,15 179184 HVA 00,Mechanical(MS),"Jun 24, 2015",Permit Issued,31 BLOOR ST E
+54,15 127227 BLD 00,Building Additions/Alterations,"Mar 16, 2015",Inspection,31 BLOOR ST E
+55,15 127227 HVA 00,Mechanical(MS),"Mar 16, 2015",Permit Issued,31 BLOOR ST E
+56,15 123268 BLD 00,Building Additions/Alterations,"Mar 3, 2015",Inspection,31 BLOOR ST E
+57,15 123268 HVA 00,Mechanical(MS),"Mar 3, 2015",Permit Issued,31 BLOOR ST E
+58,15 123268 PLB 00,Plumbing(PS),"Mar 3, 2015",Permit Issued,31 BLOOR ST E
+59,14 268166 BLD 00,Building Additions/Alterations,"Dec 29, 2014",Permit Issued,31 BLOOR ST E
+60,14 221115 FSU 01,Fire/Security Upgrade,"Dec 12, 2014",Revision Issued,31 BLOOR ST E
+61,14 262571 BLD 00,Building Additions/Alterations,"Dec 10, 2014",Permit Issued,31 BLOOR ST E
+62,14 262571 HVA 00,Mechanical(MS),"Dec 10, 2014",Permit Issued,31 BLOOR ST E
+63,14 235797 BLD 00,Building Additions/Alterations,"Oct 10, 2014",Permit Issued,31 BLOOR ST E
+64,14 235797 HVA 00,Mechanical(MS),"Oct 10, 2014",Permit Issued,31 BLOOR ST E
+65,14 221115 FSU 00,Fire/Security Upgrade,"Sep 16, 2014",Inspection,31 BLOOR ST E
+66,14 185897 HVA 00,Mechanical(MS),"Aug 1, 2014",Inspection,31 BLOOR ST E
+67,14 161435 FSU 00,Fire/Security Upgrade,"May 27, 2014",Permit Issued,31 BLOOR ST E
+68,13 271017 HVA 00,Mechanical(MS),"Nov 27, 2013",Inspection,31 BLOOR ST E
+69,13 262246 BLD 00,Building Additions/Alterations,"Nov 7, 2013",Inspection,31 BLOOR ST E
+70,13 262246 HVA 00,Mechanical(MS),"Nov 7, 2013",Inspection,31 BLOOR ST E
+71,13 262246 PLB 00,Plumbing(PS),"Nov 7, 2013",Permit Issued,31 BLOOR ST E
+72,13 150368 BLD 00,Building Additions/Alterations,"Apr 15, 2013",Inspection,31 BLOOR ST E
+73,13 150368 PLB 00,Plumbing(PS),"Apr 15, 2013",Inspection,31 BLOOR ST E
+0,22 236245 HVA 00,Mechanical(MS),"Jan 12, 2023",Permit Issued,33 BLOOR ST E
+1,22 236245 PLB 00,Plumbing(PS),"Jan 12, 2023",Inspection,33 BLOOR ST E
+2,22 147778 BLD 01,Building Additions/Alterations,"Dec 29, 2022",Revision Issued,33 BLOOR ST E
+3,22 147778 HVA 01,Mechanical(MS),"Dec 29, 2022",Revision Issued,33 BLOOR ST E
+4,22 236245 BLD 00,Building Additions/Alterations,"Dec 5, 2022",Permit Issued,33 BLOOR ST E
+5,22 214146 HVA 00,Mechanical(MS),"Oct 13, 2022",Permit Issued,33 BLOOR ST E
+6,22 214146 PLB 00,Plumbing(PS),"Oct 13, 2022",Permit Issued,33 BLOOR ST E
+7,22 214146 BLD 00,Building Additions/Alterations,"Oct 12, 2022",Permit Issued,33 BLOOR ST E
+8,22 147778 BLD 00,Building Additions/Alterations,"May 18, 2022",Permit Issued,33 BLOOR ST E
+9,22 147778 HVA 00,Mechanical(MS),"May 18, 2022",Permit Issued,33 BLOOR ST E
+10,22 147778 PLB 00,Plumbing(PS),"May 18, 2022",Permit Issued,33 BLOOR ST E
+11,22 138461 BLD 00,Building Additions/Alterations,"Apr 29, 2022",Permit Issued,33 BLOOR ST E
+12,22 138461 HVA 00,Mechanical(MS),"Apr 29, 2022",Permit Issued,33 BLOOR ST E
+13,22 138461 PLB 00,Plumbing(PS),"Apr 29, 2022",Permit Issued,33 BLOOR ST E
+14,21 125359 FSU 00,Fire/Security Upgrade,"Mar 11, 2021",Permit Issued,33 BLOOR ST E
+15,20 207251 BLD 00,Building Additions/Alterations,"Oct 19, 2020",Inspection,33 BLOOR ST E
+16,20 207251 HVA 00,Mechanical(MS),"Oct 19, 2020",Permit Issued,33 BLOOR ST E
+17,20 162133 BLD 00,Building Additions/Alterations,"Jul 16, 2020",Inspection,33 BLOOR ST E
+18,20 153536 SGN 00,Sign Permit,"Jun 8, 2020",Inspection,33 BLOOR ST E
+19,18 110728 BLD 00,Building Additions/Alterations,"Jan 29, 2018",Permit Issued,33 BLOOR ST E
+20,16 271605 HVA 00,Mechanical(MS),"Jan 3, 2017",Inspection,33 BLOOR ST E
+21,16 115252 BLD 00,Building Additions/Alterations,"Feb 10, 2016",Permit Issued,33 BLOOR ST E
+22,15 243496 HVA 00,Mechanical(MS),"Oct 30, 2015",Permit Issued,33 BLOOR ST E
+23,15 243496 BLD 00,Building Additions/Alterations,"Oct 29, 2015",Permit Issued,33 BLOOR ST E
+24,15 215679 HVA 00,Mechanical(MS),"Sep 3, 2015",Permit Issued,33 BLOOR ST E
+25,15 215679 BLD 00,Building Additions/Alterations,"Sep 1, 2015",Inspection,33 BLOOR ST E
+26,15 179184 BLD 00,Building Additions/Alterations,"Jun 24, 2015",Inspection,33 BLOOR ST E
+27,15 179184 HVA 00,Mechanical(MS),"Jun 24, 2015",Permit Issued,33 BLOOR ST E
+28,14 268166 BLD 00,Building Additions/Alterations,"Dec 29, 2014",Permit Issued,33 BLOOR ST E
+29,14 235797 BLD 00,Building Additions/Alterations,"Oct 10, 2014",Permit Issued,33 BLOOR ST E
+30,14 235797 HVA 00,Mechanical(MS),"Oct 10, 2014",Permit Issued,33 BLOOR ST E
+31,14 185897 HVA 00,Mechanical(MS),"Aug 1, 2014",Inspection,33 BLOOR ST E
+32,14 185897 BLD 00,Building Additions/Alterations,"Jul 11, 2014",Inspection,33 BLOOR ST E
+33,13 271017 HVA 00,Mechanical(MS),"Nov 27, 2013",Inspection,33 BLOOR ST E
+0,18 158479 FSU 00,Fire/Security Upgrade,"Jun 13, 2018",Permit Issued,35 BLOOR ST E
+1,14 161435 FSU 00,Fire/Security Upgrade,"May 27, 2014",Permit Issued,35 BLOOR ST E
+0,16 262068 BLD 00,Building Additions/Alterations,"Dec 9, 2016",Inspection,44 BLOOR ST E
+0,23 114655 HVA 00,Mechanical(MS),"Feb 17, 2023",Permit Issued,50 BLOOR ST W
+1,23 114655 PLB 00,Plumbing(PS),"Feb 17, 2023",Permit Issued,50 BLOOR ST W
+2,23 114655 BLD 00,Building Additions/Alterations,"Feb 16, 2023",Permit Issued,50 BLOOR ST W
+3,19 224751 PLB 01,Plumbing(PS),"May 5, 2020",Revision Issued,50 BLOOR ST W
+4,20 119684 HVA 00,Mechanical(MS),"Mar 28, 2020",Inspection,50 BLOOR ST W
+5,20 119684 PLB 00,Plumbing(PS),"Mar 28, 2020",Inspection,50 BLOOR ST W
+6,20 119684 BLD 00,Building Additions/Alterations,"Mar 17, 2020",Inspection,50 BLOOR ST W
+7,19 236135 BLD 00,Building Additions/Alterations,"Oct 15, 2019",Inspection,50 BLOOR ST W
+8,19 236135 HVA 00,Mechanical(MS),"Oct 15, 2019",Inspection,50 BLOOR ST W
+9,19 227326 BLD 00,Building Additions/Alterations,"Sep 26, 2019",Inspection,50 BLOOR ST W
+10,19 227326 HVA 00,Mechanical(MS),"Sep 26, 2019",Inspection,50 BLOOR ST W
+11,19 224751 BLD 00,Building Additions/Alterations,"Sep 20, 2019",Inspection,50 BLOOR ST W
+12,19 224751 PLB 00,Plumbing(PS),"Sep 20, 2019",Inspection,50 BLOOR ST W
+13,19 214143 HVA 00,Mechanical(MS),"Aug 30, 2019",Inspection,50 BLOOR ST W
+14,19 208363 FSU 00,Fire/Security Upgrade,"Aug 20, 2019",Permit Issued,50 BLOOR ST W
+15,19 166710 HVA 01,Mechanical(MS),"Aug 19, 2019",Revision Issued,50 BLOOR ST W
+16,19 166710 PLB 01,Plumbing(PS),"Aug 12, 2019",Revision Issued,50 BLOOR ST W
+17,19 166710 BLD 01,Building Additions/Alterations,"Aug 9, 2019",Revision Issued,50 BLOOR ST W
+18,19 166710 HVA 00,Mechanical(MS),"Jun 12, 2019",Inspection,50 BLOOR ST W
+19,19 166710 PLB 00,Plumbing(PS),"Jun 12, 2019",Inspection,50 BLOOR ST W
+20,19 166710 BLD 00,Building Additions/Alterations,"Jun 10, 2019",Inspection,50 BLOOR ST W
+21,19 162063 HVA 00,Mechanical(MS),"May 31, 2019",Inspection,50 BLOOR ST W
+22,19 162063 BLD 00,Building Additions/Alterations,"May 30, 2019",Inspection,50 BLOOR ST W
+23,19 151939 HVA 00,Mechanical(MS),"May 16, 2019",Inspection,50 BLOOR ST W
+24,19 151939 BLD 00,Building Additions/Alterations,"May 15, 2019",Inspection,50 BLOOR ST W
+25,19 144587 HVA 00,Mechanical(MS),"Apr 29, 2019",Inspection,50 BLOOR ST W
+26,19 144587 BLD 00,Building Additions/Alterations,"Apr 26, 2019",Inspection,50 BLOOR ST W
+27,19 118097 BLD 00,Building Additions/Alterations,"Mar 4, 2019",Inspection,50 BLOOR ST W
+28,19 118097 HVA 00,Mechanical(MS),"Mar 4, 2019",Inspection,50 BLOOR ST W
+29,19 118097 PLB 00,Plumbing(PS),"Mar 4, 2019",Inspection,50 BLOOR ST W
+30,19 109534 BLD 00,Building Additions/Alterations,"Feb 5, 2019",Inspection,50 BLOOR ST W
+31,19 110369 BLD 00,Building Additions/Alterations,"Feb 5, 2019",Inspection,50 BLOOR ST W
+32,19 110348 BLD 00,Building Additions/Alterations,"Feb 4, 2019",Inspection,50 BLOOR ST W
+33,19 110330 BLD 00,Building Additions/Alterations,"Jan 31, 2019",Inspection,50 BLOOR ST W
+34,19 110352 BLD 00,Building Additions/Alterations,"Jan 31, 2019",Inspection,50 BLOOR ST W
+35,18 265598 BLD 00,Building Additions/Alterations,"Dec 6, 2018",Inspection,50 BLOOR ST W
+36,18 249480 FSU 00,Fire/Security Upgrade,"Nov 1, 2018",Inspection,50 BLOOR ST W
+37,18 247285 HVA 00,Mechanical(MS),"Oct 25, 2018",Inspection,50 BLOOR ST W
+38,18 242456 BLD 00,Building Additions/Alterations,"Oct 15, 2018",Permit Issued,50 BLOOR ST W
+39,18 226356 BLD 00,Building Additions/Alterations,"Sep 18, 2018",Inspection,50 BLOOR ST W
+40,18 196244 BLD 00,Building Additions/Alterations,"Jul 20, 2018",Inspection,50 BLOOR ST W
+41,18 193846 BLD 00,Building Additions/Alterations,"Jul 17, 2018",Inspection,50 BLOOR ST W
+42,18 193846 HVA 00,Mechanical(MS),"Jul 17, 2018",Inspection,50 BLOOR ST W
+43,18 192470 BLD 00,Building Additions/Alterations,"Jul 11, 2018",Inspection,50 BLOOR ST W
+44,18 133550 FSU 00,Fire/Security Upgrade,"Apr 3, 2018",Inspection,50 BLOOR ST W
+45,18 123438 BLD 00,Building Additions/Alterations,"Mar 6, 2018",Inspection,50 BLOOR ST W
+46,18 120342 BLD 00,Building Additions/Alterations,"Feb 22, 2018",Inspection,50 BLOOR ST W
+47,18 113486 FSU 00,Fire/Security Upgrade,"Feb 7, 2018",Permit Issued,50 BLOOR ST W
+48,17 208812 HVA 01,Mechanical(MS),"Feb 6, 2018",Revision Issued,50 BLOOR ST W
+49,17 235506 HVA 01,Mechanical(MS),"Nov 9, 2017",Revision Issued,50 BLOOR ST W
+50,17 235506 HVA 00,Mechanical(MS),"Oct 6, 2017",Permit Issued,50 BLOOR ST W
+51,17 208812 HVA 00,Mechanical(MS),"Aug 2, 2017",Inspection,50 BLOOR ST W
+52,17 160699 HVA 00,Mechanical(MS),"May 23, 2017",Inspection,50 BLOOR ST W
+53,17 160699 BLD 00,Building Additions/Alterations,"May 17, 2017",Inspection,50 BLOOR ST W
+54,16 113285 BLD 00,Building Additions/Alterations,"Feb 5, 2016",Permit Issued,50 BLOOR ST W
+55,13 176789 BLD 00,Building Additions/Alterations,"Jun 3, 2013",Permit Issued,50 BLOOR ST W
+0,23 111181 BLD 00,Building Additions/Alterations,"Feb 7, 2023",Inspection,55 BLOOR ST W
+1,23 111181 HVA 00,Mechanical(MS),"Feb 7, 2023",Permit Issued,55 BLOOR ST W
+2,23 111181 PLB 00,Plumbing(PS),"Feb 7, 2023",Permit Issued,55 BLOOR ST W
+3,23 106776 HVA 00,Mechanical(MS),"Jan 25, 2023",Permit Issued,55 BLOOR ST W
+4,23 106776 PLB 00,Plumbing(PS),"Jan 25, 2023",Permit Issued,55 BLOOR ST W
+5,23 106776 BLD 00,Building Additions/Alterations,"Jan 24, 2023",Permit Issued,55 BLOOR ST W
+6,22 104795 BLD 01,Building Additions/Alterations,"Jan 16, 2023",Revision Issued,55 BLOOR ST W
+7,22 242194 SGN 00,Sign Permit,"Dec 23, 2022",Permit Issued,55 BLOOR ST W
+8,22 242194 DST 00,Designated Structures,"Dec 23, 2022",Permit Issued,55 BLOOR ST W
+9,22 188568 PLB 00,Plumbing(PS),"Aug 26, 2022",Permit Issued,55 BLOOR ST W
+10,22 188568 BLD 00,Building Additions/Alterations,"Aug 25, 2022",Inspection,55 BLOOR ST W
+11,22 188568 HVA 00,Mechanical(MS),"Aug 25, 2022",Permit Issued,55 BLOOR ST W
+12,22 180635 BLD 00,Building Additions/Alterations,"Jul 26, 2022",Examiner's Notice Sent,55 BLOOR ST W
+13,22 175768 PSA 00,Plumbing(PS),"Jul 20, 2022",Permit Issued,55 BLOOR ST W
+14,22 162027 BLD 00,Building Additions/Alterations,"Jun 15, 2022",Inspection,55 BLOOR ST W
+15,22 162027 HVA 00,Mechanical(MS),"Jun 15, 2022",Inspection,55 BLOOR ST W
+16,22 162027 PLB 00,Plumbing(PS),"Jun 15, 2022",Permit Issued,55 BLOOR ST W
+17,22 156864 BLD 00,Building Additions/Alterations,"Jun 9, 2022",Permit Issued,55 BLOOR ST W
+18,22 133973 PLB 00,Plumbing(PS),"May 18, 2022",Inspection,55 BLOOR ST W
+19,22 142817 BLD 00,Building Additions/Alterations,"May 13, 2022",Permit Issued,55 BLOOR ST W
+20,22 142817 HVA 00,Mechanical(MS),"May 13, 2022",Permit Issued,55 BLOOR ST W
+21,22 142817 PLB 00,Plumbing(PS),"May 13, 2022",Permit Issued,55 BLOOR ST W
+22,22 133973 BLD 00,Building Additions/Alterations,"Apr 20, 2022",Inspection,55 BLOOR ST W
+23,22 133973 HVA 00,Mechanical(MS),"Apr 20, 2022",Inspection,55 BLOOR ST W
+24,22 104795 BLD 00,Building Additions/Alterations,"Jan 19, 2022",Permit Issued,55 BLOOR ST W
+25,21 190865 BLD 00,Building Additions/Alterations,"Aug 13, 2021",Permit Issued,55 BLOOR ST W
+26,21 190865 HVA 00,Mechanical(MS),"Aug 13, 2021",Permit Issued,55 BLOOR ST W
+27,21 174494 HVA 00,Mechanical(MS),"Jun 28, 2021",Inspection,55 BLOOR ST W
+28,21 174494 PLB 00,Plumbing(PS),"Jun 28, 2021",Inspection,55 BLOOR ST W
+29,21 140608 HVA 00,Mechanical(MS),"Apr 15, 2021",Inspection,55 BLOOR ST W
+30,21 140608 PLB 00,Plumbing(PS),"Apr 15, 2021",Inspection,55 BLOOR ST W
+31,17 123207 HVA 04,Mechanical(MS),"Feb 25, 2021",Revision Issued,55 BLOOR ST W
+32,17 123207 PLB 04,Plumbing(PS),"Feb 25, 2021",Revision Issued,55 BLOOR ST W
+33,21 115492 HVA 00,Mechanical(MS),"Feb 12, 2021",Inspection,55 BLOOR ST W
+34,21 115492 PLB 00,Plumbing(PS),"Feb 12, 2021",Inspection,55 BLOOR ST W
+35,20 230594 BLD 00,Building Additions/Alterations,"Dec 18, 2020",Inspection,55 BLOOR ST W
+36,19 162778 HVA 01,Mechanical(MS),"Dec 15, 2020",Revision Issued,55 BLOOR ST W
+37,19 162778 BLD 01,Building Additions/Alterations,"Dec 11, 2020",Revision Issued,55 BLOOR ST W
+38,19 162778 BLD 02,Building Additions/Alterations,"Dec 4, 2020",Revision Issued,55 BLOOR ST W
+39,20 195543 HVA 00,Mechanical(MS),"Nov 12, 2020",Inspection,55 BLOOR ST W
+40,20 208951 BLD 00,Building Additions/Alterations,"Oct 23, 2020",Inspection,55 BLOOR ST W
+41,20 176213 BLD 00,Building Additions/Alterations,"Aug 5, 2020",Inspection,55 BLOOR ST W
+42,18 184609 PLB 01,Plumbing(PS),"May 28, 2020",Revision Issued,55 BLOOR ST W
+43,20 147731 HVA 00,Mechanical(MS),"May 25, 2020",Permit Issued,55 BLOOR ST W
+44,20 147731 PLB 00,Plumbing(PS),"May 25, 2020",Permit Issued,55 BLOOR ST W
+45,20 147731 BLD 00,Building Additions/Alterations,"May 22, 2020",Permit Issued,55 BLOOR ST W
+46,20 109723 FSU 00,Fire/Security Upgrade,"Jan 29, 2020",Inspection,55 BLOOR ST W
+47,17 277201 BLD 05,Building Additions/Alterations,"Dec 13, 2019",Revision Issued,55 BLOOR ST W
+48,19 236803 FSU 00,Fire/Security Upgrade,"Oct 16, 2019",Permit Issued,55 BLOOR ST W
+49,17 277201 BLD 04,Building Additions/Alterations,"Oct 11, 2019",Revision Issued,55 BLOOR ST W
+50,19 152572 PSA 01,Plumbing(PS),"Sep 10, 2019",Revision Issued,55 BLOOR ST W
+51,19 183656 MSA 01,Mechanical(MS),"Sep 10, 2019",Revision Issued,55 BLOOR ST W
+52,19 183656 MSA 00,Mechanical(MS),"Jul 5, 2019",Inspection,55 BLOOR ST W
+53,19 170310 BLD 00,Building Additions/Alterations,"Jun 12, 2019",Inspection,55 BLOOR ST W
+54,19 162778 BLD 00,Building Additions/Alterations,"May 30, 2019",Inspection,55 BLOOR ST W
+55,19 162778 HVA 00,Mechanical(MS),"May 30, 2019",Inspection,55 BLOOR ST W
+56,17 123207 PLB 03,Plumbing(PS),"May 29, 2019",Revision Issued,55 BLOOR ST W
+57,17 123207 HVA 03,Mechanical(MS),"May 29, 2019",Revision Issued,55 BLOOR ST W
+58,19 152572 PSA 00,Plumbing(PS),"May 10, 2019",Inspection,55 BLOOR ST W
+59,19 150287 BLD 00,Building Additions/Alterations,"May 7, 2019",Inspection,55 BLOOR ST W
+60,19 150287 HVA 00,Mechanical(MS),"May 7, 2019",Inspection,55 BLOOR ST W
+61,19 147061 SGN 00,Sign Permit,"Apr 30, 2019",Inspection,55 BLOOR ST W
+62,19 147061 DST 00,Designated Structures,"Apr 30, 2019",Inspection,55 BLOOR ST W
+63,19 113033 PSA 00,Plumbing(PS),"Mar 5, 2019",Permit Issued,55 BLOOR ST W
+64,18 266917 HVA 00,Mechanical(MS),"Dec 12, 2018",Inspection,55 BLOOR ST W
+65,18 266945 HVA 00,Mechanical(MS),"Dec 12, 2018",Inspection,55 BLOOR ST W
+66,17 277201 HVA 02,Mechanical(MS),"Nov 29, 2018",Revision Issued,55 BLOOR ST W
+67,17 277201 PLB 02,Plumbing(PS),"Nov 29, 2018",Revision Issued,55 BLOOR ST W
+68,17 277201 BLD 03,Building Additions/Alterations,"Nov 29, 2018",Revision Issued,55 BLOOR ST W
+69,18 240911 BLD 00,Building Additions/Alterations,"Oct 18, 2018",Permit Issued,55 BLOOR ST W
+70,18 240928 DST 00,Designated Structures,"Oct 11, 2018",Permit Issued,55 BLOOR ST W
+71,18 206815 BLD 01,Building Additions/Alterations,"Oct 9, 2018",Revision Issued,55 BLOOR ST W
+72,18 206815 HVA 01,Mechanical(MS),"Oct 9, 2018",Revision Issued,55 BLOOR ST W
+73,18 206815 PLB 01,Plumbing(PS),"Oct 9, 2018",Revision Issued,55 BLOOR ST W
+74,17 277201 BLD 02,Building Additions/Alterations,"Oct 3, 2018",Revision Issued,55 BLOOR ST W
+75,17 123207 PLB 02,Plumbing(PS),"Aug 20, 2018",Revision Issued,55 BLOOR ST W
+76,17 123207 HVA 02,Mechanical(MS),"Aug 20, 2018",Revision Issued,55 BLOOR ST W
+77,18 206815 HVA 00,Mechanical(MS),"Aug 10, 2018",Inspection,55 BLOOR ST W
+78,18 206815 PLB 00,Plumbing(PS),"Aug 10, 2018",Inspection,55 BLOOR ST W
+79,18 206815 BLD 00,Building Additions/Alterations,"Aug 9, 2018",Inspection,55 BLOOR ST W
+80,18 196765 BLD 00,Building Additions/Alterations,"Jul 19, 2018",Permit Issued,55 BLOOR ST W
+81,17 123207 HVA 01,Mechanical(MS),"Jul 11, 2018",Revision Issued,55 BLOOR ST W
+82,17 123207 PLB 01,Plumbing(PS),"Jul 11, 2018",Revision Issued,55 BLOOR ST W
+83,18 184609 PLB 00,Plumbing(PS),"Jun 28, 2018",Inspection,55 BLOOR ST W
+84,17 277201 BLD 01,Building Additions/Alterations,"Jun 5, 2018",Revision Issued,55 BLOOR ST W
+85,17 277201 PLB 01,Plumbing(PS),"Jun 5, 2018",Revision Issued,55 BLOOR ST W
+86,17 277201 HVA 01,Mechanical(MS),"Jun 5, 2018",Revision Issued,55 BLOOR ST W
+87,18 149818 FSU 00,Fire/Security Upgrade,"Apr 27, 2018",Permit Issued,55 BLOOR ST W
+88,18 143832 BLD 00,Building Additions/Alterations,"Apr 18, 2018",Inspection,55 BLOOR ST W
+89,18 143832 HVA 00,Mechanical(MS),"Apr 18, 2018",Inspection,55 BLOOR ST W
+90,18 143832 PLB 00,Plumbing(PS),"Apr 18, 2018",Inspection,55 BLOOR ST W
+91,18 109062 FSU 00,Fire/Security Upgrade,"Jan 24, 2018",Inspection,55 BLOOR ST W
+92,17 277446 HVA 00,Mechanical(MS),"Dec 29, 2017",Inspection,55 BLOOR ST W
+93,17 277446 BLD 00,Building Additions/Alterations,"Dec 20, 2017",Inspection,55 BLOOR ST W
+94,17 277201 BLD 00,Building Additions/Alterations,"Dec 19, 2017",Inspection,55 BLOOR ST W
+95,17 277201 HVA 00,Mechanical(MS),"Dec 19, 2017",Permit Issued,55 BLOOR ST W
+96,17 277201 PLB 00,Plumbing(PS),"Dec 19, 2017",Inspection,55 BLOOR ST W
+97,17 211002 HVA 01,Mechanical(MS),"Oct 31, 2017",Revision Issued,55 BLOOR ST W
+98,17 231308 HVA 01,Mechanical(MS),"Oct 12, 2017",Revision Issued,55 BLOOR ST W
+99,17 231308 HVA 00,Mechanical(MS),"Sep 12, 2017",Inspection,55 BLOOR ST W
+100,17 231308 PLB 00,Plumbing(PS),"Sep 12, 2017",Inspection,55 BLOOR ST W
+101,17 210884 HVA 00,Mechanical(MS),"Aug 16, 2017",Permit Issued,55 BLOOR ST W
+102,17 211002 HVA 00,Mechanical(MS),"Aug 15, 2017",Inspection,55 BLOOR ST W
+103,17 210884 BLD 00,Building Additions/Alterations,"Aug 4, 2017",Permit Issued,55 BLOOR ST W
+104,17 210884 PLB 00,Plumbing(PS),"Aug 4, 2017",Permit Issued,55 BLOOR ST W
+105,17 211002 BLD 00,Building Additions/Alterations,"Aug 3, 2017",Inspection,55 BLOOR ST W
+106,17 209604 BLD 00,Building Additions/Alterations,"Aug 2, 2017",Inspection,55 BLOOR ST W
+107,17 177183 BLD 00,Building Additions/Alterations,"Jun 9, 2017",Inspection,55 BLOOR ST W
+108,17 177183 HVA 00,Mechanical(MS),"Jun 9, 2017",Inspection,55 BLOOR ST W
+109,17 177183 PLB 00,Plumbing(PS),"Jun 9, 2017",Inspection,55 BLOOR ST W
+110,17 166455 BLD 00,Building Additions/Alterations,"May 25, 2017",Inspection,55 BLOOR ST W
+111,17 166455 HVA 00,Mechanical(MS),"May 25, 2017",Inspection,55 BLOOR ST W
+112,17 155957 BLD 00,Building Additions/Alterations,"May 11, 2017",Inspection,55 BLOOR ST W
+113,17 155957 HVA 00,Mechanical(MS),"May 11, 2017",Inspection,55 BLOOR ST W
+114,17 155957 PLB 00,Plumbing(PS),"May 11, 2017",Inspection,55 BLOOR ST W
+115,17 102607 HVA 01,Mechanical(MS),"May 8, 2017",Revision Issued,55 BLOOR ST W
+116,17 140949 BLD 00,Building Additions/Alterations,"Apr 7, 2017",Inspection,55 BLOOR ST W
+117,17 128383 BLD 00,Building Additions/Alterations,"Mar 13, 2017",Permit Issued,55 BLOOR ST W
+118,17 123207 BLD 00,Building Additions/Alterations,"Mar 6, 2017",Inspection,55 BLOOR ST W
+119,17 123207 HVA 00,Mechanical(MS),"Mar 6, 2017",Inspection,55 BLOOR ST W
+120,17 123207 PLB 00,Plumbing(PS),"Mar 6, 2017",Inspection,55 BLOOR ST W
+121,17 114467 FSU 00,Fire/Security Upgrade,"Feb 8, 2017",Inspection,55 BLOOR ST W
+122,16 254765 BLD 01,Building Additions/Alterations,"Jan 12, 2017",Revision Issued,55 BLOOR ST W
+123,17 102607 HVA 00,Mechanical(MS),"Jan 10, 2017",Inspection,55 BLOOR ST W
+124,16 262507 HVA 00,Mechanical(MS),"Dec 9, 2016",Inspection,55 BLOOR ST W
+125,16 254765 BLD 00,Building Additions/Alterations,"Nov 22, 2016",Inspection,55 BLOOR ST W
+126,16 254765 HVA 00,Mechanical(MS),"Nov 22, 2016",Inspection,55 BLOOR ST W
+127,16 249924 BLD 00,Building Additions/Alterations,"Nov 10, 2016",Permit Issued,55 BLOOR ST W
+128,16 243225 FSU 00,Fire/Security Upgrade,"Oct 27, 2016",Permit Issued,55 BLOOR ST W
+129,16 230957 HVA 00,Mechanical(MS),"Oct 21, 2016",Inspection,55 BLOOR ST W
+130,16 230957 PLB 00,Plumbing(PS),"Oct 21, 2016",Inspection,55 BLOOR ST W
+131,16 230957 BLD 00,Building Additions/Alterations,"Oct 17, 2016",Inspection,55 BLOOR ST W
+132,16 212054 BLD 00,Building Additions/Alterations,"Aug 24, 2016",Permit Issued,55 BLOOR ST W
+133,16 179718 MSA 00,Mechanical(MS),"Jun 28, 2016",Permit Issued,55 BLOOR ST W
+134,16 152205 MSA 00,Mechanical(MS),"May 16, 2016",Permit Issued,55 BLOOR ST W
+135,16 141053 FSU 00,Fire/Security Upgrade,"May 12, 2016",Inspection,55 BLOOR ST W
+136,15 243218 FSU 00,Fire/Security Upgrade,"Oct 27, 2015",Permit Issued,55 BLOOR ST W
+137,15 227381 FSU 00,Fire/Security Upgrade,"Sep 23, 2015",Permit Issued,55 BLOOR ST W
+138,14 266962 BLD 00,Building Additions/Alterations,"Dec 23, 2014",Inspection,55 BLOOR ST W
+139,14 266962 HVA 00,Mechanical(MS),"Dec 23, 2014",Permit Issued,55 BLOOR ST W
+140,14 254756 FSU 00,Fire/Security Upgrade,"Nov 21, 2014",Inspection,55 BLOOR ST W
+141,14 252065 PSA 00,Plumbing(PS),"Nov 14, 2014",Permit Issued,55 BLOOR ST W
+142,14 243660 BLD 00,Building Additions/Alterations,"Oct 27, 2014",Inspection,55 BLOOR ST W
+143,14 243660 HVA 00,Mechanical(MS),"Oct 27, 2014",Permit Issued,55 BLOOR ST W
+144,14 231238 BLD 00,Building Additions/Alterations,"Oct 2, 2014",Inspection,55 BLOOR ST W
+145,14 210674 BLD 00,Building Additions/Alterations,"Aug 25, 2014",Permit Issued,55 BLOOR ST W
+146,14 210674 HVA 00,Mechanical(MS),"Aug 25, 2014",Permit Issued,55 BLOOR ST W
+147,14 210674 PLB 00,Plumbing(PS),"Aug 25, 2014",Permit Issued,55 BLOOR ST W
+148,14 204179 HVA 00,Mechanical(MS),"Aug 11, 2014",Permit Issued,55 BLOOR ST W
+149,14 204179 PLB 00,Plumbing(PS),"Aug 11, 2014",Permit Issued,55 BLOOR ST W
+150,14 150928 BLD 00,Building Additions/Alterations,"May 2, 2014",Inspection,55 BLOOR ST W
+151,14 123690 BLD 00,Building Additions/Alterations,"Mar 3, 2014",Permit Issued,55 BLOOR ST W
+152,14 123690 HVA 00,Mechanical(MS),"Mar 3, 2014",Permit Issued,55 BLOOR ST W
+0,21 144504 BLD 00,Building Additions/Alterations,"Apr 22, 2021",Permit Issued,55 BLOOR ST E
+0,22 234714 FSU 00,Fire/Security Upgrade,"Feb 15, 2023",Closed,60 BLOOR ST W
+1,23 107641 BLD 00,Building Additions/Alterations,"Jan 27, 2023",Permit Issued,60 BLOOR ST W
+2,23 107641 HVA 00,Mechanical(MS),"Jan 27, 2023",Permit Issued,60 BLOOR ST W
+3,23 107641 PLB 00,Plumbing(PS),"Jan 27, 2023",Permit Issued,60 BLOOR ST W
+4,22 234714 HVA 00,Mechanical(MS),"Dec 2, 2022",Inspection,60 BLOOR ST W
+5,22 234714 BLD 00,Building Additions/Alterations,"Nov 30, 2022",Inspection,60 BLOOR ST W
+6,22 229304 HVA 00,Mechanical(MS),"Nov 23, 2022",Permit Issued,60 BLOOR ST W
+7,22 229304 PLB 00,Plumbing(PS),"Nov 23, 2022",Permit Issued,60 BLOOR ST W
+8,22 229304 BLD 00,Building Additions/Alterations,"Nov 21, 2022",Inspection,60 BLOOR ST W
+9,22 229430 HVA 00,Mechanical(MS),"Nov 16, 2022",Permit Issued,60 BLOOR ST W
+10,22 229430 PLB 00,Plumbing(PS),"Nov 16, 2022",Inspection,60 BLOOR ST W
+11,22 229430 BLD 00,Building Additions/Alterations,"Nov 15, 2022",Inspection,60 BLOOR ST W
+12,22 217066 BLD 00,Building Additions/Alterations,"Oct 18, 2022",Inspection,60 BLOOR ST W
+13,22 217066 HVA 00,Mechanical(MS),"Oct 18, 2022",Permit Issued,60 BLOOR ST W
+14,22 156677 DST 00,Designated Structures,"Jun 9, 2022",Permit Issued,60 BLOOR ST W
+15,22 156677 SGN 00,Sign Permit,"Jun 7, 2022",Permit Issued,60 BLOOR ST W
+16,21 236754 HVA 00,Mechanical(MS),"Nov 16, 2021",Inspection,60 BLOOR ST W
+17,20 182948 HVA 01,Mechanical(MS),"Oct 20, 2020",Revision Issued,60 BLOOR ST W
+18,20 182948 HVA 00,Mechanical(MS),"Aug 25, 2020",Permit Issued,60 BLOOR ST W
+19,20 182948 BLD 00,Building Additions/Alterations,"Aug 20, 2020",Permit Issued,60 BLOOR ST W
+20,18 271670 FSU 01,Fire/Security Upgrade,"Apr 16, 2020",Revision Issued,60 BLOOR ST W
+21,19 151262 HVA 00,Mechanical(MS),"May 9, 2019",Permit Issued,60 BLOOR ST W
+22,19 151262 BLD 00,Building Additions/Alterations,"May 8, 2019",Permit Issued,60 BLOOR ST W
+23,18 114800 HVA 02,Mechanical(MS),"Feb 20, 2019",Revision Issued,60 BLOOR ST W
+24,19 113502 HVA 00,Mechanical(MS),"Feb 13, 2019",Inspection,60 BLOOR ST W
+25,18 271670 FSU 00,Fire/Security Upgrade,"Jan 4, 2019",Inspection,60 BLOOR ST W
+26,18 225165 BLD 00,Building Additions/Alterations,"Sep 19, 2018",Permit Issued,60 BLOOR ST W
+27,18 196809 BLD 00,Building Additions/Alterations,"Jul 19, 2018",Inspection,60 BLOOR ST W
+28,18 114800 HVA 01,Mechanical(MS),"Jun 4, 2018",Revision Issued,60 BLOOR ST W
+29,18 132794 HVA 00,Mechanical(MS),"Mar 27, 2018",Permit Issued,60 BLOOR ST W
+30,18 114800 HVA 00,Mechanical(MS),"Feb 12, 2018",Inspection,60 BLOOR ST W
+31,17 262817 MSA 00,Mechanical(MS),"Nov 21, 2017",Inspection,60 BLOOR ST W
+32,17 211410 BLD 00,Building Additions/Alterations,"Aug 4, 2017",Inspection,60 BLOOR ST W
+33,17 211410 HVA 00,Mechanical(MS),"Aug 4, 2017",Inspection,60 BLOOR ST W
+34,17 211410 PLB 00,Plumbing(PS),"Aug 4, 2017",Inspection,60 BLOOR ST W
+35,16 136722 MSA 00,Mechanical(MS),"Apr 22, 2016",Inspection,60 BLOOR ST W
+36,15 215176 FSU 00,Fire/Security Upgrade,"Aug 31, 2015",Inspection,60 BLOOR ST W
+37,15 143083 BLD 00,Building Additions/Alterations,"Apr 17, 2015",Permit Issued,60 BLOOR ST W
+38,15 143083 HVA 00,Mechanical(MS),"Apr 17, 2015",Permit Issued,60 BLOOR ST W
+39,15 143083 PLB 00,Plumbing(PS),"Apr 17, 2015",Permit Issued,60 BLOOR ST W
+40,14 247546 BLD 00,Building Additions/Alterations,"Nov 12, 2014",Inspection,60 BLOOR ST W
+41,14 247546 HVA 00,Mechanical(MS),"Nov 12, 2014",Work Not Started,60 BLOOR ST W
+42,14 130164 HVA 00,Mechanical(MS),"Mar 19, 2014",Permit Issued,60 BLOOR ST W
+43,14 130185 HVA 00,Mechanical(MS),"Mar 19, 2014",Permit Issued,60 BLOOR ST W
+44,14 129524 BLD 00,Building Additions/Alterations,"Mar 17, 2014",Inspection,60 BLOOR ST W
+45,14 129524 HVA 00,Mechanical(MS),"Mar 17, 2014",Permit Issued,60 BLOOR ST W
+46,14 129524 PLB 00,Plumbing(PS),"Mar 17, 2014",Inspection,60 BLOOR ST W
+0,18 185699 BLD 00,Building Additions/Alterations,"Jun 28, 2018",Inspection,66 BLOOR ST W
+0,22 239008 HVA 00,Mechanical(MS),"Dec 20, 2022",Permit Issued,69 BLOOR ST E
+1,22 239008 PLB 00,Plumbing(PS),"Dec 20, 2022",Permit Issued,69 BLOOR ST E
+2,22 239008 BLD 00,Building Additions/Alterations,"Dec 19, 2022",Permit Issued,69 BLOOR ST E
+3,21 229090 BLD 02,Building Additions/Alterations,"Dec 7, 2022",Revision Issued,69 BLOOR ST E
+4,21 229090 HVA 01,Mechanical(MS),"Dec 7, 2022",Revision Issued,69 BLOOR ST E
+5,21 229090 PLB 01,Plumbing(PS),"Dec 7, 2022",Revision Issued,69 BLOOR ST E
+6,22 204521 BLD 00,Building Additions/Alterations,"Sep 19, 2022",Permit Issued,69 BLOOR ST E
+7,22 204521 PLB 00,Plumbing(PS),"Sep 19, 2022",Permit Issued,69 BLOOR ST E
+8,22 147843 FSU 00,Fire/Security Upgrade,"Jun 6, 2022",Permit Issued,69 BLOOR ST E
+9,21 229090 BLD 01,Building Additions/Alterations,"Feb 1, 2022",Revision Issued,69 BLOOR ST E
+10,21 229090 HVA 00,Mechanical(MS),"Oct 29, 2021",Inspection,69 BLOOR ST E
+11,21 229090 PLB 00,Plumbing(PS),"Oct 29, 2021",Inspection,69 BLOOR ST E
+12,21 229090 BLD 00,Building Additions/Alterations,"Oct 27, 2021",Inspection,69 BLOOR ST E
+13,14 195370 FSU 00,Fire/Security Upgrade,"Jul 29, 2014",Inspection,69 BLOOR ST E
+0,22 167821 HVA 01,Mechanical(MS),"Dec 6, 2022",Revision Issued,77 BLOOR ST W
+1,22 167821 BLD 01,Building Additions/Alterations,"Oct 17, 2022",Revision Issued,77 BLOOR ST W
+2,22 167821 HVA 00,Mechanical(MS),"Jul 12, 2022",Permit Issued,77 BLOOR ST W
+3,22 167821 BLD 00,Building Additions/Alterations,"Jun 29, 2022",Inspection,77 BLOOR ST W
+4,22 147347 HVA 00,Mechanical(MS),"May 25, 2022",Permit Issued,77 BLOOR ST W
+5,22 147347 PLB 00,Plumbing(PS),"May 25, 2022",Permit Issued,77 BLOOR ST W
+6,22 147347 BLD 00,Building Additions/Alterations,"May 24, 2022",Permit Issued,77 BLOOR ST W
+7,22 112451 BLD 00,Building Additions/Alterations,"Feb 10, 2022",Permit Issued,77 BLOOR ST W
+8,22 112451 HVA 00,Mechanical(MS),"Feb 10, 2022",Inspection,77 BLOOR ST W
+9,22 112451 PLB 00,Plumbing(PS),"Feb 10, 2022",Inspection,77 BLOOR ST W
+10,21 236763 BLD 00,Building Additions/Alterations,"Nov 15, 2021",Inspection,77 BLOOR ST W
+11,21 236763 HVA 00,Mechanical(MS),"Nov 15, 2021",Permit Issued,77 BLOOR ST W
+12,18 154980 HVA 00,Mechanical(MS),"May 8, 2018",Inspection,77 BLOOR ST W
+13,18 154980 PLB 00,Plumbing(PS),"May 8, 2018",Inspection,77 BLOOR ST W
+14,17 146019 BLD 00,Building Additions/Alterations,"Apr 19, 2017",Inspection,77 BLOOR ST W
+15,17 146019 PLB 00,Plumbing(PS),"Apr 19, 2017",Inspection,77 BLOOR ST W
+16,16 252557 HVA 00,Mechanical(MS),"Nov 21, 2016",Inspection,77 BLOOR ST W
+17,16 252579 HVA 00,Mechanical(MS),"Nov 21, 2016",Inspection,77 BLOOR ST W
+18,16 252557 BLD 00,Building Additions/Alterations,"Nov 17, 2016",Inspection,77 BLOOR ST W
+19,16 186421 BLD 00,Building Additions/Alterations,"Jul 7, 2016",Inspection,77 BLOOR ST W
+20,16 175945 BLD 00,Building Additions/Alterations,"Jun 21, 2016",Inspection,77 BLOOR ST W
+21,15 173523 FSU 02,Fire/Security Upgrade,"May 13, 2016",Revision Issued,77 BLOOR ST W
+22,16 152523 HVA 00,Mechanical(MS),"May 9, 2016",Inspection,77 BLOOR ST W
+23,16 139880 HVA 00,Mechanical(MS),"Apr 14, 2016",Permit Issued,77 BLOOR ST W
+24,15 262831 BLD 01,Building Additions/Alterations,"Apr 13, 2016",Revision Issued,77 BLOOR ST W
+25,16 139880 BLD 00,Building Additions/Alterations,"Apr 13, 2016",Inspection,77 BLOOR ST W
+26,15 262831 HVA 00,Mechanical(MS),"Dec 10, 2015",Inspection,77 BLOOR ST W
+27,15 262831 PLB 00,Plumbing(PS),"Dec 10, 2015",Permit Issued,77 BLOOR ST W
+28,15 262831 BLD 00,Building Additions/Alterations,"Dec 9, 2015",Inspection,77 BLOOR ST W
+29,15 253286 BLD 00,Building Additions/Alterations,"Dec 2, 2015",Inspection,77 BLOOR ST W
+30,15 244296 BLD 00,Building Additions/Alterations,"Oct 29, 2015",Permit Issued,77 BLOOR ST W
+31,15 140144 HVA 00,Mechanical(MS),"Apr 14, 2015",Inspection,77 BLOOR ST W
+32,15 140144 BLD 00,Building Additions/Alterations,"Apr 13, 2015",Inspection,77 BLOOR ST W
+33,15 127186 BLD 00,Building Additions/Alterations,"Mar 13, 2015",Permit Issued,77 BLOOR ST W
+34,14 231346 TPS 00,Temporary Structures,"Oct 2, 2014",Permit Issued,77 BLOOR ST W
+35,13 243306 BLD 00,Building Additions/Alterations,"Sep 30, 2013",Inspection,77 BLOOR ST W
+0,17 159002 PSA 00,Plumbing(PS),"May 15, 2017",Permit Issued,80 BLOOR ST W
+1,17 134856 BLD 00,Building Additions/Alterations,"Apr 11, 2017",Permit Issued,80 BLOOR ST W
+2,16 195425 BLD 00,Building Additions/Alterations,"Jul 22, 2016",Inspection,80 BLOOR ST W
+3,14 141692 BLD 00,Building Additions/Alterations,"Apr 11, 2014",Inspection,80 BLOOR ST W
+4,14 141692 PLB 00,Plumbing(PS),"Apr 11, 2014",Inspection,80 BLOOR ST W
+5,13 266615 BLD 00,Building Additions/Alterations,"Nov 18, 2013",Inspection,80 BLOOR ST W
+6,13 266615 HVA 00,Mechanical(MS),"Nov 18, 2013",Permit Issued,80 BLOOR ST W
+7,13 192984 FSU 01,Fire/Security Upgrade,"Aug 23, 2013",Revision Issued,80 BLOOR ST W
+8,13 201249 BLD 00,Building Additions/Alterations,"Jul 9, 2013",Inspection,80 BLOOR ST W
+9,13 192984 FSU 00,Fire/Security Upgrade,"Jun 24, 2013",Permit Issued,80 BLOOR ST W
+0,18 197156 HVA 00,Mechanical(MS),"Jul 24, 2018",Permit Issued,82 BLOOR ST W
+1,18 197156 BLD 00,Building Additions/Alterations,"Jul 20, 2018",Permit Issued,82 BLOOR ST W
+2,17 160612 BLD 01,Building Additions/Alterations,"Feb 13, 2018",Revision Issued,82 BLOOR ST W
+3,17 160612 HVA 01,Mechanical(MS),"Feb 13, 2018",Revision Issued,82 BLOOR ST W
+4,17 160612 BLD 00,Building Additions/Alterations,"May 16, 2017",Inspection,82 BLOOR ST W
+5,17 160612 HVA 00,Mechanical(MS),"May 16, 2017",Inspection,82 BLOOR ST W
+0,22 173249 SGN 00,Sign Permit,"Jul 7, 2022",Permit Issued,83 BLOOR ST W
+1,22 173249 DST 00,Designated Structures,"Jul 7, 2022",Permit Issued,83 BLOOR ST W
+0,14 261734 BLD 00,Building Additions/Alterations,"Dec 9, 2014",Inspection,85 BLOOR ST E
+0,17 169047 BLD 01,Building Additions/Alterations,"Oct 4, 2017",Revision Issued,91 BLOOR ST W
+1,17 169047 PLB 00,Plumbing(PS),"Jun 26, 2017",Inspection,91 BLOOR ST W
+2,17 169047 HVA 00,Mechanical(MS),"Jun 9, 2017",Inspection,91 BLOOR ST W
+3,17 169047 BLD 00,Building Additions/Alterations,"Jun 5, 2017",Inspection,91 BLOOR ST W
+0,17 130513 BLD 01,Building Additions/Alterations,"Jul 6, 2017",Revision Issued,93 BLOOR ST W
+1,17 130513 BLD 00,Building Additions/Alterations,"Mar 20, 2017",Inspection,93 BLOOR ST W
+0,22 215294 BLD 00,Building Additions/Alterations,"Oct 11, 2022",Permit Issued,100 BLOOR ST W
+1,22 215304 BLD 00,Building Additions/Alterations,"Oct 11, 2022",Inspection,100 BLOOR ST W
+2,22 215304 PLB 00,Plumbing(PS),"Oct 11, 2022",Permit Issued,100 BLOOR ST W
+3,22 215304 HVA 00,Mechanical(MS),"Oct 11, 2022",Permit Issued,100 BLOOR ST W
+4,22 207732 BLD 00,Building Additions/Alterations,"Sep 23, 2022",Permit Issued,100 BLOOR ST W
+5,22 207732 PLB 00,Plumbing(PS),"Sep 23, 2022",Permit Issued,100 BLOOR ST W
+6,22 145655 HVA 00,Mechanical(MS),"May 20, 2022",Permit Issued,100 BLOOR ST W
+7,22 145655 PLB 00,Plumbing(PS),"May 20, 2022",Inspection,100 BLOOR ST W
+8,22 145655 BLD 00,Building Additions/Alterations,"May 19, 2022",Inspection,100 BLOOR ST W
+9,18 241703 HVA 00,Mechanical(MS),"Oct 16, 2018",Inspection,100 BLOOR ST W
+0,22 159407 BLD 01,Building Additions/Alterations,"Mar 22, 2023",Not Started,101 BLOOR ST W
+1,22 159407 HVA 01,Mechanical(MS),"Mar 22, 2023",Not Started,101 BLOOR ST W
+2,22 159407 PLB 01,Plumbing(PS),"Mar 22, 2023",Not Started,101 BLOOR ST W
+3,22 221167 BLD 00,Building Additions/Alterations,"Nov 3, 2022",Permit Issued,101 BLOOR ST W
+4,22 159407 HVA 00,Mechanical(MS),"Jun 20, 2022",Inspection,101 BLOOR ST W
+5,22 159407 PLB 00,Plumbing(PS),"Jun 20, 2022",Inspection,101 BLOOR ST W
+6,22 159407 BLD 00,Building Additions/Alterations,"Jun 16, 2022",Permit Issued,101 BLOOR ST W
+7,22 128578 SGN 00,Sign Permit,"Mar 30, 2022",Permit Issued,101 BLOOR ST W
+8,22 128578 DST 00,Designated Structures,"Mar 30, 2022",Permit Issued,101 BLOOR ST W
+9,22 105167 HVA 00,Mechanical(MS),"Jan 28, 2022",Inspection,101 BLOOR ST W
+10,22 105167 PLB 00,Plumbing(PS),"Jan 28, 2022",Inspection,101 BLOOR ST W
+11,22 105167 BLD 00,Building Additions/Alterations,"Jan 19, 2022",Inspection,101 BLOOR ST W
+12,22 102143 BLD 00,Building Additions/Alterations,"Jan 18, 2022",Response Received,101 BLOOR ST W
+13,21 249543 BLD 00,Building Additions/Alterations,"Jan 11, 2022",Permit Issued,101 BLOOR ST W
+14,16 147039 MSA 00,Mechanical(MS),"Apr 29, 2016",Inspection,101 BLOOR ST W
+0,21 142040 FSU 00,Fire/Security Upgrade,"May 13, 2021",Permit Issued,102 BLOOR ST W
+1,16 125288 BLD 01,Building Additions/Alterations,"Apr 13, 2016",Revision Issued,102 BLOOR ST W
+2,16 125288 BLD 00,Building Additions/Alterations,"Mar 9, 2016",Inspection,102 BLOOR ST W
+0,21 165113 BLD 03,Building Additions/Alterations,"Mar 1, 2023",Under Review,110 BLOOR ST W
+1,21 165113 HVA 03,Mechanical(MS),"Mar 1, 2023",Not Started,110 BLOOR ST W
+2,21 165113 PLB 03,Plumbing(PS),"Mar 1, 2023",Not Started,110 BLOOR ST W
+3,23 100697 HVA 00,Mechanical(MS),"Jan 13, 2023",Permit Issued,110 BLOOR ST W
+4,23 100697 PLB 00,Plumbing(PS),"Jan 13, 2023",Permit Issued,110 BLOOR ST W
+5,21 165113 BLD 02,Building Additions/Alterations,"Jan 6, 2023",Revision Issued,110 BLOOR ST W
+6,21 165113 PLB 02,Plumbing(PS),"Jan 6, 2023",Issuance Pending,110 BLOOR ST W
+7,23 100697 BLD 00,Building Additions/Alterations,"Jan 4, 2023",Permit Issued,110 BLOOR ST W
+8,21 165113 HVA 02,Mechanical(MS),"Dec 22, 2022",Revision Issued,110 BLOOR ST W
+9,21 194226 BLD 02,Building Additions/Alterations,"Jun 29, 2022",Revision Issued,110 BLOOR ST W
+10,21 165113 BLD 01,Building Additions/Alterations,"Jun 21, 2022",Revision Issued,110 BLOOR ST W
+11,21 165113 PLB 01,Plumbing(PS),"Jun 21, 2022",Revision Issued,110 BLOOR ST W
+12,21 165113 HVA 01,Mechanical(MS),"Jun 21, 2022",Revision Issued,110 BLOOR ST W
+13,22 126838 BLD 01,Building Additions/Alterations,"Jun 16, 2022",Revision Issued,110 BLOOR ST W
+14,22 129533 BLD 00,Building Additions/Alterations,"Apr 29, 2022",Permit Issued,110 BLOOR ST W
+15,22 126838 HVA 00,Mechanical(MS),"Mar 29, 2022",Permit Issued,110 BLOOR ST W
+16,22 126838 PLB 00,Plumbing(PS),"Mar 28, 2022",Permit Issued,110 BLOOR ST W
+17,22 126838 BLD 00,Building Additions/Alterations,"Mar 25, 2022",Permit Issued,110 BLOOR ST W
+18,22 123079 HVA 00,Mechanical(MS),"Mar 21, 2022",Examiner's Notice Sent,110 BLOOR ST W
+19,22 123079 PLB 00,Plumbing(PS),"Mar 21, 2022",Permit Issued,110 BLOOR ST W
+20,22 123079 BLD 00,Building Additions/Alterations,"Mar 18, 2022",Permit Issued,110 BLOOR ST W
+21,21 194226 BLD 01,Building Additions/Alterations,"Dec 20, 2021",Revision Issued,110 BLOOR ST W
+22,21 243693 BLD 00,Building Additions/Alterations,"Dec 8, 2021",Permit Issued,110 BLOOR ST W
+23,21 243693 HVA 00,Mechanical(MS),"Dec 8, 2021",Permit Issued,110 BLOOR ST W
+24,21 194226 BLD 00,Building Additions/Alterations,"Aug 9, 2021",Inspection,110 BLOOR ST W
+25,21 194226 HVA 00,Mechanical(MS),"Aug 9, 2021",Permit Issued,110 BLOOR ST W
+26,21 194226 PLB 00,Plumbing(PS),"Aug 9, 2021",Permit Issued,110 BLOOR ST W
+27,21 185050 BLD 00,Building Additions/Alterations,"Jul 16, 2021",Inspection,110 BLOOR ST W
+28,21 185050 HVA 00,Mechanical(MS),"Jul 16, 2021",Inspection,110 BLOOR ST W
+29,21 185050 PLB 00,Plumbing(PS),"Jul 16, 2021",Inspection,110 BLOOR ST W
+30,21 165113 HVA 00,Mechanical(MS),"Jun 28, 2021",Inspection,110 BLOOR ST W
+31,21 165113 PLB 00,Plumbing(PS),"Jun 28, 2021",Inspection,110 BLOOR ST W
+32,21 173855 BLD 00,Building Additions/Alterations,"Jun 22, 2021",Inspection,110 BLOOR ST W
+33,21 165113 BLD 00,Building Additions/Alterations,"Jun 17, 2021",Inspection,110 BLOOR ST W
+34,21 112239 BLD 00,Building Additions/Alterations,"Feb 3, 2021",Inspection,110 BLOOR ST W
+35,16 133421 PLB 00,Plumbing(PS),"Aug 18, 2016",Inspection,110 BLOOR ST W
+36,16 133415 BLD 00,Building Additions/Alterations,"Mar 30, 2016",Inspection,110 BLOOR ST W
+37,16 133421 BLD 00,Building Additions/Alterations,"Mar 30, 2016",Permit Issued,110 BLOOR ST W
+38,15 266862 BLD 00,Building Additions/Alterations,"Dec 18, 2015",Permit Issued,110 BLOOR ST W
+39,15 125194 HVA 00,Mechanical(MS),"Mar 9, 2015",Inspection,110 BLOOR ST W
+40,14 170885 HVA 00,Mechanical(MS),"Jun 11, 2014",Inspection,110 BLOOR ST W
+41,13 255298 BLD 00,Building Additions/Alterations,"Oct 23, 2013",Inspection,110 BLOOR ST W
+42,13 221863 HVA 00,Mechanical(MS),"Sep 3, 2013",Inspection,110 BLOOR ST W
+43,13 221863 BLD 00,Building Additions/Alterations,"Aug 29, 2013",Inspection,110 BLOOR ST W
+44,12 237176 BLD 02,Building Additions/Alterations,"Jul 24, 2013",Revision Issued,110 BLOOR ST W
+45,12 237176 BLD 01,Building Additions/Alterations,"Mar 27, 2013",Revision Issued,110 BLOOR ST W
+46,12 237176 HVA 00,Mechanical(MS),"Mar 26, 2013",Inspection,110 BLOOR ST W
+0,18 168903 MSA 00,Mechanical(MS),"May 31, 2018",Inspection,111 BLOOR ST W
+1,16 259992 PSA 00,Plumbing(PS),"Dec 5, 2016",Inspection,111 BLOOR ST W
+2,16 252133 PSA 00,Plumbing(PS),"Nov 23, 2016",Permit Issued,111 BLOOR ST W
+0,18 156250 FSU 00,Fire/Security Upgrade,"May 10, 2018",Inspection,117 BLOOR ST E
+0,23 119139 BLD 00,Building Additions/Alterations,"Mar 3, 2023",Under Review,120 BLOOR ST E
+1,23 119139 HVA 00,Mechanical(MS),"Mar 3, 2023",Not Started,120 BLOOR ST E
+2,22 222870 BLD 01,Building Additions/Alterations,"Feb 9, 2023",Revision Issued,120 BLOOR ST E
+3,22 234751 FSU 00,Fire/Security Upgrade,"Dec 5, 2022",Permit Issued,120 BLOOR ST E
+4,22 222870 BLD 00,Building Additions/Alterations,"Oct 27, 2022",Permit Issued,120 BLOOR ST E
+5,22 197546 BLD 00,Building Additions/Alterations,"Sep 7, 2022",Permit Issued,120 BLOOR ST E
+6,22 197546 HVA 00,Mechanical(MS),"Sep 7, 2022",Permit Issued,120 BLOOR ST E
+7,22 178829 BLD 00,Building Additions/Alterations,"Jul 21, 2022",Closed,120 BLOOR ST E
+8,22 178829 HVA 00,Mechanical(MS),"Jul 21, 2022",Closed,120 BLOOR ST E
+9,17 143667 BLD 00,Building Additions/Alterations,"Apr 13, 2017",Closed,120 BLOOR ST E
+10,17 107663 HVA 00,Mechanical(MS),"Jan 30, 2017",Inspection,120 BLOOR ST E
+11,17 107663 PLB 00,Plumbing(PS),"Jan 30, 2017",Inspection,120 BLOOR ST E
+12,17 107663 BLD 00,Building Additions/Alterations,"Jan 24, 2017",Inspection,120 BLOOR ST E
+13,16 185748 BLD 00,Building Additions/Alterations,"Jul 12, 2016",Inspection,120 BLOOR ST E
+14,16 153099 BLD 00,Building Additions/Alterations,"May 10, 2016",Inspection,120 BLOOR ST E
+15,16 153099 HVA 00,Mechanical(MS),"May 10, 2016",Inspection,120 BLOOR ST E
+16,16 153099 PLB 00,Plumbing(PS),"May 10, 2016",Inspection,120 BLOOR ST E
+17,14 268812 BLD 00,Building Additions/Alterations,"Dec 31, 2014",Inspection,120 BLOOR ST E
+18,14 268812 HVA 00,Mechanical(MS),"Dec 31, 2014",Inspection,120 BLOOR ST E
+19,14 268812 PLB 00,Plumbing(PS),"Dec 31, 2014",Inspection,120 BLOOR ST E
+20,14 180443 BLD 00,Building Additions/Alterations,"Jun 26, 2014",Permit Issued,120 BLOOR ST E
+21,13 145511 BLD 00,Building Additions/Alterations,"Apr 5, 2013",Inspection,120 BLOOR ST E
+0,23 112361 HVA 00,Mechanical(MS),"Feb 16, 2023",Permit Issued,121 BLOOR ST E
+1,23 112361 BLD 00,Building Additions/Alterations,"Feb 9, 2023",Permit Issued,121 BLOOR ST E
+2,22 221010 HVA 00,Mechanical(MS),"Oct 25, 2022",Inspection,121 BLOOR ST E
+3,22 221010 PLB 00,Plumbing(PS),"Oct 25, 2022",Closed,121 BLOOR ST E
+4,22 221010 BLD 00,Building Additions/Alterations,"Oct 24, 2022",Inspection,121 BLOOR ST E
+5,22 213949 PLB 00,Plumbing(PS),"Oct 13, 2022",Permit Issued,121 BLOOR ST E
+6,22 213949 BLD 00,Building Additions/Alterations,"Oct 7, 2022",Permit Issued,121 BLOOR ST E
+7,22 213949 HVA 00,Mechanical(MS),"Oct 7, 2022",Permit Issued,121 BLOOR ST E
+8,22 210155 SGN 00,Sign Permit,"Sep 28, 2022",Permit Issued,121 BLOOR ST E
+9,22 210155 DST 00,Designated Structures,"Sep 28, 2022",Permit Issued,121 BLOOR ST E
+10,21 190595 FSU 00,Fire/Security Upgrade,"Aug 9, 2021",Permit Issued,121 BLOOR ST E
+11,21 186294 DST 00,Designated Structures,"Jul 23, 2021",Closed,121 BLOOR ST E
+12,21 186294 SGN 00,Sign Permit,"Jul 20, 2021",Closed,121 BLOOR ST E
+13,20 207017 PLB 00,Plumbing(PS),"Oct 22, 2020",Inspection,121 BLOOR ST E
+14,20 207017 BLD 00,Building Additions/Alterations,"Oct 19, 2020",Inspection,121 BLOOR ST E
+15,19 187162 BLD 00,Building Additions/Alterations,"Jul 12, 2019",Inspection,121 BLOOR ST E
+16,19 108629 BLD 00,Building Additions/Alterations,"Jan 25, 2019",Inspection,121 BLOOR ST E
+17,18 209795 FSU 00,Fire/Security Upgrade,"Aug 16, 2018",Inspection,121 BLOOR ST E
+18,18 192407 BLD 00,Building Additions/Alterations,"Jul 11, 2018",Inspection,121 BLOOR ST E
+19,18 192407 HVA 00,Mechanical(MS),"Jul 11, 2018",Inspection,121 BLOOR ST E
+20,18 172010 BLD 00,Building Additions/Alterations,"Jun 6, 2018",Inspection,121 BLOOR ST E
+21,18 163753 BLD 00,Building Additions/Alterations,"May 24, 2018",Inspection,121 BLOOR ST E
+22,18 163753 HVA 00,Mechanical(MS),"May 24, 2018",Permit Issued,121 BLOOR ST E
+23,18 164113 BLD 00,Building Additions/Alterations,"May 24, 2018",Inspection,121 BLOOR ST E
+24,18 164113 HVA 00,Mechanical(MS),"May 24, 2018",Inspection,121 BLOOR ST E
+25,17 260128 MSA 00,Mechanical(MS),"Nov 9, 2017",Permit Issued,121 BLOOR ST E
+26,17 121103 FSU 00,Fire/Security Upgrade,"Mar 20, 2017",Inspection,121 BLOOR ST E
+27,16 255754 FSU 00,Fire/Security Upgrade,"Nov 25, 2016",Inspection,121 BLOOR ST E
+28,16 243676 HVA 00,Mechanical(MS),"Nov 1, 2016",Permit Issued,121 BLOOR ST E
+29,16 243676 PLB 00,Plumbing(PS),"Nov 1, 2016",Permit Issued,121 BLOOR ST E
+30,16 243676 BLD 00,Building Additions/Alterations,"Oct 27, 2016",Inspection,121 BLOOR ST E
+31,15 241771 FSU 00,Fire/Security Upgrade,"Oct 26, 2015",Inspection,121 BLOOR ST E
+32,15 166585 HVA 00,Mechanical(MS),"Jun 3, 2015",Permit Issued,121 BLOOR ST E
+33,15 166585 BLD 00,Building Additions/Alterations,"Jun 2, 2015",Inspection,121 BLOOR ST E
+34,14 188654 FSU 00,Fire/Security Upgrade,"Jul 11, 2014",Inspection,121 BLOOR ST E
+0,23 116024 HVA 00,Mechanical(MS),"Feb 23, 2023",Permit Issued,130 BLOOR ST W
+1,23 116024 PLB 00,Plumbing(PS),"Feb 23, 2023",Permit Issued,130 BLOOR ST W
+2,23 116024 BLD 00,Building Additions/Alterations,"Feb 22, 2023",Permit Issued,130 BLOOR ST W
+3,22 199594 BLD 00,Building Additions/Alterations,"Sep 9, 2022",Inspection,130 BLOOR ST W
+4,22 199594 HVA 00,Mechanical(MS),"Sep 9, 2022",Closed,130 BLOOR ST W
+5,18 259269 BLD 02,Building Additions/Alterations,"Jan 9, 2020",Revision Issued,130 BLOOR ST W
+6,18 259269 HVA 02,Mechanical(MS),"Jan 9, 2020",Revision Issued,130 BLOOR ST W
+7,18 259269 BLD 01,Building Additions/Alterations,"Feb 22, 2019",Revision Issued,130 BLOOR ST W
+8,18 259269 HVA 01,Mechanical(MS),"Feb 22, 2019",Revision Issued,130 BLOOR ST W
+9,18 259269 BLD 00,Building Additions/Alterations,"Nov 21, 2018",Inspection,130 BLOOR ST W
+10,18 259269 HVA 00,Mechanical(MS),"Nov 21, 2018",Inspection,130 BLOOR ST W
+11,18 191832 BLD 00,Building Additions/Alterations,"Jul 11, 2018",Inspection,130 BLOOR ST W
+12,18 178957 BLD 00,Building Additions/Alterations,"Jun 29, 2018",Inspection,130 BLOOR ST W
+13,18 178957 HVA 00,Mechanical(MS),"Jun 29, 2018",Permit Issued,130 BLOOR ST W
+14,17 130719 BLD 01,Building Additions/Alterations,"Jun 29, 2017",Revision Issued,130 BLOOR ST W
+15,17 154514 HVA 00,Mechanical(MS),"May 15, 2017",Inspection,130 BLOOR ST W
+16,17 130719 HVA 00,Mechanical(MS),"Mar 21, 2017",Permit Issued,130 BLOOR ST W
+17,17 130719 BLD 00,Building Additions/Alterations,"Mar 20, 2017",Inspection,130 BLOOR ST W
+18,17 122021 BLD 00,Building Additions/Alterations,"Feb 27, 2017",Inspection,130 BLOOR ST W
+19,13 273404 BLD 01,Building Additions/Alterations,"Jan 4, 2016",Revision Issued,130 BLOOR ST W
+20,13 273404 BLD 00,Building Additions/Alterations,"Dec 3, 2013",Inspection,130 BLOOR ST W
+21,13 273404 HVA 00,Mechanical(MS),"Dec 3, 2013",Inspection,130 BLOOR ST W
+22,13 273404 PLB 00,Plumbing(PS),"Dec 3, 2013",Permit Issued,130 BLOOR ST W
+0,22 188875 BLD 01,Building Additions/Alterations,"Nov 28, 2022",Revision Issued,130 BLOOR ST W
+1,22 199594 BLD 00,Building Additions/Alterations,"Sep 9, 2022",Inspection,130 BLOOR ST W
+2,22 200434 BLD 00,Building Additions/Alterations,"Sep 8, 2022",Permit Issued,130 BLOOR ST W
+3,22 200434 HVA 00,Mechanical(MS),"Sep 8, 2022",Inspection,130 BLOOR ST W
+4,22 188875 BLD 00,Building Additions/Alterations,"Aug 12, 2022",Inspection,130 BLOOR ST W
+5,22 188875 HVA 00,Mechanical(MS),"Aug 12, 2022",Closed,130 BLOOR ST W
+6,22 149724 FSU 00,Fire/Security Upgrade,"May 24, 2022",Permit Issued,130 BLOOR ST W
+7,22 125042 BLD 00,Building Additions/Alterations,"Mar 21, 2022",Inspection,130 BLOOR ST W
+8,22 125042 HVA 00,Mechanical(MS),"Mar 21, 2022",Inspection,130 BLOOR ST W
+9,22 125042 PLB 00,Plumbing(PS),"Mar 21, 2022",Inspection,130 BLOOR ST W
+10,21 234991 HVA 00,Mechanical(MS),"Nov 15, 2021",Inspection,130 BLOOR ST W
+11,19 237690 PSA 00,Plumbing(PS),"Oct 21, 2019",Inspection,130 BLOOR ST W
+12,13 273404 BLD 01,Building Additions/Alterations,"Jan 4, 2016",Revision Issued,130 BLOOR ST W
+13,13 273404 BLD 00,Building Additions/Alterations,"Dec 3, 2013",Inspection,130 BLOOR ST W
+0,23 116017 HVA 00,Mechanical(MS),"Feb 23, 2023",Issuance Pending,131 BLOOR ST W
+1,23 116017 PLB 00,Plumbing(PS),"Feb 23, 2023",Issuance Pending,131 BLOOR ST W
+2,23 116017 BLD 00,Building Additions/Alterations,"Feb 21, 2023",Examiner's Notice Sent,131 BLOOR ST W
+3,22 215344 BLD 00,Building Additions/Alterations,"Oct 21, 2022",Closed,131 BLOOR ST W
+4,22 147944 MSA 00,Mechanical(MS),"May 18, 2022",Inspection,131 BLOOR ST W
+5,21 163999 BLD 01,Building Additions/Alterations,"Feb 10, 2022",Revision Issued,131 BLOOR ST W
+6,21 224928 BLD 00,Building Additions/Alterations,"Oct 14, 2021",Permit Issued,131 BLOOR ST W
+7,21 224928 HVA 00,Mechanical(MS),"Oct 14, 2021",Permit Issued,131 BLOOR ST W
+8,21 224928 PLB 00,Plumbing(PS),"Oct 14, 2021",Permit Issued,131 BLOOR ST W
+9,21 163999 BLD 00,Building Additions/Alterations,"Jun 4, 2021",Inspection,131 BLOOR ST W
+10,19 249027 BLD 00,Building Additions/Alterations,"Nov 14, 2019",Inspection,131 BLOOR ST W
+11,19 249027 HVA 00,Mechanical(MS),"Nov 14, 2019",Inspection,131 BLOOR ST W
+12,19 249027 PLB 00,Plumbing(PS),"Nov 14, 2019",Inspection,131 BLOOR ST W
+13,19 222225 BLD 00,Building Additions/Alterations,"Sep 17, 2019",Permit Issued,131 BLOOR ST W
+14,17 262710 FSU 01,Fire/Security Upgrade,"Aug 27, 2018",Revision Issued,131 BLOOR ST W
+15,18 124552 BLD 00,Building Additions/Alterations,"Mar 5, 2018",Permit Issued,131 BLOOR ST W
+16,18 122578 HVA 00,Mechanical(MS),"Feb 28, 2018",Inspection,131 BLOOR ST W
+17,17 262710 FSU 00,Fire/Security Upgrade,"Nov 15, 2017",Permit Issued,131 BLOOR ST W
+18,17 174255 FSU 00,Fire/Security Upgrade,"Jun 6, 2017",Permit Issued,131 BLOOR ST W
+19,17 163320 FSU 00,Fire/Security Upgrade,"May 30, 2017",Permit Issued,131 BLOOR ST W
+20,17 129885 HVA 00,Mechanical(MS),"May 23, 2017",Permit Issued,131 BLOOR ST W
+21,17 160675 HVA 00,Mechanical(MS),"May 16, 2017",Inspection,131 BLOOR ST W
+22,17 160675 PLB 00,Plumbing(PS),"May 16, 2017",Inspection,131 BLOOR ST W
+23,17 149072 BLD 00,Building Additions/Alterations,"Apr 25, 2017",Inspection,131 BLOOR ST W
+24,16 264514 BLD 01,Building Additions/Alterations,"Mar 21, 2017",Revision Issued,131 BLOOR ST W
+25,16 264514 PLB 01,Plumbing(PS),"Mar 21, 2017",Revision Issued,131 BLOOR ST W
+26,16 264514 HVA 01,Mechanical(MS),"Mar 21, 2017",Revision Issued,131 BLOOR ST W
+27,17 129885 BLD 00,Building Additions/Alterations,"Mar 16, 2017",Permit Issued,131 BLOOR ST W
+28,17 109917 HVA 00,Mechanical(MS),"Feb 1, 2017",Inspection,131 BLOOR ST W
+29,17 105734 BLD 00,Building Additions/Alterations,"Jan 30, 2017",Inspection,131 BLOOR ST W
+30,16 172788 BLD 02,Building Additions/Alterations,"Jan 12, 2017",Revision Issued,131 BLOOR ST W
+31,16 264514 BLD 00,Building Additions/Alterations,"Dec 14, 2016",Inspection,131 BLOOR ST W
+32,16 264514 HVA 00,Mechanical(MS),"Dec 14, 2016",Inspection,131 BLOOR ST W
+33,16 264514 PLB 00,Plumbing(PS),"Dec 14, 2016",Inspection,131 BLOOR ST W
+34,16 255348 HVA 00,Mechanical(MS),"Nov 24, 2016",Inspection,131 BLOOR ST W
+35,16 240403 BLD 00,Building Additions/Alterations,"Oct 21, 2016",Permit Issued,131 BLOOR ST W
+36,16 172788 BLD 01,Building Additions/Alterations,"Oct 13, 2016",Revision Issued,131 BLOOR ST W
+37,16 212171 BLD 00,Building Additions/Alterations,"Aug 24, 2016",Inspection,131 BLOOR ST W
+38,16 172788 HVA 00,Mechanical(MS),"Jun 15, 2016",Inspection,131 BLOOR ST W
+39,16 172788 BLD 00,Building Additions/Alterations,"Jun 13, 2016",Inspection,131 BLOOR ST W
+40,16 105834 BLD 00,Building Additions/Alterations,"Jan 19, 2016",Work Not Started,131 BLOOR ST W
+41,16 105834 HVA 00,Mechanical(MS),"Jan 19, 2016",Permit Issued,131 BLOOR ST W
+42,15 215838 BLD 01,Building Additions/Alterations,"Dec 1, 2015",Revision Issued,131 BLOOR ST W
+43,15 215838 BLD 00,Building Additions/Alterations,"Sep 1, 2015",Inspection,131 BLOOR ST W
+44,15 121275 BLD 00,Building Additions/Alterations,"Feb 27, 2015",Permit Issued,131 BLOOR ST W
+0,21 106454 FSU 00,Fire/Security Upgrade,"Jan 22, 2021",Inspection,133 BLOOR ST E
+1,13 188230 PLB 02,Plumbing(PS),"Sep 13, 2017",Revision Issued,133 BLOOR ST E
+2,13 188230 PLB 01,Plumbing(PS),"Jun 22, 2017",Revision Issued,133 BLOOR ST E
+3,16 115000 FSU 00,Fire/Security Upgrade,"Feb 12, 2016",Inspection,133 BLOOR ST E
+4,13 188230 BLD 00,Building Additions/Alterations,"Jun 14, 2013",Inspection,133 BLOOR ST E
+5,13 188230 HVA 00,Mechanical(MS),"Jun 14, 2013",Inspection,133 BLOOR ST E
+6,13 188230 PLB 00,Plumbing(PS),"Jun 14, 2013",Inspection,133 BLOOR ST E
+0,22 175976 BLD 00,Building Additions/Alterations,"Jul 18, 2022",Inspection,146 BLOOR ST W
+1,16 144770 PSA 00,Plumbing(PS),"Apr 22, 2016",Inspection,146 BLOOR ST W
+0,23 105000 BLD 01,Building Additions/Alterations,"Feb 14, 2023",Revision Issued,150 BLOOR ST W
+1,23 105000 BLD 00,Building Additions/Alterations,"Jan 19, 2023",Permit Issued,150 BLOOR ST W
+2,22 197818 BLD 00,Building Additions/Alterations,"Aug 31, 2022",Closed,150 BLOOR ST W
+3,22 197818 HVA 00,Mechanical(MS),"Aug 31, 2022",Inspection,150 BLOOR ST W
+4,22 151373 BLD 00,Building Additions/Alterations,"May 26, 2022",Permit Issued,150 BLOOR ST W
+5,22 151373 PLB 00,Plumbing(PS),"May 26, 2022",Permit Issued,150 BLOOR ST W
+6,22 151373 DRN 00,Drain and Site Service,"May 26, 2022",Permit Issued,150 BLOOR ST W
+7,21 237497 FSU 00,Fire/Security Upgrade,"Nov 15, 2021",Permit Issued,150 BLOOR ST W
+8,16 234394 HVA 00,Mechanical(MS),"Jan 26, 2017",Inspection,150 BLOOR ST W
+9,16 234394 PLB 00,Plumbing(PS),"Oct 11, 2016",Inspection,150 BLOOR ST W
+10,16 116450 BLD 00,Building Additions/Alterations,"Feb 22, 2016",Inspection,150 BLOOR ST W
+11,13 262313 BLD 01,Building Additions/Alterations,"Mar 26, 2014",Revision Issued,150 BLOOR ST W
+12,13 262313 BLD 00,Building Additions/Alterations,"Nov 7, 2013",Inspection,150 BLOOR ST W
+13,13 260350 BLD 00,Building Additions/Alterations,"Nov 4, 2013",Permit Issued,150 BLOOR ST W
+14,13 246663 BLD 00,Building Additions/Alterations,"Oct 7, 2013",Inspection,150 BLOOR ST W
+15,12 286055 BLD 01,Building Additions/Alterations,"Jul 24, 2013",Revision Issued,150 BLOOR ST W
+16,12 286055 PLB 01,Plumbing(PS),"Jul 24, 2013",Revision Issued,150 BLOOR ST W
+0,23 107420 PLB 00,Plumbing(PS),"Feb 15, 2023",Permit Issued,151 BLOOR ST W
+1,23 107420 HVA 00,Mechanical(MS),"Jan 27, 2023",Permit Issued,151 BLOOR ST W
+2,23 107420 BLD 00,Building Additions/Alterations,"Jan 26, 2023",Permit Issued,151 BLOOR ST W
+3,22 210715 BLD 00,Building Additions/Alterations,"Sep 29, 2022",Closed,151 BLOOR ST W
+4,22 205910 BLD 00,Building Additions/Alterations,"Sep 20, 2022",Closed,151 BLOOR ST W
+5,22 205910 HVA 00,Mechanical(MS),"Sep 20, 2022",Inspection,151 BLOOR ST W
+6,22 205910 PLB 00,Plumbing(PS),"Sep 20, 2022",Closed,151 BLOOR ST W
+7,21 146721 BLD 00,Building Additions/Alterations,"Apr 29, 2021",Closed,151 BLOOR ST W
+8,19 242351 BLD 00,Building Additions/Alterations,"Oct 29, 2019",Inspection,151 BLOOR ST W
+9,19 209009 BLD 00,Building Additions/Alterations,"Aug 20, 2019",Inspection,151 BLOOR ST W
+10,19 147118 BLD 00,Building Additions/Alterations,"May 2, 2019",Inspection,151 BLOOR ST W
+11,18 208416 BLD 00,Building Additions/Alterations,"Aug 15, 2018",Permit Issued,151 BLOOR ST W
+12,18 132356 BLD 00,Building Additions/Alterations,"Mar 21, 2018",Inspection,151 BLOOR ST W
+13,18 132356 HVA 00,Mechanical(MS),"Mar 21, 2018",Inspection,151 BLOOR ST W
+14,18 132356 PLB 00,Plumbing(PS),"Mar 21, 2018",Inspection,151 BLOOR ST W
+15,18 113706 BLD 00,Building Additions/Alterations,"Feb 5, 2018",Inspection,151 BLOOR ST W
+16,17 131874 BLD 01,Building Additions/Alterations,"Jun 26, 2017",Revision Issued,151 BLOOR ST W
+17,17 170166 FSU 00,Fire/Security Upgrade,"May 31, 2017",Inspection,151 BLOOR ST W
+18,17 139676 BLD 00,Building Additions/Alterations,"Apr 6, 2017",Inspection,151 BLOOR ST W
+19,17 139676 HVA 00,Mechanical(MS),"Apr 6, 2017",Permit Issued,151 BLOOR ST W
+20,17 139676 PLB 00,Plumbing(PS),"Apr 6, 2017",Inspection,151 BLOOR ST W
+21,17 131874 HVA 00,Mechanical(MS),"Mar 23, 2017",Inspection,151 BLOOR ST W
+22,17 131874 PLB 00,Plumbing(PS),"Mar 23, 2017",Permit Issued,151 BLOOR ST W
+23,17 131874 BLD 00,Building Additions/Alterations,"Mar 22, 2017",Inspection,151 BLOOR ST W
+24,16 270332 BLD 00,Building Additions/Alterations,"Dec 23, 2016",Inspection,151 BLOOR ST W
+25,16 248564 HVA 00,Mechanical(MS),"Dec 19, 2016",Inspection,151 BLOOR ST W
+26,16 248564 BLD 00,Building Additions/Alterations,"Dec 15, 2016",Inspection,151 BLOOR ST W
+27,16 233829 HVA 00,Mechanical(MS),"Oct 17, 2016",Permit Issued,151 BLOOR ST W
+28,16 233829 PLB 00,Plumbing(PS),"Oct 17, 2016",Permit Issued,151 BLOOR ST W
+29,16 233829 BLD 00,Building Additions/Alterations,"Oct 6, 2016",Permit Issued,151 BLOOR ST W
+30,16 193533 HVA 00,Mechanical(MS),"Aug 9, 2016",Inspection,151 BLOOR ST W
+31,16 193533 PLB 00,Plumbing(PS),"Aug 9, 2016",Inspection,151 BLOOR ST W
+32,16 193533 BLD 00,Building Additions/Alterations,"Aug 8, 2016",Inspection,151 BLOOR ST W
+33,16 184677 PLB 00,Plumbing(PS),"Aug 4, 2016",Inspection,151 BLOOR ST W
+34,16 184677 BLD 00,Building Additions/Alterations,"Jul 4, 2016",Inspection,151 BLOOR ST W
+35,16 178095 HVA 00,Mechanical(MS),"Jun 22, 2016",Inspection,151 BLOOR ST W
+36,16 146628 HVA 00,Mechanical(MS),"Apr 28, 2016",Inspection,151 BLOOR ST W
+37,16 146628 BLD 00,Building Additions/Alterations,"Apr 27, 2016",Inspection,151 BLOOR ST W
+38,15 266953 PLB 00,Plumbing(PS),"Dec 23, 2015",Permit Issued,151 BLOOR ST W
+39,15 266953 BLD 00,Building Additions/Alterations,"Dec 18, 2015",Permit Issued,151 BLOOR ST W
+40,15 175348 HVA 00,Mechanical(MS),"Jun 17, 2015",Inspection,151 BLOOR ST W
+41,15 175348 PLB 00,Plumbing(PS),"Jun 17, 2015",Inspection,151 BLOOR ST W
+42,15 175348 BLD 00,Building Additions/Alterations,"Jun 16, 2015",Inspection,151 BLOOR ST W
+0,19 221576 BLD 00,Building Additions/Alterations,"Oct 10, 2019",Permit Issued,157 BLOOR ST W
+0,23 120434 HVA 00,Mechanical(MS),"Mar 8, 2023",Not Started,160 BLOOR ST E
+1,23 120434 PLB 00,Plumbing(PS),"Mar 8, 2023",Not Started,160 BLOOR ST E
+2,23 120434 BLD 00,Building Additions/Alterations,"Mar 6, 2023",Permit Issued,160 BLOOR ST E
+3,22 181441 BLD 01,Building Additions/Alterations,"Oct 3, 2022",Closed,160 BLOOR ST E
+4,22 181441 BLD 00,Building Additions/Alterations,"Jul 26, 2022",Closed,160 BLOOR ST E
+5,22 181441 HVA 00,Mechanical(MS),"Jul 26, 2022",Closed,160 BLOOR ST E
+6,22 144695 BLD 00,Building Additions/Alterations,"May 16, 2022",Permit Issued,160 BLOOR ST E
+7,22 144695 HVA 00,Mechanical(MS),"May 16, 2022",Inspection,160 BLOOR ST E
+8,22 144695 PLB 00,Plumbing(PS),"May 16, 2022",Inspection,160 BLOOR ST E
+9,21 137799 BLD 00,Building Additions/Alterations,"Apr 9, 2021",Inspection,160 BLOOR ST E
+10,21 137799 HVA 00,Mechanical(MS),"Apr 9, 2021",Permit Issued,160 BLOOR ST E
+11,21 137799 PLB 00,Plumbing(PS),"Apr 9, 2021",Permit Issued,160 BLOOR ST E
+12,19 207346 BLD 00,Building Additions/Alterations,"Sep 6, 2019",Permit Issued,160 BLOOR ST E
+13,19 207346 HVA 00,Mechanical(MS),"Sep 6, 2019",Permit Issued,160 BLOOR ST E
+14,19 207346 PLB 00,Plumbing(PS),"Sep 6, 2019",Permit Issued,160 BLOOR ST E
+15,19 163673 HVA 00,Mechanical(MS),"Jun 5, 2019",Inspection,160 BLOOR ST E
+16,19 163673 BLD 00,Building Additions/Alterations,"Jun 3, 2019",Inspection,160 BLOOR ST E
+17,18 267263 BLD 00,Building Additions/Alterations,"Dec 11, 2018",Inspection,160 BLOOR ST E
+18,18 180705 BLD 00,Building Additions/Alterations,"Jun 20, 2018",Inspection,160 BLOOR ST E
+19,18 156695 BLD 00,Building Additions/Alterations,"May 10, 2018",Inspection,160 BLOOR ST E
+20,17 219938 BLD 00,Building Additions/Alterations,"Aug 21, 2017",Inspection,160 BLOOR ST E
+21,16 198832 PLB 00,Plumbing(PS),"Aug 4, 2016",Permit Issued,160 BLOOR ST E
+22,16 198832 BLD 00,Building Additions/Alterations,"Jul 29, 2016",Inspection,160 BLOOR ST E
+23,16 118446 BLD 01,Building Additions/Alterations,"Jun 15, 2016",Revision Issued,160 BLOOR ST E
+24,16 118446 BLD 00,Building Additions/Alterations,"Feb 19, 2016",Inspection,160 BLOOR ST E
+25,16 102198 FSU 00,Fire/Security Upgrade,"Feb 4, 2016",Inspection,160 BLOOR ST E
+26,15 132522 PLB 00,Plumbing(PS),"May 20, 2015",Inspection,160 BLOOR ST E
+27,15 132522 BLD 00,Building Additions/Alterations,"Mar 26, 2015",Inspection,160 BLOOR ST E
+28,14 117332 BLD 00,Building Additions/Alterations,"Mar 7, 2014",Permit Issued,160 BLOOR ST E
+29,14 113731 BLD 00,Building Additions/Alterations,"Feb 5, 2014",Inspection,160 BLOOR ST E
+30,14 113731 HVA 00,Mechanical(MS),"Feb 5, 2014",Inspection,160 BLOOR ST E
+31,13 258524 BLD 00,Building Additions/Alterations,"Oct 30, 2013",Inspection,160 BLOOR ST E
+32,13 228897 HVA 00,Mechanical(MS),"Aug 30, 2013",Permit Issued,160 BLOOR ST E
+33,13 228897 PLB 00,Plumbing(PS),"Aug 30, 2013",Permit Issued,160 BLOOR ST E
+34,13 226226 BLD 00,Building Additions/Alterations,"Aug 26, 2013",Permit Issued,160 BLOOR ST E
+35,13 150584 BLD 01,Building Additions/Alterations,"Aug 19, 2013",Revision Issued,160 BLOOR ST E
+36,13 219036 FSU 00,Fire/Security Upgrade,"Aug 12, 2013",Inspection,160 BLOOR ST E
+37,13 150584 BLD 00,Building Additions/Alterations,"Apr 16, 2013",Inspection,160 BLOOR ST E
+0,16 166678 BLD 01,Building Additions/Alterations,"Oct 6, 2016",Revision Issued,162 BLOOR ST W
+1,16 166678 HVA 00,Mechanical(MS),"Jul 28, 2016",Inspection,162 BLOOR ST W
+2,16 166678 PLB 00,Plumbing(PS),"Jun 16, 2016",Permit Issued,162 BLOOR ST W
+3,16 166678 BLD 00,Building Additions/Alterations,"Jun 3, 2016",Inspection,162 BLOOR ST W
+4,14 249767 BLD 00,Building Additions/Alterations,"Nov 10, 2014",Inspection,162 BLOOR ST W
+0,23 106412 HVA 00,Mechanical(MS),"Feb 24, 2023",Issuance Pending,170 BLOOR ST W
+1,23 106412 BLD 00,Building Additions/Alterations,"Feb 10, 2023",Refusal Notice,170 BLOOR ST W
+2,22 184262 BLD 00,Building Additions/Alterations,"Aug 3, 2022",Inspection,170 BLOOR ST W
+3,22 184262 HVA 00,Mechanical(MS),"Aug 3, 2022",Permit Issued,170 BLOOR ST W
+4,22 184262 PLB 00,Plumbing(PS),"Aug 3, 2022",Inspection,170 BLOOR ST W
+5,22 163386 BLD 00,Building Additions/Alterations,"Jun 30, 2022",Inspection,170 BLOOR ST W
+0,23 119111 BLD 00,Building Additions/Alterations,"Mar 6, 2023",Permit Issued,175 BLOOR ST E
+1,22 209938 BLD 00,Building Additions/Alterations,"Sep 29, 2022",Under Review,175 BLOOR ST E
+2,22 209938 HVA 00,Mechanical(MS),"Sep 29, 2022",Issuance Pending,175 BLOOR ST E
+3,22 209938 PLB 00,Plumbing(PS),"Sep 29, 2022",Issuance Pending,175 BLOOR ST E
+4,21 245072 HVA 00,Mechanical(MS),"Dec 10, 2021",Permit Issued,175 BLOOR ST E
+5,21 245072 PLB 00,Plumbing(PS),"Dec 10, 2021",Permit Issued,175 BLOOR ST E
+6,21 245072 BLD 00,Building Additions/Alterations,"Dec 7, 2021",Inspection,175 BLOOR ST E
+7,21 206254 BLD 00,Building Additions/Alterations,"Sep 22, 2021",Inspection,175 BLOOR ST E
+8,21 206254 HVA 00,Mechanical(MS),"Sep 22, 2021",Inspection,175 BLOOR ST E
+9,21 206254 PLB 00,Plumbing(PS),"Sep 22, 2021",Inspection,175 BLOOR ST E
+10,21 180566 BLD 00,Building Additions/Alterations,"Aug 20, 2021",Inspection,175 BLOOR ST E
+11,21 180566 HVA 00,Mechanical(MS),"Aug 20, 2021",Inspection,175 BLOOR ST E
+12,21 180566 PLB 00,Plumbing(PS),"Aug 20, 2021",Inspection,175 BLOOR ST E
+13,20 200457 BLD 00,Building Additions/Alterations,"Oct 13, 2020",Inspection,175 BLOOR ST E
+14,20 200457 HVA 00,Mechanical(MS),"Oct 13, 2020",Inspection,175 BLOOR ST E
+15,20 200457 PLB 00,Plumbing(PS),"Oct 13, 2020",Inspection,175 BLOOR ST E
+16,20 115362 BLD 00,Building Additions/Alterations,"Feb 13, 2020",Permit Issued,175 BLOOR ST E
+17,20 115362 HVA 00,Mechanical(MS),"Feb 13, 2020",Permit Issued,175 BLOOR ST E
+18,19 218784 HVA 00,Mechanical(MS),"Sep 11, 2019",Inspection,175 BLOOR ST E
+19,19 217511 BLD 00,Building Additions/Alterations,"Sep 10, 2019",Inspection,175 BLOOR ST E
+20,19 217511 HVA 00,Mechanical(MS),"Sep 10, 2019",Inspection,175 BLOOR ST E
+21,19 167176 HVA 00,Mechanical(MS),"Jun 7, 2019",Inspection,175 BLOOR ST E
+22,19 167176 BLD 00,Building Additions/Alterations,"Jun 6, 2019",Inspection,175 BLOOR ST E
+23,19 121969 HVA 00,Mechanical(MS),"Mar 11, 2019",Inspection,175 BLOOR ST E
+24,19 121969 PLB 00,Plumbing(PS),"Mar 11, 2019",Inspection,175 BLOOR ST E
+25,19 121969 BLD 00,Building Additions/Alterations,"Mar 5, 2019",Permit Issued,175 BLOOR ST E
+26,19 103049 BLD 00,Building Additions/Alterations,"Jan 14, 2019",Inspection,175 BLOOR ST E
+27,19 103049 HVA 00,Mechanical(MS),"Jan 14, 2019",Inspection,175 BLOOR ST E
+28,19 103049 PLB 00,Plumbing(PS),"Jan 14, 2019",Inspection,175 BLOOR ST E
+29,18 122895 HVA 00,Mechanical(MS),"Mar 13, 2018",Permit Issued,175 BLOOR ST E
+30,18 122895 PLB 00,Plumbing(PS),"Mar 13, 2018",Permit Issued,175 BLOOR ST E
+31,18 122895 BLD 00,Building Additions/Alterations,"Feb 28, 2018",Permit Issued,175 BLOOR ST E
+32,18 118940 BLD 00,Building Additions/Alterations,"Feb 20, 2018",Inspection,175 BLOOR ST E
+33,18 118940 PLB 00,Plumbing(PS),"Feb 20, 2018",Inspection,175 BLOOR ST E
+34,18 112208 BLD 00,Building Additions/Alterations,"Feb 2, 2018",Permit Issued,175 BLOOR ST E
+35,17 198926 BLD 00,Building Additions/Alterations,"Jul 17, 2017",Inspection,175 BLOOR ST E
+36,17 198926 HVA 00,Mechanical(MS),"Jul 17, 2017",Inspection,175 BLOOR ST E
+37,17 118387 PLB 00,Plumbing(PS),"May 3, 2017",Inspection,175 BLOOR ST E
+38,17 118387 HVA 00,Mechanical(MS),"Feb 17, 2017",Inspection,175 BLOOR ST E
+39,17 109634 HVA 00,Mechanical(MS),"Jan 26, 2017",Inspection,175 BLOOR ST E
+40,17 109634 PLB 00,Plumbing(PS),"Jan 26, 2017",Inspection,175 BLOOR ST E
+41,15 243402 BLD 00,Building Additions/Alterations,"Oct 27, 2015",Permit Issued,175 BLOOR ST E
+42,15 243402 HVA 00,Mechanical(MS),"Oct 27, 2015",Permit Issued,175 BLOOR ST E
+43,15 243402 PLB 00,Plumbing(PS),"Oct 27, 2015",Permit Issued,175 BLOOR ST E
+44,15 209129 HVA 00,Mechanical(MS),"Aug 20, 2015",Inspection,175 BLOOR ST E
+45,14 244257 BLD 00,Building Additions/Alterations,"Oct 28, 2014",Permit Issued,175 BLOOR ST E
+46,14 244257 HVA 00,Mechanical(MS),"Oct 28, 2014",Permit Issued,175 BLOOR ST E
+47,14 244257 PLB 00,Plumbing(PS),"Oct 28, 2014",Permit Issued,175 BLOOR ST E
+0,23 109184 FSU 00,Fire/Security Upgrade,"Feb 1, 2023",Inspection,180 BLOOR ST W
+1,22 227539 HVA 00,Mechanical(MS),"Dec 6, 2022",Closed,180 BLOOR ST W
+2,22 227539 PLB 00,Plumbing(PS),"Dec 6, 2022",Closed,180 BLOOR ST W
+3,22 227539 BLD 00,Building Additions/Alterations,"Nov 21, 2022",Inspection,180 BLOOR ST W
+4,22 215337 BLD 00,Building Additions/Alterations,"Oct 12, 2022",Permit Issued,180 BLOOR ST W
+5,22 215337 HVA 00,Mechanical(MS),"Oct 12, 2022",Permit Issued,180 BLOOR ST W
+6,21 233852 HVA 00,Mechanical(MS),"Nov 10, 2021",Inspection,180 BLOOR ST W
+7,21 233852 PLB 00,Plumbing(PS),"Nov 10, 2021",Inspection,180 BLOOR ST W
+8,21 233852 BLD 00,Building Additions/Alterations,"Nov 5, 2021",Inspection,180 BLOOR ST W
+9,21 125143 BLD 00,Building Additions/Alterations,"Mar 16, 2021",Permit Issued,180 BLOOR ST W
+10,21 125143 HVA 00,Mechanical(MS),"Mar 16, 2021",Permit Issued,180 BLOOR ST W
+11,21 125143 PLB 00,Plumbing(PS),"Mar 16, 2021",Permit Issued,180 BLOOR ST W
+12,20 227139 HVA 00,Mechanical(MS),"Dec 9, 2020",Inspection,180 BLOOR ST W
+13,20 215890 BLD 00,Building Additions/Alterations,"Nov 10, 2020",Inspection,180 BLOOR ST W
+14,20 215890 HVA 00,Mechanical(MS),"Nov 10, 2020",Inspection,180 BLOOR ST W
+15,20 215890 PLB 00,Plumbing(PS),"Nov 10, 2020",Inspection,180 BLOOR ST W
+16,20 211108 BLD 00,Building Additions/Alterations,"Nov 2, 2020",Permit Issued,180 BLOOR ST W
+17,20 211108 HVA 00,Mechanical(MS),"Nov 2, 2020",Permit Issued,180 BLOOR ST W
+18,20 200421 PLB 00,Plumbing(PS),"Oct 22, 2020",Permit Issued,180 BLOOR ST W
+19,20 200421 BLD 00,Building Additions/Alterations,"Oct 19, 2020",Permit Issued,180 BLOOR ST W
+20,20 200421 HVA 00,Mechanical(MS),"Oct 19, 2020",Permit Issued,180 BLOOR ST W
+21,20 193175 HVA 00,Mechanical(MS),"Sep 24, 2020",Permit Issued,180 BLOOR ST W
+22,20 193175 BLD 00,Building Additions/Alterations,"Sep 17, 2020",Permit Issued,180 BLOOR ST W
+23,20 134583 BLD 00,Building Additions/Alterations,"Apr 20, 2020",Inspection,180 BLOOR ST W
+24,20 134583 HVA 00,Mechanical(MS),"Apr 20, 2020",Inspection,180 BLOOR ST W
+25,20 130342 BLD 00,Building Additions/Alterations,"Apr 14, 2020",Permit Issued,180 BLOOR ST W
+26,20 130342 HVA 00,Mechanical(MS),"Apr 14, 2020",Permit Issued,180 BLOOR ST W
+27,19 257801 BLD 00,Building Additions/Alterations,"Dec 6, 2019",Inspection,180 BLOOR ST W
+28,19 257801 HVA 00,Mechanical(MS),"Dec 6, 2019",Permit Issued,180 BLOOR ST W
+29,19 257801 PLB 00,Plumbing(PS),"Dec 6, 2019",Inspection,180 BLOOR ST W
+30,19 144126 BLD 01,Building Additions/Alterations,"Jun 20, 2019",Revision Issued,180 BLOOR ST W
+31,19 151758 BLD 00,Building Additions/Alterations,"May 9, 2019",Permit Issued,180 BLOOR ST W
+32,19 144126 BLD 00,Building Additions/Alterations,"Apr 24, 2019",Inspection,180 BLOOR ST W
+33,18 229597 BLD 00,Building Additions/Alterations,"Sep 21, 2018",Permit Issued,180 BLOOR ST W
+34,18 176781 BLD 00,Building Additions/Alterations,"Jun 13, 2018",Permit Issued,180 BLOOR ST W
+35,16 113890 FSU 00,Fire/Security Upgrade,"Feb 8, 2016",Permit Issued,180 BLOOR ST W
+36,14 265412 HVA 00,Mechanical(MS),"Mar 13, 2015",Permit Issued,180 BLOOR ST W
+37,14 265412 PLB 00,Plumbing(PS),"Feb 11, 2015",Inspection,180 BLOOR ST W
+38,14 265412 BLD 00,Building Additions/Alterations,"Dec 22, 2014",Inspection,180 BLOOR ST W
+39,13 190311 BLD 00,Building Additions/Alterations,"Jun 18, 2013",Permit Issued,180 BLOOR ST W
+0,22 148510 HVA 00,Mechanical(MS),"May 25, 2022",Permit Issued,200 BLOOR ST E
+1,22 148510 BLD 00,Building Additions/Alterations,"May 24, 2022",Permit Issued,200 BLOOR ST E
+2,21 230435 HVA 00,Mechanical(MS),"Oct 29, 2021",Permit Issued,200 BLOOR ST E
+3,21 230435 BLD 00,Building Additions/Alterations,"Oct 27, 2021",Permit Issued,200 BLOOR ST E
+4,21 185206 HVA 00,Mechanical(MS),"Jul 19, 2021",Inspection,200 BLOOR ST E
+5,21 185206 BLD 00,Building Additions/Alterations,"Jul 16, 2021",Inspection,200 BLOOR ST E
+6,21 133615 BLD 01,Building Additions/Alterations,"Jun 21, 2021",Revision Issued,200 BLOOR ST E
+7,21 133615 HVA 01,Mechanical(MS),"Jun 21, 2021",Revision Issued,200 BLOOR ST E
+8,21 133615 HVA 00,Mechanical(MS),"Mar 31, 2021",Permit Issued,200 BLOOR ST E
+9,21 133615 BLD 00,Building Additions/Alterations,"Mar 30, 2021",Inspection,200 BLOOR ST E
+10,20 109750 BLD 00,Building Additions/Alterations,"Jan 29, 2020",Permit Issued,200 BLOOR ST E
+11,19 113277 FSU 00,Fire/Security Upgrade,"Feb 8, 2019",Inspection,200 BLOOR ST E
+12,18 187894 BLD 00,Building Additions/Alterations,"Jul 3, 2018",Permit Issued,200 BLOOR ST E
+13,18 131296 MSA 00,Mechanical(MS),"Mar 19, 2018",Permit Issued,200 BLOOR ST E
+14,17 147443 BLD 00,Building Additions/Alterations,"Apr 21, 2017",Inspection,200 BLOOR ST E
+15,16 226920 FSU 00,Fire/Security Upgrade,"Sep 23, 2016",Permit Issued,200 BLOOR ST E
+16,15 240739 FSU 00,Fire/Security Upgrade,"Oct 23, 2015",Inspection,200 BLOOR ST E
+17,15 172486 BLD 00,Building Additions/Alterations,"Jun 11, 2015",Permit Issued,200 BLOOR ST E
+18,15 172486 HVA 00,Mechanical(MS),"Jun 11, 2015",Permit Issued,200 BLOOR ST E
+19,15 172486 PLB 00,Plumbing(PS),"Jun 11, 2015",Permit Issued,200 BLOOR ST E
+20,14 265053 BLD 00,Building Additions/Alterations,"Dec 17, 2014",Inspection,200 BLOOR ST E
+21,14 265066 BLD 00,Building Additions/Alterations,"Dec 17, 2014",Inspection,200 BLOOR ST E
+22,14 265076 BLD 00,Building Additions/Alterations,"Dec 17, 2014",Permit Issued,200 BLOOR ST E
+23,14 223396 BLD 00,Building Additions/Alterations,"Sep 17, 2014",Permit Issued,200 BLOOR ST E
+24,14 223415 BLD 00,Building Additions/Alterations,"Sep 17, 2014",Inspection,200 BLOOR ST E
+25,14 212382 MSA 00,Mechanical(MS),"Aug 26, 2014",Permit Issued,200 BLOOR ST E
+26,14 200182 BLD 00,Building Additions/Alterations,"Jul 31, 2014",Inspection,200 BLOOR ST E
+27,14 171741 BLD 00,Building Additions/Alterations,"Jun 10, 2014",Inspection,200 BLOOR ST E
+28,14 168953 HVA 00,Mechanical(MS),"Jun 5, 2014",Inspection,200 BLOOR ST E
+29,14 168953 PLB 00,Plumbing(PS),"Jun 5, 2014",Inspection,200 BLOOR ST E
+30,14 167339 BLD 00,Building Additions/Alterations,"Jun 3, 2014",Inspection,200 BLOOR ST E
+31,14 161946 FSU 00,Fire/Security Upgrade,"May 29, 2014",Permit Issued,200 BLOOR ST E
+32,14 163695 HVA 00,Mechanical(MS),"May 29, 2014",Permit Issued,200 BLOOR ST E
+33,14 163695 PLB 00,Plumbing(PS),"May 29, 2014",Permit Issued,200 BLOOR ST E
+34,14 163707 HVA 00,Mechanical(MS),"May 29, 2014",Permit Issued,200 BLOOR ST E
+35,14 163695 BLD 00,Building Additions/Alterations,"May 28, 2014",Permit Issued,200 BLOOR ST E
+36,14 163707 BLD 00,Building Additions/Alterations,"May 28, 2014",Permit Issued,200 BLOOR ST E
+37,14 162739 BLD 00,Building Additions/Alterations,"May 27, 2014",Permit Issued,200 BLOOR ST E
+38,14 160178 BLD 00,Building Additions/Alterations,"May 22, 2014",Inspection,200 BLOOR ST E
+39,14 150732 FSU 00,Fire/Security Upgrade,"May 2, 2014",Inspection,200 BLOOR ST E
+40,14 150875 BLD 00,Building Additions/Alterations,"May 2, 2014",Inspection,200 BLOOR ST E
+41,14 150880 BLD 00,Building Additions/Alterations,"May 2, 2014",Inspection,200 BLOOR ST E
+42,14 142711 FSU 00,Fire/Security Upgrade,"Apr 16, 2014",Permit Issued,200 BLOOR ST E
+43,14 136128 BLD 00,Building Additions/Alterations,"Apr 1, 2014",Inspection,200 BLOOR ST E
+44,14 136128 PLB 00,Plumbing(PS),"Apr 1, 2014",Inspection,200 BLOOR ST E
+45,14 134503 BLD 00,Building Additions/Alterations,"Mar 27, 2014",Inspection,200 BLOOR ST E
+46,14 134511 BLD 00,Building Additions/Alterations,"Mar 27, 2014",Inspection,200 BLOOR ST E
+47,14 134514 BLD 00,Building Additions/Alterations,"Mar 27, 2014",Inspection,200 BLOOR ST E
+48,14 134516 BLD 00,Building Additions/Alterations,"Mar 27, 2014",Inspection,200 BLOOR ST E
+49,14 118461 BLD 01,Building Additions/Alterations,"Mar 26, 2014",Revision Issued,200 BLOOR ST E
+50,14 118461 BLD 00,Building Additions/Alterations,"Feb 18, 2014",Inspection,200 BLOOR ST E
+51,14 109636 FSU 00,Fire/Security Upgrade,"Jan 28, 2014",Inspection,200 BLOOR ST E
+52,13 279034 BLD 00,Building Additions/Alterations,"Dec 17, 2013",Inspection,200 BLOOR ST E
+53,13 279034 PLB 00,Plumbing(PS),"Dec 17, 2013",Permit Issued,200 BLOOR ST E
+54,13 279041 BLD 00,Building Additions/Alterations,"Dec 17, 2013",Inspection,200 BLOOR ST E
+55,13 274614 BLD 00,Building Additions/Alterations,"Dec 5, 2013",Inspection,200 BLOOR ST E
+56,13 274614 HVA 00,Mechanical(MS),"Dec 5, 2013",Inspection,200 BLOOR ST E
+57,13 274619 BLD 00,Building Additions/Alterations,"Dec 5, 2013",Inspection,200 BLOOR ST E
+58,13 269732 BLD 00,Building Additions/Alterations,"Nov 25, 2013",Inspection,200 BLOOR ST E
+59,13 269738 BLD 00,Building Additions/Alterations,"Nov 25, 2013",Inspection,200 BLOOR ST E
+60,13 269738 PLB 00,Plumbing(PS),"Nov 25, 2013",Permit Issued,200 BLOOR ST E
+61,13 265527 BLD 00,Building Additions/Alterations,"Nov 14, 2013",Inspection,200 BLOOR ST E
+62,13 242218 FSU 00,Fire/Security Upgrade,"Sep 26, 2013",Inspection,200 BLOOR ST E
+63,13 225518 BLD 00,Building Additions/Alterations,"Aug 23, 2013",Permit Issued,200 BLOOR ST E
+64,13 225518 HVA 00,Mechanical(MS),"Aug 23, 2013",Permit Issued,200 BLOOR ST E
+65,13 225534 BLD 00,Building Additions/Alterations,"Aug 23, 2013",Inspection,200 BLOOR ST E
+66,13 225534 HVA 00,Mechanical(MS),"Aug 23, 2013",Inspection,200 BLOOR ST E
+0,21 225597 DST 00,Designated Structures,"Oct 18, 2021",Inspection,200 BLOOR ST W
+1,21 225597 SGN 00,Sign Permit,"Oct 15, 2021",Inspection,200 BLOOR ST W
+2,20 228318 PLB 01,Plumbing(PS),"Oct 1, 2021",Revision Issued,200 BLOOR ST W
+3,19 153441 HVA 01,Mechanical(MS),"Jan 4, 2021",Revision Issued,200 BLOOR ST W
+4,20 228318 BLD 00,Building Additions/Alterations,"Dec 16, 2020",Inspection,200 BLOOR ST W
+5,20 228318 HVA 00,Mechanical(MS),"Dec 16, 2020",Inspection,200 BLOOR ST W
+6,20 228318 PLB 00,Plumbing(PS),"Dec 16, 2020",Inspection,200 BLOOR ST W
+7,20 165873 MSA 00,Mechanical(MS),"Jul 16, 2020",Permit Issued,200 BLOOR ST W
+8,19 255215 PSA 00,Plumbing(PS),"Nov 28, 2019",Permit Issued,200 BLOOR ST W
+9,19 162911 BLD 01,Building Additions/Alterations,"Oct 17, 2019",Pending Cancellation,200 BLOOR ST W
+10,19 162911 BLD 00,Building Additions/Alterations,"May 30, 2019",Permit Issued,200 BLOOR ST W
+11,19 162911 HVA 00,Mechanical(MS),"May 30, 2019",Permit Issued,200 BLOOR ST W
+12,19 162911 PLB 00,Plumbing(PS),"May 30, 2019",Permit Issued,200 BLOOR ST W
+13,19 153441 HVA 00,Mechanical(MS),"May 13, 2019",Inspection,200 BLOOR ST W
+14,16 142099 BLD 00,Building Additions/Alterations,"Apr 20, 2016",Inspection,200 BLOOR ST W
+15,16 142099 HVA 00,Mechanical(MS),"Apr 20, 2016",Inspection,200 BLOOR ST W
+16,16 142099 PLB 00,Plumbing(PS),"Apr 20, 2016",Inspection,200 BLOOR ST W
+0,19 153441 HVA 01,Mechanical(MS),"Jan 4, 2021",Revision Issued,202 BLOOR ST W
+1,19 255215 PSA 00,Plumbing(PS),"Nov 28, 2019",Permit Issued,202 BLOOR ST W
+2,19 153441 HVA 00,Mechanical(MS),"May 13, 2019",Inspection,202 BLOOR ST W
+0,07 263168 PLB 03,Plumbing(PS),"Mar 28, 2017",Revision Issued,204 BLOOR ST W
+1,16 183257 BLD 00,Building Additions/Alterations,"Jun 30, 2016",Permit Issued,204 BLOOR ST W
+2,07 263168 BLD 03,New Building,"Apr 24, 2015",Revision Issued,204 BLOOR ST W
+3,07 263168 HVA 02,Mechanical(MS),"Apr 24, 2015",Revision Issued,204 BLOOR ST W
+4,07 263168 PLB 02,Plumbing(PS),"Apr 24, 2015",Revision Issued,204 BLOOR ST W
+5,07 263168 BLD 02,New Building,"Apr 25, 2013",Revision Issued,204 BLOOR ST W
+6,07 263168 HVA 01,Mechanical(MS),"Apr 25, 2013",Revision Issued,204 BLOOR ST W
+7,07 263168 PLB 01,Plumbing(PS),"Apr 25, 2013",Revision Issued,204 BLOOR ST W
+0,22 148510 HVA 00,Mechanical(MS),"May 25, 2022",Permit Issued,220 BLOOR ST E
+1,22 148510 BLD 00,Building Additions/Alterations,"May 24, 2022",Permit Issued,220 BLOOR ST E
+2,14 163695 HVA 00,Mechanical(MS),"May 29, 2014",Permit Issued,220 BLOOR ST E
+3,14 163695 PLB 00,Plumbing(PS),"May 29, 2014",Permit Issued,220 BLOOR ST E
+4,14 163707 HVA 00,Mechanical(MS),"May 29, 2014",Permit Issued,220 BLOOR ST E
+5,14 163695 BLD 00,Building Additions/Alterations,"May 28, 2014",Permit Issued,220 BLOOR ST E
+6,14 163707 BLD 00,Building Additions/Alterations,"May 28, 2014",Permit Issued,220 BLOOR ST E
+7,14 162739 BLD 00,Building Additions/Alterations,"May 27, 2014",Permit Issued,220 BLOOR ST E
+8,14 160178 BLD 00,Building Additions/Alterations,"May 22, 2014",Inspection,220 BLOOR ST E
+9,14 134503 BLD 00,Building Additions/Alterations,"Mar 27, 2014",Inspection,220 BLOOR ST E
+10,14 134511 BLD 00,Building Additions/Alterations,"Mar 27, 2014",Inspection,220 BLOOR ST E
+11,14 134514 BLD 00,Building Additions/Alterations,"Mar 27, 2014",Inspection,220 BLOOR ST E
+12,14 134516 BLD 00,Building Additions/Alterations,"Mar 27, 2014",Inspection,220 BLOOR ST E
+13,13 269732 BLD 00,Building Additions/Alterations,"Nov 25, 2013",Inspection,220 BLOOR ST E
+14,13 269738 BLD 00,Building Additions/Alterations,"Nov 25, 2013",Inspection,220 BLOOR ST E
+15,13 269738 PLB 00,Plumbing(PS),"Nov 25, 2013",Permit Issued,220 BLOOR ST E
+0,23 111067 HVA 00,Mechanical(MS),"Feb 9, 2023",Permit Issued,250 BLOOR ST E
+1,23 111067 BLD 00,Building Additions/Alterations,"Feb 7, 2023",Permit Issued,250 BLOOR ST E
+2,21 222935 FSU 00,Fire/Security Upgrade,"Oct 12, 2021",Permit Issued,250 BLOOR ST E
+3,19 110597 BLD 00,Building Additions/Alterations,"Jan 31, 2019",Permit Issued,250 BLOOR ST E
+4,16 215213 FSU 00,Fire/Security Upgrade,"Sep 6, 2016",Permit Issued,250 BLOOR ST E
+5,16 181808 BLD 00,Building Additions/Alterations,"Jun 28, 2016",Permit Issued,250 BLOOR ST E
+6,16 126100 BLD 00,Building Additions/Alterations,"Mar 16, 2016",Permit Issued,250 BLOOR ST E
+7,16 126100 HVA 00,Mechanical(MS),"Mar 16, 2016",Permit Issued,250 BLOOR ST E
+8,15 240510 FSU 00,Fire/Security Upgrade,"Oct 23, 2015",Inspection,250 BLOOR ST E
+9,15 227970 BLD 00,Building Additions/Alterations,"Sep 24, 2015",Inspection,250 BLOOR ST E
+10,15 152100 FSU 00,Fire/Security Upgrade,"May 8, 2015",Inspection,250 BLOOR ST E
+11,15 141827 BLD 00,Building Additions/Alterations,"Apr 16, 2015",Inspection,250 BLOOR ST E
+12,15 129486 BLD 00,Building Additions/Alterations,"Mar 19, 2015",Inspection,250 BLOOR ST E
+13,15 125494 BLD 00,Building Additions/Alterations,"Mar 9, 2015",Permit Issued,250 BLOOR ST E
+14,15 125494 HVA 00,Mechanical(MS),"Mar 9, 2015",Inspection,250 BLOOR ST E
+15,15 111273 FSU 00,Fire/Security Upgrade,"Feb 9, 2015",Inspection,250 BLOOR ST E
+16,15 111699 BLD 00,Building Additions/Alterations,"Feb 4, 2015",Inspection,250 BLOOR ST E
+17,15 110690 BLD 00,Building Additions/Alterations,"Jan 30, 2015",Inspection,250 BLOOR ST E
+18,14 265640 BLD 00,Building Additions/Alterations,"Dec 18, 2014",Permit Issued,250 BLOOR ST E
+19,14 265640 HVA 00,Mechanical(MS),"Dec 18, 2014",Permit Issued,250 BLOOR ST E
+20,14 265640 PLB 00,Plumbing(PS),"Dec 18, 2014",Permit Issued,250 BLOOR ST E
+21,14 265650 BLD 00,Building Additions/Alterations,"Dec 18, 2014",Permit Issued,250 BLOOR ST E
+22,14 265650 HVA 00,Mechanical(MS),"Dec 18, 2014",Permit Issued,250 BLOOR ST E
+23,14 265650 PLB 00,Plumbing(PS),"Dec 18, 2014",Permit Issued,250 BLOOR ST E
+24,14 265007 BLD 00,Building Additions/Alterations,"Dec 17, 2014",Permit Issued,250 BLOOR ST E
+25,14 265007 HVA 00,Mechanical(MS),"Dec 17, 2014",Permit Issued,250 BLOOR ST E
+26,14 265007 PLB 00,Plumbing(PS),"Dec 17, 2014",Permit Issued,250 BLOOR ST E
+27,14 265022 BLD 00,Building Additions/Alterations,"Dec 17, 2014",Permit Issued,250 BLOOR ST E
+28,14 265030 BLD 00,Building Additions/Alterations,"Dec 17, 2014",Inspection,250 BLOOR ST E
+29,14 265042 BLD 00,Building Additions/Alterations,"Dec 17, 2014",Inspection,250 BLOOR ST E
+30,14 261004 BLD 00,Building Additions/Alterations,"Dec 5, 2014",Inspection,250 BLOOR ST E
+31,14 250050 FSU 00,Fire/Security Upgrade,"Nov 18, 2014",Inspection,250 BLOOR ST E
+32,14 225704 PLB 01,Plumbing(PS),"Nov 6, 2014",Revision Issued,250 BLOOR ST E
+33,14 225704 BLD 01,Building Additions/Alterations,"Nov 6, 2014",Revision Issued,250 BLOOR ST E
+34,14 248792 BLD 00,Building Additions/Alterations,"Nov 6, 2014",Inspection,250 BLOOR ST E
+35,14 248792 PLB 00,Plumbing(PS),"Nov 6, 2014",Permit Issued,250 BLOOR ST E
+36,14 246291 FSU 00,Fire/Security Upgrade,"Nov 3, 2014",Inspection,250 BLOOR ST E
+37,14 206033 BLD 01,Building Additions/Alterations,"Oct 30, 2014",Revision Issued,250 BLOOR ST E
+38,14 225693 BLD 00,Building Additions/Alterations,"Sep 22, 2014",Inspection,250 BLOOR ST E
+39,14 225704 BLD 00,Building Additions/Alterations,"Sep 22, 2014",Inspection,250 BLOOR ST E
+40,14 225704 PLB 00,Plumbing(PS),"Sep 22, 2014",Permit Issued,250 BLOOR ST E
+41,14 206357 BLD 00,Building Additions/Alterations,"Aug 14, 2014",Permit Issued,250 BLOOR ST E
+42,14 206033 BLD 00,Building Additions/Alterations,"Aug 13, 2014",Inspection,250 BLOOR ST E
+43,14 206041 BLD 00,Building Additions/Alterations,"Aug 13, 2014",Inspection,250 BLOOR ST E
+44,14 206041 PLB 00,Plumbing(PS),"Aug 13, 2014",Permit Issued,250 BLOOR ST E
+45,14 206051 BLD 00,Building Additions/Alterations,"Aug 13, 2014",Permit Issued,250 BLOOR ST E
+46,14 206051 PLB 00,Plumbing(PS),"Aug 13, 2014",Permit Issued,250 BLOOR ST E
+47,14 206054 BLD 00,Building Additions/Alterations,"Aug 13, 2014",Inspection,250 BLOOR ST E
+48,14 206054 HVA 00,Mechanical(MS),"Aug 13, 2014",Inspection,250 BLOOR ST E
+49,14 206054 PLB 00,Plumbing(PS),"Aug 13, 2014",Permit Issued,250 BLOOR ST E
+50,14 206058 BLD 00,Building Additions/Alterations,"Aug 13, 2014",Inspection,250 BLOOR ST E
+51,14 199364 PSA 00,Plumbing(PS),"Jul 30, 2014",Permit Issued,250 BLOOR ST E
+52,14 199368 MSA 00,Mechanical(MS),"Jul 30, 2014",Permit Issued,250 BLOOR ST E
+53,13 258040 BLD 00,Building Additions/Alterations,"Oct 29, 2013",Inspection,250 BLOOR ST E
+54,13 258040 HVA 00,Mechanical(MS),"Oct 29, 2013",Permit Issued,250 BLOOR ST E
+0,23 112367 TPS 00,Temporary Structures,"Feb 9, 2023",Permit Issued,273 BLOOR ST W
+0,20 163940 BLD 00,Building Additions/Alterations,"Jul 9, 2020",Permit Issued,278 BLOOR ST E
+0,19 114116 BLD 01,Building Additions/Alterations,"Aug 13, 2019",Revision Issued,300 BLOOR ST E
+1,19 114116 BLD 00,Building Additions/Alterations,"Feb 11, 2019",Inspection,300 BLOOR ST E
+0,21 213177 BLD 01,Building Additions/Alterations,"Mar 17, 2023",Not Started,333 BLOOR ST E
+1,21 213177 HVA 01,Mechanical(MS),"Mar 17, 2023",Not Started,333 BLOOR ST E
+2,22 219495 FSU 00,Fire/Security Upgrade,"Nov 7, 2022",Refusal Notice,333 BLOOR ST E
+3,21 138091 FSU 02,Fire/Security Upgrade,"Jun 23, 2022",Revision Issued,333 BLOOR ST E
+4,22 110097 BLD 00,Building Additions/Alterations,"Feb 28, 2022",Permit Issued,333 BLOOR ST E
+5,22 110097 HVA 00,Mechanical(MS),"Feb 28, 2022",Permit Issued,333 BLOOR ST E
+6,22 110097 PLB 00,Plumbing(PS),"Feb 28, 2022",Permit Issued,333 BLOOR ST E
+7,21 138091 FSU 01,Fire/Security Upgrade,"Jan 27, 2022",Revision Issued,333 BLOOR ST E
+8,21 245988 BLD 00,Building Additions/Alterations,"Dec 8, 2021",Inspection,333 BLOOR ST E
+9,21 245988 HVA 00,Mechanical(MS),"Dec 8, 2021",Permit Issued,333 BLOOR ST E
+10,21 217473 BLD 00,Building Additions/Alterations,"Sep 30, 2021",Permit Issued,333 BLOOR ST E
+11,21 217473 HVA 00,Mechanical(MS),"Sep 30, 2021",Permit Issued,333 BLOOR ST E
+12,21 217473 PLB 00,Plumbing(PS),"Sep 30, 2021",Permit Issued,333 BLOOR ST E
+13,21 213177 HVA 00,Mechanical(MS),"Sep 21, 2021",Inspection,333 BLOOR ST E
+14,21 213177 BLD 00,Building Additions/Alterations,"Sep 17, 2021",Inspection,333 BLOOR ST E
+15,21 205250 BLD 00,Building Additions/Alterations,"Aug 31, 2021",Permit Issued,333 BLOOR ST E
+16,21 183625 BLD 00,Building Additions/Alterations,"Jul 16, 2021",Permit Issued,333 BLOOR ST E
+17,20 227701 BLD 01,Building Additions/Alterations,"Jul 7, 2021",Revision Issued,333 BLOOR ST E
+18,20 227701 HVA 01,Mechanical(MS),"Jul 7, 2021",Revision Issued,333 BLOOR ST E
+19,21 138091 FSU 00,Fire/Security Upgrade,"Apr 14, 2021",Inspection,333 BLOOR ST E
+20,21 130260 FSU 00,Fire/Security Upgrade,"Mar 23, 2021",Permit Issued,333 BLOOR ST E
+21,20 227701 BLD 00,Building Additions/Alterations,"Dec 17, 2020",Inspection,333 BLOOR ST E
+22,20 227701 HVA 00,Mechanical(MS),"Dec 17, 2020",Inspection,333 BLOOR ST E
+23,20 227701 PLB 00,Plumbing(PS),"Dec 17, 2020",Inspection,333 BLOOR ST E
+24,18 271815 BLD 00,Building Additions/Alterations,"Dec 24, 2018",Permit Issued,333 BLOOR ST E
+25,18 271815 HVA 00,Mechanical(MS),"Dec 24, 2018",Permit Issued,333 BLOOR ST E
+26,18 230056 HVA 00,Mechanical(MS),"Sep 25, 2018",Inspection,333 BLOOR ST E
+27,18 230056 BLD 00,Building Additions/Alterations,"Sep 24, 2018",Permit Issued,333 BLOOR ST E
+28,17 269796 HVA 00,Mechanical(MS),"Dec 13, 2017",Inspection,333 BLOOR ST E
+29,17 269796 BLD 00,Building Additions/Alterations,"Dec 4, 2017",Inspection,333 BLOOR ST E
+30,16 182481 BLD 03,Building Additions/Alterations,"Oct 2, 2017",Revision Issued,333 BLOOR ST E
+31,16 182481 BLD 02,Building Additions/Alterations,"Apr 5, 2017",Revision Issued,333 BLOOR ST E
+32,16 182481 BLD 01,Building Additions/Alterations,"Nov 10, 2016",Revision Issued,333 BLOOR ST E
+33,16 182481 BLD 00,Building Additions/Alterations,"Jun 29, 2016",Inspection,333 BLOOR ST E
+34,16 182481 HVA 00,Mechanical(MS),"Jun 29, 2016",Inspection,333 BLOOR ST E
+35,16 164830 FSU 00,Fire/Security Upgrade,"Jun 1, 2016",Permit Issued,333 BLOOR ST E
+36,16 156187 BLD 00,Building Additions/Alterations,"May 16, 2016",Permit Issued,333 BLOOR ST E
+37,16 122704 BLD 00,Building Additions/Alterations,"Mar 2, 2016",Inspection,333 BLOOR ST E
+38,16 122726 BLD 00,Building Additions/Alterations,"Mar 2, 2016",Inspection,333 BLOOR ST E
+39,15 243042 BLD 00,Building Additions/Alterations,"Nov 13, 2015",Inspection,333 BLOOR ST E
+40,15 243042 HVA 00,Mechanical(MS),"Nov 13, 2015",Permit Issued,333 BLOOR ST E
+41,15 243042 PLB 00,Plumbing(PS),"Nov 13, 2015",Permit Issued,333 BLOOR ST E
+42,15 238351 BLD 00,Building Additions/Alterations,"Oct 16, 2015",Permit Issued,333 BLOOR ST E
+43,15 212832 BLD 00,Building Additions/Alterations,"Aug 26, 2015",Inspection,333 BLOOR ST E
+44,15 135093 BLD 00,Building Additions/Alterations,"Apr 1, 2015",Permit Issued,333 BLOOR ST E
+45,15 129460 FSU 00,Fire/Security Upgrade,"Mar 19, 2015",Permit Issued,333 BLOOR ST E
+46,15 121041 PLB 00,Plumbing(PS),"Feb 25, 2015",Permit Issued,333 BLOOR ST E
+47,15 111254 HVA 00,Mechanical(MS),"Feb 3, 2015",Inspection,333 BLOOR ST E
+48,14 264521 HVA 00,Mechanical(MS),"Dec 18, 2014",Permit Issued,333 BLOOR ST E
+49,14 264521 PLB 00,Plumbing(PS),"Dec 18, 2014",Permit Issued,333 BLOOR ST E
+50,14 264521 BLD 00,Building Additions/Alterations,"Dec 17, 2014",Inspection,333 BLOOR ST E
+51,14 226951 BLD 00,Building Additions/Alterations,"Oct 1, 2014",Inspection,333 BLOOR ST E
+52,14 226951 HVA 00,Mechanical(MS),"Oct 1, 2014",Inspection,333 BLOOR ST E
+53,14 226957 BLD 00,Building Additions/Alterations,"Oct 1, 2014",Inspection,333 BLOOR ST E
+54,14 230926 MSA 00,Mechanical(MS),"Oct 1, 2014",Inspection,333 BLOOR ST E
+0,23 123739 BLD 00,Building Additions/Alterations,"Mar 17, 2023",Under Review,345 BLOOR ST E
+1,23 123066 HVA 00,Mechanical(MS),"Mar 16, 2023",Not Started,345 BLOOR ST E
+2,23 123066 BLD 00,Building Additions/Alterations,"Mar 14, 2023",Response Received,345 BLOOR ST E
+3,23 119445 BLD 00,Building Additions/Alterations,"Mar 6, 2023",Permit Issued,345 BLOOR ST E
+4,23 119445 HVA 00,Mechanical(MS),"Mar 6, 2023",Not Started,345 BLOOR ST E
+5,23 119445 PLB 00,Plumbing(PS),"Mar 6, 2023",Not Started,345 BLOOR ST E
+6,23 100859 BLD 00,Building Additions/Alterations,"Jan 5, 2023",Inspection,345 BLOOR ST E
+7,23 100859 HVA 00,Mechanical(MS),"Jan 5, 2023",Permit Issued,345 BLOOR ST E
+8,23 100859 PLB 00,Plumbing(PS),"Jan 5, 2023",Issuance Pending,345 BLOOR ST E
+9,22 238655 HVA 00,Mechanical(MS),"Dec 14, 2022",Permit Issued,345 BLOOR ST E
+10,22 238655 PLB 00,Plumbing(PS),"Dec 14, 2022",Permit Issued,345 BLOOR ST E
+11,22 238655 BLD 00,Building Additions/Alterations,"Dec 12, 2022",Permit Issued,345 BLOOR ST E
+12,22 114415 PLB 01,Plumbing(PS),"Apr 27, 2022",Revision Issued,345 BLOOR ST E
+13,21 230301 HVA 01,Mechanical(MS),"Mar 21, 2022",Revision Issued,345 BLOOR ST E
+14,22 114415 BLD 00,Building Additions/Alterations,"Feb 17, 2022",Inspection,345 BLOOR ST E
+15,22 114415 HVA 00,Mechanical(MS),"Feb 17, 2022",Inspection,345 BLOOR ST E
+16,22 114415 PLB 00,Plumbing(PS),"Feb 17, 2022",Inspection,345 BLOOR ST E
+17,21 230301 HVA 00,Mechanical(MS),"Oct 29, 2021",Permit Issued,345 BLOOR ST E
+0,16 114250 BLD 00,Building Additions/Alterations,"Feb 9, 2016",Inspection,350 BLOOR ST E
+1,15 113799 BLD 01,Building Additions/Alterations,"Mar 13, 2015",Revision Issued,350 BLOOR ST E
+2,15 113799 BLD 00,Building Additions/Alterations,"Feb 9, 2015",Inspection,350 BLOOR ST E
+3,13 260781 HVA 00,Mechanical(MS),"Nov 4, 2013",Inspection,350 BLOOR ST E
+4,13 240843 BLD 00,Building Additions/Alterations,"Sep 24, 2013",Inspection,350 BLOOR ST E
+5,13 192589 MSA 00,Mechanical(MS),"Jun 21, 2013",Inspection,350 BLOOR ST E
+0,21 164229 BLD 00,Building Additions/Alterations,"Jun 8, 2021",Inspection,360 BLOOR ST E
+1,21 144424 MSA 00,Mechanical(MS),"Apr 22, 2021",Inspection,360 BLOOR ST E
+2,19 122242 PLB 00,Plumbing(PS),"Mar 18, 2019",Inspection,360 BLOOR ST E
+3,19 122242 BLD 00,Building Additions/Alterations,"Mar 12, 2019",Inspection,360 BLOOR ST E
+4,19 122242 HVA 00,Mechanical(MS),"Mar 12, 2019",Inspection,360 BLOOR ST E
+5,18 144707 FSU 00,Fire/Security Upgrade,"Apr 17, 2018",Permit Issued,360 BLOOR ST E
+6,18 102610 BLD 00,Building Additions/Alterations,"Jan 9, 2018",Inspection,360 BLOOR ST E
+7,18 102610 HVA 00,Mechanical(MS),"Jan 9, 2018",Inspection,360 BLOOR ST E
+8,16 235616 BLD 00,Building Additions/Alterations,"Oct 13, 2016",Permit Issued,360 BLOOR ST E
+9,13 210110 BLD 00,Building Additions/Alterations,"Jul 24, 2013",Inspection,360 BLOOR ST E
+10,13 155157 PSA 00,Plumbing(PS),"Apr 23, 2013",Permit Issued,360 BLOOR ST E
+0,23 123739 BLD 00,Building Additions/Alterations,"Mar 17, 2023",Under Review,365 BLOOR ST E
+1,23 123066 HVA 00,Mechanical(MS),"Mar 16, 2023",Not Started,365 BLOOR ST E
+2,23 123066 BLD 00,Building Additions/Alterations,"Mar 14, 2023",Response Received,365 BLOOR ST E
+3,23 119445 BLD 00,Building Additions/Alterations,"Mar 6, 2023",Permit Issued,365 BLOOR ST E
+4,23 119445 HVA 00,Mechanical(MS),"Mar 6, 2023",Not Started,365 BLOOR ST E
+5,23 119445 PLB 00,Plumbing(PS),"Mar 6, 2023",Not Started,365 BLOOR ST E
+6,23 100859 BLD 00,Building Additions/Alterations,"Jan 5, 2023",Inspection,365 BLOOR ST E
+7,23 100859 HVA 00,Mechanical(MS),"Jan 5, 2023",Permit Issued,365 BLOOR ST E
+8,23 100859 PLB 00,Plumbing(PS),"Jan 5, 2023",Issuance Pending,365 BLOOR ST E
+9,22 114415 BLD 00,Building Additions/Alterations,"Feb 17, 2022",Inspection,365 BLOOR ST E
+10,22 114415 HVA 00,Mechanical(MS),"Feb 17, 2022",Inspection,365 BLOOR ST E
+11,22 114415 PLB 00,Plumbing(PS),"Feb 17, 2022",Inspection,365 BLOOR ST E
+0,19 122242 PLB 00,Plumbing(PS),"Mar 18, 2019",Inspection,366 BLOOR ST E
+1,19 122242 BLD 00,Building Additions/Alterations,"Mar 12, 2019",Inspection,366 BLOOR ST E
+2,19 122242 HVA 00,Mechanical(MS),"Mar 12, 2019",Inspection,366 BLOOR ST E
+3,18 102610 BLD 00,Building Additions/Alterations,"Jan 9, 2018",Inspection,366 BLOOR ST E
+4,18 102610 HVA 00,Mechanical(MS),"Jan 9, 2018",Inspection,366 BLOOR ST E
+0,22 212286 FSU 01,Fire/Security Upgrade,"Feb 17, 2023",Revision Issued,387 BLOOR ST E
+1,22 212286 FSU 00,Fire/Security Upgrade,"Oct 4, 2022",Inspection,387 BLOOR ST E
+2,16 253822 BLD 05,New Building,"Sep 29, 2022",Revision Issued,387 BLOOR ST E
+3,16 253822 BLD 04,New Building,"Mar 8, 2022",Revision Issued,387 BLOOR ST E
+4,16 253822 BLD 03,New Building,"Jul 5, 2021",Revision Issued,387 BLOOR ST E
+5,16 253822 BLD 02,New Building,"May 26, 2020",Revision Issued,387 BLOOR ST E
+6,16 253822 BLD 01,New Building,"Jan 6, 2020",Inspection,387 BLOOR ST E
+7,16 253822 PLB 01,Plumbing(PS),"Jan 6, 2020",Revision Issued,387 BLOOR ST E
+8,16 253822 HVA 01,Mechanical(MS),"Jan 6, 2020",Revision Issued,387 BLOOR ST E
+9,16 253822 BLD 00,New Building,"Nov 21, 2016",Inspection,387 BLOOR ST E
+10,16 253822 HVA 00,Mechanical(MS),"Nov 21, 2016",Inspection,387 BLOOR ST E
+11,16 253822 PLB 00,Plumbing(PS),"Nov 21, 2016",Inspection,387 BLOOR ST E
+12,16 253822 DRN 00,Drain and Site Service,"Nov 21, 2016",Inspection,387 BLOOR ST E
+0,22 188725 FSU 00,Fire/Security Upgrade,"Aug 11, 2022",Permit Issued,388 BLOOR ST E
+0,22 179748 SGN 00,Sign Permit,"Jul 21, 2022",Permit Issued,401 BLOOR ST E
+1,22 179748 DST 00,Designated Structures,"Jul 21, 2022",Permit Issued,401 BLOOR ST E
+2,18 215604 BLD 00,Building Additions/Alterations,"Aug 27, 2018",Permit Issued,401 BLOOR ST E
+3,16 253822 BLD 00,New Building,"Nov 21, 2016",Inspection,401 BLOOR ST E
+4,16 253822 HVA 00,Mechanical(MS),"Nov 21, 2016",Inspection,401 BLOOR ST E
+5,16 253822 PLB 00,Plumbing(PS),"Nov 21, 2016",Inspection,401 BLOOR ST E
+6,16 253822 DRN 00,Drain and Site Service,"Nov 21, 2016",Inspection,401 BLOOR ST E
+0,14 223515 FSU 00,Fire/Security Upgrade,"Sep 17, 2014",Inspection,409 BLOOR ST E
+0,22 232816 HVA 00,Mechanical(MS),"Nov 29, 2022",Permit Issued,419 BLOOR ST E
+1,22 232816 PLB 00,Plumbing(PS),"Nov 29, 2022",Permit Issued,419 BLOOR ST E
+2,22 232816 BLD 00,Building Additions/Alterations,"Nov 25, 2022",Permit Issued,419 BLOOR ST E
+3,21 189543 HVA 00,Mechanical(MS),"Jul 28, 2021",Inspection,419 BLOOR ST E
+4,21 189543 BLD 00,Building Additions/Alterations,"Jul 27, 2021",Inspection,419 BLOOR ST E
+5,21 189543 PLB 00,Plumbing(PS),"Jul 27, 2021",Inspection,419 BLOOR ST E
+0,21 164294 HVA 00,Mechanical(MS),"Jun 8, 2021",Inspection,421 BLOOR ST E
+0,22 236672 SGN 00,Sign Permit,"Dec 7, 2022",Permit Issued,425 BLOOR ST E
+1,22 236672 DST 00,Designated Structures,"Dec 7, 2022",Permit Issued,425 BLOOR ST E
+2,22 119343 SGN 00,Sign Permit,"Mar 8, 2022",Permit Issued,425 BLOOR ST E
+3,22 119343 DST 00,Designated Structures,"Mar 8, 2022",Permit Issued,425 BLOOR ST E
+4,22 107274 BLD 00,Building Additions/Alterations,"Jan 25, 2022",Permit Issued,425 BLOOR ST E
+5,21 241574 BLD 00,Building Additions/Alterations,"Nov 29, 2021",Inspection,425 BLOOR ST E
+6,21 241574 HVA 00,Mechanical(MS),"Nov 29, 2021",Inspection,425 BLOOR ST E
+7,21 241574 PLB 00,Plumbing(PS),"Nov 29, 2021",Inspection,425 BLOOR ST E
+8,21 229119 BLD 00,Building Additions/Alterations,"Nov 19, 2021",Permit Issued,425 BLOOR ST E
+0,20 145568 HVA 00,Mechanical(MS),"May 21, 2020",Permit Issued,441 BLOOR ST E
+1,20 145568 PLB 00,Plumbing(PS),"May 21, 2020",Inspection,441 BLOOR ST E
+2,20 145568 BLD 00,Building Additions/Alterations,"May 20, 2020",Inspection,441 BLOOR ST E
+0,22 114819 BLD 00,Building Additions/Alterations,"Feb 23, 2022",Inspection,525 BLOOR ST E
+1,22 114819 HVA 00,Mechanical(MS),"Feb 23, 2022",Permit Issued,525 BLOOR ST E
+2,22 114819 PLB 00,Plumbing(PS),"Feb 23, 2022",Inspection,525 BLOOR ST E
+0,22 221536 BLD 00,New Building,"Nov 9, 2022",Examiner's Notice Sent,555 BLOOR ST E
+0,23 106669 BLD 00,Building Additions/Alterations,"Feb 1, 2023",Permit Issued,2 CARLTON ST
+1,20 122562 BLD 00,Building Additions/Alterations,"Mar 9, 2020",Inspection,2 CARLTON ST
+2,19 163596 HVA 00,Mechanical(MS),"Jun 4, 2019",Permit Issued,2 CARLTON ST
+3,19 163596 PLB 00,Plumbing(PS),"Jun 4, 2019",Inspection,2 CARLTON ST
+4,19 163596 BLD 00,Building Additions/Alterations,"May 31, 2019",Inspection,2 CARLTON ST
+5,16 158387 BLD 00,Building Additions/Alterations,"May 19, 2016",Inspection,2 CARLTON ST
+6,16 158387 PLB 00,Plumbing(PS),"May 19, 2016",Inspection,2 CARLTON ST
+0,22 154718 FSU 00,Fire/Security Upgrade,"Jun 13, 2022",Permit Issued,3 CARLTON ST
+1,17 202511 BLD 01,Building Additions/Alterations,"Aug 22, 2017",Revision Issued,3 CARLTON ST
+2,17 202511 HVA 01,Mechanical(MS),"Aug 22, 2017",Revision Issued,3 CARLTON ST
+3,17 202511 HVA 00,Mechanical(MS),"Jul 21, 2017",Inspection,3 CARLTON ST
+4,17 202511 PLB 00,Plumbing(PS),"Jul 21, 2017",Inspection,3 CARLTON ST
+5,17 202511 BLD 00,Building Additions/Alterations,"Jul 20, 2017",Inspection,3 CARLTON ST
+0,22 186203 BLD 00,Building Additions/Alterations,"Aug 5, 2022",Inspection,14 CARLTON ST
+1,22 173157 SGN 00,Sign Permit,"Jul 7, 2022",Permit Issued,14 CARLTON ST
+2,22 173157 DST 00,Designated Structures,"Jul 7, 2022",Permit Issued,14 CARLTON ST
+3,21 246890 FSU 00,Fire/Security Upgrade,"Dec 14, 2021",Permit Issued,14 CARLTON ST
+4,21 240384 BLD 00,Building Additions/Alterations,"Dec 7, 2021",Permit Issued,14 CARLTON ST
+5,18 163908 HVA 02,Mechanical(MS),"Aug 6, 2020",Revision Issued,14 CARLTON ST
+6,18 163908 BLD 02,Building Additions/Alterations,"Aug 4, 2020",Revision Issued,14 CARLTON ST
+7,20 168590 PLB 00,Plumbing(PS),"Jul 21, 2020",Inspection,14 CARLTON ST
+8,20 168590 BLD 00,Building Additions/Alterations,"Jul 20, 2020",Inspection,14 CARLTON ST
+9,18 163908 PLB 00,Plumbing(PS),"Jul 15, 2020",Permit Issued,14 CARLTON ST
+10,18 163908 HVA 01,Mechanical(MS),"Jun 19, 2020",Revision Issued,14 CARLTON ST
+11,18 163908 BLD 01,Building Additions/Alterations,"Jun 15, 2020",Revision Issued,14 CARLTON ST
+12,19 136053 BLD 01,Building Additions/Alterations,"Feb 28, 2020",Revision Issued,14 CARLTON ST
+13,19 136053 PLB 00,Plumbing(PS),"Dec 6, 2019",Inspection,14 CARLTON ST
+14,19 223988 HVA 00,Mechanical(MS),"Oct 11, 2019",Permit Issued,14 CARLTON ST
+15,19 223988 BLD 00,Building Additions/Alterations,"Sep 19, 2019",Permit Issued,14 CARLTON ST
+16,19 136053 BLD 00,Building Additions/Alterations,"Apr 5, 2019",Inspection,14 CARLTON ST
+17,18 163908 HVA 00,Mechanical(MS),"May 29, 2018",Inspection,14 CARLTON ST
+18,18 163908 BLD 00,Building Additions/Alterations,"May 28, 2018",Inspection,14 CARLTON ST
+19,16 193453 PLB 00,Plumbing(PS),"Dec 15, 2016",Permit Issued,14 CARLTON ST
+20,16 193453 HVA 00,Mechanical(MS),"Aug 10, 2016",Permit Issued,14 CARLTON ST
+21,16 193447 BLD 00,Building Additions/Alterations,"Aug 9, 2016",Permit Issued,14 CARLTON ST
+22,16 193447 HVA 00,Mechanical(MS),"Aug 9, 2016",Permit Issued,14 CARLTON ST
+23,16 193453 BLD 00,Building Additions/Alterations,"Aug 9, 2016",Permit Issued,14 CARLTON ST
+24,16 144012 FSU 00,Fire/Security Upgrade,"Apr 26, 2016",Permit Issued,14 CARLTON ST
+25,15 236676 BLD 00,Building Additions/Alterations,"Oct 14, 2015",Permit Issued,14 CARLTON ST
+26,15 163864 BLD 00,Building Additions/Alterations,"Jun 11, 2015",Permit Issued,14 CARLTON ST
+27,15 163864 HVA 00,Mechanical(MS),"Jun 11, 2015",Permit Issued,14 CARLTON ST
+28,13 116541 BLD 01,Building Additions/Alterations,"Jul 18, 2014",Revision Issued,14 CARLTON ST
+29,13 116541 HVA 00,Mechanical(MS),"Jul 16, 2014",Permit Issued,14 CARLTON ST
+0,22 213498 BLD 00,Building Additions/Alterations,"Nov 21, 2022",Closed,20 CARLTON ST
+1,22 213498 HVA 00,Mechanical(MS),"Nov 21, 2022",Inspection,20 CARLTON ST
+2,22 213498 PLB 00,Plumbing(PS),"Nov 21, 2022",Inspection,20 CARLTON ST
+3,22 213498 DRN 00,Drain and Site Service,"Nov 21, 2022",Inspection,20 CARLTON ST
+4,15 107546 BLD 01,Building Additions/Alterations,"Oct 17, 2016",Revision Issued,20 CARLTON ST
+5,15 107542 BLD 00,Building Additions/Alterations,"Jan 22, 2015",Inspection,20 CARLTON ST
+6,15 107546 BLD 00,Building Additions/Alterations,"Jan 22, 2015",Inspection,20 CARLTON ST
+7,13 255931 PLB 00,Plumbing(PS),"Oct 24, 2013",Inspection,20 CARLTON ST
+0,17 186338 BLD 00,Building Additions/Alterations,"Jun 29, 2017",Permit Issued,21 CARLTON ST
+0,21 182070 FSU 00,Fire/Security Upgrade,"Jul 13, 2021",Permit Issued,30 CARLTON ST
+1,21 165189 HVA 00,Mechanical(MS),"Jun 4, 2021",Inspection,30 CARLTON ST
+2,21 165189 PLB 00,Plumbing(PS),"Jun 4, 2021",Inspection,30 CARLTON ST
+3,21 165189 BLD 00,Building Additions/Alterations,"Jun 3, 2021",Inspection,30 CARLTON ST
+4,21 105888 BLD 00,Building Additions/Alterations,"Jan 19, 2021",Inspection,30 CARLTON ST
+5,18 272136 HVA 00,Mechanical(MS),"Jan 8, 2019",Permit Issued,30 CARLTON ST
+6,18 272136 BLD 00,Building Additions/Alterations,"Jan 7, 2019",Permit Issued,30 CARLTON ST
+7,16 110064 BLD 00,Building Additions/Alterations,"Jan 29, 2016",Inspection,30 CARLTON ST
+8,15 192593 BLD 00,Building Additions/Alterations,"Jul 22, 2015",Permit Issued,30 CARLTON ST
+0,22 179597 FSU 00,Fire/Security Upgrade,"Jul 26, 2022",Permit Issued,45 CARLTON ST
+1,21 116595 FSU 00,Fire/Security Upgrade,"Feb 25, 2021",Permit Issued,45 CARLTON ST
+2,19 142440 BLD 01,Building Additions/Alterations,"Sep 2, 2020",Revision Issued,45 CARLTON ST
+3,20 157557 BLD 00,Building Additions/Alterations,"Jun 19, 2020",Inspection,45 CARLTON ST
+4,19 142440 PLB 00,Plumbing(PS),"Apr 23, 2019",Inspection,45 CARLTON ST
+5,19 142440 BLD 00,Building Additions/Alterations,"Apr 18, 2019",Inspection,45 CARLTON ST
+6,17 274004 BLD 01,Building Additions/Alterations,"Mar 26, 2019",Revision Issued,45 CARLTON ST
+7,18 270370 PLB 00,Plumbing(PS),"Dec 27, 2018",Inspection,45 CARLTON ST
+8,18 270370 BLD 00,Building Additions/Alterations,"Dec 21, 2018",Inspection,45 CARLTON ST
+9,17 274004 HVA 00,Mechanical(MS),"Nov 14, 2018",Inspection,45 CARLTON ST
+10,17 274004 PLB 00,Plumbing(PS),"Nov 14, 2018",Permit Issued,45 CARLTON ST
+11,17 274004 BLD 00,Building Additions/Alterations,"Dec 12, 2017",Permit Issued,45 CARLTON ST
+12,16 124834 BLD 00,Building Additions/Alterations,"Mar 9, 2016",Inspection,45 CARLTON ST
+13,16 124834 HVA 00,Mechanical(MS),"Mar 9, 2016",Inspection,45 CARLTON ST
+14,15 267864 MSA 00,Mechanical(MS),"Dec 23, 2015",Work Not Started,45 CARLTON ST
+0,23 110739 BLD 00,Building Additions/Alterations,"Feb 6, 2023",Examiner's Notice Sent,77 CARLTON ST
+0,18 228337 FSU 00,Fire/Security Upgrade,"Sep 19, 2018",Permit Issued,84 CARLTON ST
+0,20 157700 BLD 00,Building Additions/Alterations,"Jun 29, 2020",Inspection,92 CARLTON ST
+0,16 176987 FSU 00,Fire/Security Upgrade,"Jun 20, 2016",Inspection,97 CARLTON ST
+0,22 133415 HVA 00,Mechanical(MS),"May 2, 2022",Inspection,100 CARLTON ST
+1,22 133415 PLB 00,Plumbing(PS),"May 2, 2022",Inspection,100 CARLTON ST
+2,22 133415 BLD 00,Building Additions/Alterations,"Apr 25, 2022",Inspection,100 CARLTON ST
+3,18 139104 FSU 00,Fire/Security Upgrade,"Apr 9, 2018",Permit Issued,100 CARLTON ST
+4,18 139125 PSA 00,Plumbing(PS),"Apr 9, 2018",Inspection,100 CARLTON ST
+0,16 200716 PSA 00,Plumbing(PS),"Aug 3, 2016",Inspection,105 CARLTON ST
+0,19 251240 HVA 00,Mechanical(MS),"Nov 25, 2019",Permit Issued,111 CARLTON ST
+1,19 251240 BLD 00,Building Additions/Alterations,"Nov 20, 2019",Permit Issued,111 CARLTON ST
+2,18 128844 BLD 00,Building Additions/Alterations,"Mar 15, 2018",Inspection,111 CARLTON ST
+3,17 272756 BLD 00,Building Additions/Alterations,"Dec 7, 2017",Permit Issued,111 CARLTON ST
+4,15 239513 HVA 01,Mechanical(MS),"Aug 9, 2016",Revision Issued,111 CARLTON ST
+5,15 129537 BLD 01,Building Additions/Alterations,"Dec 18, 2015",Revision Issued,111 CARLTON ST
+6,15 129537 HVA 01,Mechanical(MS),"Dec 18, 2015",Revision Issued,111 CARLTON ST
+7,15 241979 FSU 00,Fire/Security Upgrade,"Oct 23, 2015",Closed,111 CARLTON ST
+8,15 239513 BLD 00,Building Additions/Alterations,"Oct 19, 2015",Inspection,111 CARLTON ST
+9,15 239513 HVA 00,Mechanical(MS),"Oct 19, 2015",Inspection,111 CARLTON ST
+10,15 239513 PLB 00,Plumbing(PS),"Oct 19, 2015",Inspection,111 CARLTON ST
+11,15 135069 FSU 01,Fire/Security Upgrade,"Aug 14, 2015",Revision Issued,111 CARLTON ST
+12,15 136038 FSU 01,Fire/Security Upgrade,"Aug 10, 2015",Closed,111 CARLTON ST
+13,15 135069 FSU 00,Fire/Security Upgrade,"Apr 10, 2015",Inspection,111 CARLTON ST
+14,15 136038 FSU 00,Fire/Security Upgrade,"Apr 7, 2015",Closed,111 CARLTON ST
+15,15 129537 BLD 00,Building Additions/Alterations,"Mar 19, 2015",Inspection,111 CARLTON ST
+16,15 129537 HVA 00,Mechanical(MS),"Mar 19, 2015",Inspection,111 CARLTON ST
+17,15 129537 PLB 00,Plumbing(PS),"Mar 19, 2015",Inspection,111 CARLTON ST
+18,15 124387 BLD 00,Building Additions/Alterations,"Mar 5, 2015",Inspection,111 CARLTON ST
+19,15 124387 HVA 00,Mechanical(MS),"Mar 5, 2015",Inspection,111 CARLTON ST
+20,15 124387 PLB 00,Plumbing(PS),"Mar 5, 2015",Inspection,111 CARLTON ST
+21,15 121205 BLD 00,Building Additions/Alterations,"Feb 25, 2015",Inspection,111 CARLTON ST
+22,15 121205 HVA 00,Mechanical(MS),"Feb 25, 2015",Inspection,111 CARLTON ST
+23,15 121205 PLB 00,Plumbing(PS),"Feb 25, 2015",Inspection,111 CARLTON ST
+24,15 114397 BLD 00,Building Additions/Alterations,"Feb 11, 2015",Inspection,111 CARLTON ST
+25,15 114397 HVA 00,Mechanical(MS),"Feb 11, 2015",Inspection,111 CARLTON ST
+26,15 114397 PLB 00,Plumbing(PS),"Feb 11, 2015",Inspection,111 CARLTON ST
+0,21 159045 BLD 00,Building Additions/Alterations,"Jun 4, 2021",Permit Issued,120 CARLTON ST
+1,21 114870 BLD 00,Building Additions/Alterations,"Feb 19, 2021",Inspection,120 CARLTON ST
+2,20 209280 MSA 00,Mechanical(MS),"Oct 26, 2020",Inspection,120 CARLTON ST
+3,20 190565 MSA 00,Mechanical(MS),"Sep 14, 2020",Inspection,120 CARLTON ST
+4,14 255277 BLD 00,Building Additions/Alterations,"Nov 21, 2014",Inspection,120 CARLTON ST
+5,14 255277 HVA 00,Mechanical(MS),"Nov 21, 2014",Inspection,120 CARLTON ST
+6,14 255277 PLB 00,Plumbing(PS),"Nov 21, 2014",Inspection,120 CARLTON ST
+0,22 207157 BLD 00,Building Additions/Alterations,"Sep 28, 2022",Permit Issued,130 CARLTON ST
+1,22 207157 HVA 00,Mechanical(MS),"Sep 28, 2022",Permit Issued,130 CARLTON ST
+2,22 207157 PLB 00,Plumbing(PS),"Sep 28, 2022",Inspection,130 CARLTON ST
+3,20 190565 MSA 00,Mechanical(MS),"Sep 14, 2020",Inspection,130 CARLTON ST
+4,17 217558 BLD 00,Building Additions/Alterations,"Aug 17, 2017",Permit Issued,130 CARLTON ST
+5,15 160639 BLD 00,Building Additions/Alterations,"May 21, 2015",Permit Issued,130 CARLTON ST
+0,21 119890 FSU 00,Fire/Security Upgrade,"Apr 8, 2021",Permit Issued,140 CARLTON ST
+1,18 163741 PSA 00,Plumbing(PS),"May 23, 2018",Inspection,140 CARLTON ST
+2,14 174693 BLD 00,Building Additions/Alterations,"Jun 16, 2014",Inspection,140 CARLTON ST
+0,16 114732 BLD 00,Building Additions/Alterations,"Feb 9, 2016",Permit Issued,166 CARLTON ST
+0,23 102890 FSU 00,Fire/Security Upgrade,"Jan 16, 2023",Permit Issued,172 CARLTON ST
+0,22 180475 WNP 00,Violation,,Order Issued,6 CAWTHRA SQ
+0,22 215407 BLD 00,Building Additions/Alterations,"Oct 22, 2022",Refusal Notice,3 CHARLES ST E
+0,17 137033 BLD 04,Building Additions/Alterations,"Mar 26, 2019",Revision Issued,15 CHARLES ST E
+1,17 137033 PLB 04,Plumbing(PS),"Mar 26, 2019",Revision Issued,15 CHARLES ST E
+2,19 122924 BLD 00,Building Additions/Alterations,"Mar 8, 2019",Pending Cancellation,15 CHARLES ST E
+3,17 137033 PLB 03,Plumbing(PS),"Apr 11, 2018",Revision Issued,15 CHARLES ST E
+4,17 137033 BLD 03,Building Additions/Alterations,"Mar 15, 2018",Revision Issued,15 CHARLES ST E
+5,17 137033 BLD 02,Building Additions/Alterations,"Oct 13, 2017",Revision Issued,15 CHARLES ST E
+6,17 137033 PLB 02,Plumbing(PS),"Oct 12, 2017",Revision Issued,15 CHARLES ST E
+7,17 137033 BLD 01,Building Additions/Alterations,"Sep 13, 2017",Revision Issued,15 CHARLES ST E
+8,17 137033 PLB 01,Plumbing(PS),"Sep 13, 2017",Revision Issued,15 CHARLES ST E
+9,17 137033 BLD 00,Building Additions/Alterations,"Apr 3, 2017",Inspection,15 CHARLES ST E
+10,17 137033 PLB 00,Plumbing(PS),"Apr 3, 2017",Inspection,15 CHARLES ST E
+0,22 110915 FSU 00,Fire/Security Upgrade,"Feb 7, 2022",Inspection,20 CHARLES ST E
+1,14 219091 HVA 01,Mechanical(MS),"Sep 30, 2016",Revision Issued,20 CHARLES ST E
+2,14 219091 BLD 00,Building Additions/Alterations,"Sep 9, 2014",Inspection,20 CHARLES ST E
+3,14 219091 HVA 00,Mechanical(MS),"Sep 9, 2014",Inspection,20 CHARLES ST E
+0,22 243128 HVA 00,Mechanical(MS),"Jan 5, 2023",Issuance Pending,25 CHARLES ST W
+1,22 243128 PLB 00,Plumbing(PS),"Jan 5, 2023",Issuance Pending,25 CHARLES ST W
+2,22 243128 BLD 00,Building Additions/Alterations,"Jan 3, 2023",Response Received,25 CHARLES ST W
+0,22 243128 HVA 00,Mechanical(MS),"Jan 5, 2023",Issuance Pending,35 CHARLES ST W
+1,22 243128 PLB 00,Plumbing(PS),"Jan 5, 2023",Issuance Pending,35 CHARLES ST W
+2,22 243128 BLD 00,Building Additions/Alterations,"Jan 3, 2023",Response Received,35 CHARLES ST W
+3,22 205862 BLD 00,Building Additions/Alterations,"Sep 20, 2022",Permit Issued,35 CHARLES ST W
+4,15 143994 FSU 00,Fire/Security Upgrade,"Apr 20, 2015",Inspection,35 CHARLES ST W
+0,16 162166 FSU 00,Fire/Security Upgrade,"May 26, 2016",Inspection,42 CHARLES ST E
+1,13 196215 STS 00,Drain and Site Service,"Mar 2, 2015",Inspection,42 CHARLES ST E
+2,13 196215 BLD 00,New Building,"Jul 10, 2013",Inspection,42 CHARLES ST E
+3,13 196215 HVA 00,Mechanical(MS),"Jul 10, 2013",Inspection,42 CHARLES ST E
+4,13 196215 PLB 00,Plumbing(PS),"Jul 10, 2013",Inspection,42 CHARLES ST E
+5,13 196215 DRN 00,Drain and Site Service,"Jul 10, 2013",Inspection,42 CHARLES ST E
+0,22 142817 BLD 00,Building Additions/Alterations,"May 13, 2022",Permit Issued,44 CHARLES ST W
+1,22 142817 HVA 00,Mechanical(MS),"May 13, 2022",Permit Issued,44 CHARLES ST W
+2,22 142817 PLB 00,Plumbing(PS),"May 13, 2022",Permit Issued,44 CHARLES ST W
+3,22 104795 BLD 00,Building Additions/Alterations,"Jan 19, 2022",Permit Issued,44 CHARLES ST W
+4,20 230594 BLD 00,Building Additions/Alterations,"Dec 18, 2020",Inspection,44 CHARLES ST W
+5,20 208951 BLD 00,Building Additions/Alterations,"Oct 23, 2020",Inspection,44 CHARLES ST W
+6,20 176213 BLD 00,Building Additions/Alterations,"Aug 5, 2020",Inspection,44 CHARLES ST W
+7,16 230957 HVA 00,Mechanical(MS),"Oct 21, 2016",Inspection,44 CHARLES ST W
+8,16 230957 PLB 00,Plumbing(PS),"Oct 21, 2016",Inspection,44 CHARLES ST W
+9,16 230957 BLD 00,Building Additions/Alterations,"Oct 17, 2016",Inspection,44 CHARLES ST W
+0,22 212843 BLD 00,Building Additions/Alterations,"Oct 6, 2022",Permit Issued,45 CHARLES ST E
+1,11 101340 BLD 03,New Building,"Dec 12, 2016",Revision Issued,45 CHARLES ST E
+2,11 101340 HVA 03,Mechanical(MS),"Dec 12, 2016",Revision Issued,45 CHARLES ST E
+3,11 101340 PLB 03,Plumbing(PS),"Dec 12, 2016",Revision Issued,45 CHARLES ST E
+4,11 101340 BLD 02,New Building,"Apr 1, 2014",Revision Issued,45 CHARLES ST E
+5,11 101340 HVA 02,Mechanical(MS),"Mar 24, 2014",Revision Issued,45 CHARLES ST E
+6,11 101340 PLB 02,Plumbing(PS),"Mar 21, 2014",Revision Issued,45 CHARLES ST E
+0,13 182954 PLB 00,Plumbing(PS),"Jun 6, 2013",Inspection,47 CHARLES ST W
+0,19 107784 BLD 00,Building Additions/Alterations,"Jan 24, 2019",Inspection,50 CHARLES ST E
+1,19 107784 HVA 00,Mechanical(MS),"Jan 24, 2019",Inspection,50 CHARLES ST E
+2,19 107784 PLB 00,Plumbing(PS),"Jan 24, 2019",Inspection,50 CHARLES ST E
+3,18 219789 HVA 00,Mechanical(MS),"Sep 25, 2018",Inspection,50 CHARLES ST E
+4,18 219789 PLB 01,Plumbing(PS),"Sep 21, 2018",Revision Issued,50 CHARLES ST E
+5,18 219789 BLD 00,Building Additions/Alterations,"Sep 5, 2018",Inspection,50 CHARLES ST E
+6,18 219789 PLB 00,Plumbing(PS),"Sep 5, 2018",Permit Issued,50 CHARLES ST E
+7,17 261926 FSU 00,Fire/Security Upgrade,"Nov 14, 2017",Permit Issued,50 CHARLES ST E
+0,21 143449 BLD 01,Building Additions/Alterations,"Oct 15, 2021",Revision Issued,50-60 CHARLES ST E
+1,21 143449 HVA 00,Mechanical(MS),"Apr 21, 2021",Inspection,50-60 CHARLES ST E
+2,21 143449 PLB 00,Plumbing(PS),"Apr 21, 2021",Inspection,50-60 CHARLES ST E
+3,21 143449 BLD 00,Building Additions/Alterations,"Apr 20, 2021",Inspection,50-60 CHARLES ST E
+4,14 232376 BLD 01,Building Additions/Alterations,"Jun 1, 2015",Revision Issued,50-60 CHARLES ST E
+5,14 253693 HVA 00,Mechanical(MS),"Nov 20, 2014",Inspection,50-60 CHARLES ST E
+6,14 253693 PLB 00,Plumbing(PS),"Nov 20, 2014",Inspection,50-60 CHARLES ST E
+7,14 253693 DRN 00,Drain and Site Service,"Nov 20, 2014",Inspection,50-60 CHARLES ST E
+8,14 253693 BLD 00,New Building,"Nov 19, 2014",Inspection,50-60 CHARLES ST E
+9,14 253693 STS 00,Drain and Site Service,"Nov 19, 2014",Permit Issued,50-60 CHARLES ST E
+10,14 251344 BLD 00,Building Additions/Alterations,"Nov 13, 2014",Permit Issued,50-60 CHARLES ST E
+11,14 232376 BLD 00,Building Additions/Alterations,"Oct 7, 2014",Inspection,50-60 CHARLES ST E
+0,22 138607 BLD 00,Building Additions/Alterations,"Apr 27, 2022",Inspection,55 CHARLES ST W
+1,22 138607 HVA 00,Mechanical(MS),"Apr 27, 2022",Inspection,55 CHARLES ST W
+2,22 138607 PLB 00,Plumbing(PS),"Apr 27, 2022",Inspection,55 CHARLES ST W
+3,15 227123 BLD 00,Building Additions/Alterations,"Sep 23, 2015",Permit Issued,55 CHARLES ST W
+4,14 165096 BLD 00,Building Additions/Alterations,"May 30, 2014",Inspection,55 CHARLES ST W
+0,19 198018 BLD 01,New Building,"Sep 28, 2022",Issuance Pending,55 CHARLES ST E
+1,19 198018 PLB 02,Plumbing(PS),"Sep 28, 2022",Revision Issued,55 CHARLES ST E
+2,19 198018 HVA 02,Mechanical(MS),"Sep 28, 2022",Revision Issued,55 CHARLES ST E
+3,19 198018 HVA 01,Mechanical(MS),"Jan 7, 2021",Revision Issued,55 CHARLES ST E
+4,19 198018 PLB 01,Plumbing(PS),"Jan 7, 2021",Revision Issued,55 CHARLES ST E
+5,20 168660 PSA 00,Plumbing(PS),"Jul 21, 2020",Permit Issued,55 CHARLES ST E
+6,19 198018 STS 00,Drain and Site Service,"Jun 15, 2020",Permit Issued,55 CHARLES ST E
+7,19 198018 DRN 00,Drain and Site Service,"Jun 12, 2020",Inspection,55 CHARLES ST E
+8,19 198018 BLD 00,New Building,"Jul 30, 2019",Inspection,55 CHARLES ST E
+9,19 198018 HVA 00,Mechanical(MS),"Jul 30, 2019",Inspection,55 CHARLES ST E
+10,19 198018 PLB 00,Plumbing(PS),"Jul 30, 2019",Inspection,55 CHARLES ST E
+0,20 191891 PSA 00,Plumbing(PS),"Sep 14, 2020",Permit Issued,57 CHARLES ST W
+1,19 257373 BLD 00,Building Additions/Alterations,"Jan 2, 2020",Inspection,57 CHARLES ST W
+2,19 257377 FSU 00,Fire/Security Upgrade,"Jan 2, 2020",Inspection,57 CHARLES ST W
+3,18 182948 BLD 00,Building Additions/Alterations,"Jun 22, 2018",Inspection,57 CHARLES ST W
+4,17 142644 HVA 00,Mechanical(MS),"Apr 12, 2017",Permit Issued,57 CHARLES ST W
+5,17 142644 PLB 00,Plumbing(PS),"Apr 12, 2017",Inspection,57 CHARLES ST W
+6,17 142644 BLD 00,Building Additions/Alterations,"Apr 11, 2017",Inspection,57 CHARLES ST W
+0,20 138983 BLD 00,Building Additions/Alterations,"Apr 27, 2020",Inspection,62 A CHARLES ST E
+1,18 111590 BLD 00,Building Additions/Alterations,"Jan 30, 2018",Permit Issued,62 A CHARLES ST E
+0,20 139007 BLD 00,Building Additions/Alterations,"Apr 27, 2020",Inspection,64 CHARLES ST E
+1,19 208057 BLD 00,Building Additions/Alterations,"Aug 19, 2019",Inspection,64 CHARLES ST E
+2,13 229003 HVA 00,Mechanical(MS),"Oct 17, 2013",Inspection,64 CHARLES ST E
+3,13 238403 FSU 00,Fire/Security Upgrade,"Sep 19, 2013",Examiner's Notice Sent,64 CHARLES ST E
+4,13 229003 BLD 00,Building Additions/Alterations,"Aug 30, 2013",Inspection,64 CHARLES ST E
+0,22 212061 BLD 00,Building Additions/Alterations,"Oct 11, 2022",Permit Issued,71 CHARLES ST E
+1,18 162941 PLB 00,Plumbing(PS),"May 23, 2018",Inspection,71 CHARLES ST E
+2,18 131010 BLD 00,Building Additions/Alterations,"Mar 20, 2018",Permit Issued,71 CHARLES ST E
+0,21 172930 MSA 00,Mechanical(MS),"Jun 22, 2021",Inspection,80 CHARLES ST E
+1,14 138004 FSU 00,Fire/Security Upgrade,"Apr 4, 2014",Inspection,80 CHARLES ST E
+0,15 163062 PSA 00,Plumbing(PS),"May 26, 2015",Permit Issued,80-88 CHARLES ST E
+0,23 109217 BLD 00,Small Residential Projects,"Feb 1, 2023",Examiner's Notice Sent,81 CHARLES ST E
+1,22 234493 BLD 00,Small Residential Projects,"Nov 30, 2022",Under Review,81 CHARLES ST E
+2,22 200556 BLD 00,Small Residential Projects,"Sep 9, 2022",Inspection,81 CHARLES ST E
+0,19 134911 TPS 00,Temporary Structures,"Apr 4, 2019",Permit Issued,89 CHARLES ST W
+0,21 144325 FSU 00,Fire/Security Upgrade,"Apr 26, 2021",Permit Issued,91 CHARLES ST W
+0,14 241873 MSA 00,Mechanical(MS),"Oct 27, 2014",Permit Issued,110 CHARLES ST E
+0,16 159518 HVA 01,Mechanical(MS),"Sep 7, 2016",Revision Issued,110 CHARLES ST W
+1,16 159518 HVA 00,Mechanical(MS),"May 24, 2016",Inspection,110 CHARLES ST W
+0,22 188609 BLD 01,Building Additions/Alterations,"Jan 20, 2023",Closed,355 CHURCH ST
+1,22 188609 BLD 00,Building Additions/Alterations,"Aug 12, 2022",Closed,355 CHURCH ST
+0,13 243000 PLB 00,Plumbing(PS),"Sep 30, 2013",Inspection,365 CHURCH ST
+1,13 243000 DRN 00,Drain and Site Service,"Sep 30, 2013",Inspection,365 CHURCH ST
+0,21 202717 HVA 00,Mechanical(MS),"Sep 17, 2021",Inspection,373 CHURCH ST
+1,21 202717 PLB 00,Plumbing(PS),"Sep 17, 2021",Inspection,373 CHURCH ST
+0,22 201418 BLD 00,Building Additions/Alterations,"Sep 12, 2022",Inspection,385 CHURCH ST
+1,22 201418 HVA 00,Mechanical(MS),"Sep 12, 2022",Inspection,385 CHURCH ST
+2,22 201418 PLB 00,Plumbing(PS),"Sep 12, 2022",Inspection,385 CHURCH ST
+3,21 239468 PLB 00,Plumbing(PS),"Dec 7, 2021",Permit Issued,385 CHURCH ST
+4,17 196819 MSA 00,Mechanical(MS),"Jul 12, 2017",Inspection,385 CHURCH ST
+0,23 121112 SGN 00,Sign Permit,"Mar 8, 2023",Under Review,396 CHURCH ST
+1,23 121112 DST 00,Designated Structures,"Mar 8, 2023",Examiner's Notice Sent,396 CHURCH ST
+0,22 131868 DST 00,Designated Structures,"Apr 11, 2022",Permit Issued,399 CHURCH ST
+1,22 131868 SGN 00,Sign Permit,"Apr 8, 2022",Permit Issued,399 CHURCH ST
+2,15 270729 PSA 00,Plumbing(PS),"Mar 7, 2016",Permit Issued,399 CHURCH ST
+0,22 149512 PLB 01,Plumbing(PS),"Mar 6, 2023",Revision Issued,411 CHURCH ST
+1,23 109268 SGN 00,Sign Permit,"Feb 1, 2023",Under Review,411 CHURCH ST
+2,23 109268 DST 00,Designated Structures,"Feb 1, 2023",Examiner's Notice Sent,411 CHURCH ST
+3,22 149512 BLD 00,Building Additions/Alterations,"May 20, 2022",Permit Issued,411 CHURCH ST
+4,22 149512 HVA 00,Mechanical(MS),"May 20, 2022",Permit Issued,411 CHURCH ST
+5,22 149512 PLB 00,Plumbing(PS),"May 20, 2022",Inspection,411 CHURCH ST
+6,21 107312 BLD 00,Building Additions/Alterations,"Jan 28, 2021",Inspection,411 CHURCH ST
+7,21 107312 HVA 00,Mechanical(MS),"Jan 28, 2021",Inspection,411 CHURCH ST
+8,21 107312 PLB 00,Plumbing(PS),"Jan 28, 2021",Inspection,411 CHURCH ST
+9,19 243719 PLB 01,Plumbing(PS),"Jan 22, 2020",Revision Issued,411 CHURCH ST
+10,19 243719 PLB 00,Plumbing(PS),"Oct 31, 2019",Inspection,411 CHURCH ST
+0,14 102767 BLD 00,Building Additions/Alterations,"Jan 9, 2014",Inspection,418 CHURCH ST
+0,20 116544 BLD 03,Building Additions/Alterations,"Sep 9, 2022",Revision Issued,436 CHURCH ST
+1,22 144490 BLD 00,Building Additions/Alterations,"May 19, 2022",Permit Issued,436 CHURCH ST
+2,22 144490 HVA 00,Mechanical(MS),"May 19, 2022",Permit Issued,436 CHURCH ST
+3,22 144490 PLB 00,Plumbing(PS),"May 19, 2022",Permit Issued,436 CHURCH ST
+4,20 116544 BLD 02,Building Additions/Alterations,"Apr 26, 2021",Revision Issued,436 CHURCH ST
+5,20 116544 BLD 01,Building Additions/Alterations,"Nov 5, 2020",Revision Issued,436 CHURCH ST
+6,20 116544 HVA 00,Mechanical(MS),"Mar 2, 2020",Inspection,436 CHURCH ST
+7,20 116544 BLD 00,Building Additions/Alterations,"Feb 20, 2020",Inspection,436 CHURCH ST
